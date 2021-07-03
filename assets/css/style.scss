@@ -85,14 +85,25 @@ header {
     text-align:center;
   }
   
-  .fork {
+  .homefork {
     position:fixed;
     left:50%;
     margin-left:-325px;
     padding: 10px 12px;
     margin-top: 6px;
     line-height:14px;
-    font-size:14px;
+    font-size:16px;
+    background-color: #FFE788;
+  }  
+
+  .groupfork {
+    position:fixed;
+    left:50%;
+    margin-left:-405px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:16px;
     background-color: #FFE788;
   }  
 }
@@ -126,7 +137,16 @@ section {
   #banner {
     top: 80px;
 
-    .fork {
+    .homefork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:20px;
+
+      }
+
+    .groupfork {
       float: left;
       display: inline-block;
       margin-left: 0px;
