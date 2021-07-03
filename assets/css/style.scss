@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 
+#banner{
   #logo {
     position:absolute;
     height: 36px;
@@ -12,3 +13,4 @@
     display: block;
     background: url(../images/octocat-logo.png);
   }
+}
