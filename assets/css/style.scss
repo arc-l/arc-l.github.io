@@ -55,12 +55,10 @@ header {
   background: #808B96;
   border: 1px solid  #566573;
 
-  .button {
-    border: 0px;
+  .home {
+    border: 1px solid #566573;
     background: #808B96;
     border-radius: 2px;
-    box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #808B96;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -70,11 +68,21 @@ header {
     font-weight: bold;
     display:inline-block;
     text-align:center;
-
-    &:hover {
-      background: linear-gradient(rgb(255, 231, 136), rgb(255, 231, 136));
-      background-color: #808B96;
-    }
+  }
+  
+  .group {
+    border: 1px solid #566573;
+    background: #808B96;
+    border-radius: 2px;
+    margin-left: 5px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:14px;
+    color:#333;
+    font-weight: bold;
+    display:inline-block;
+    text-align:center;
   }
 }
 
