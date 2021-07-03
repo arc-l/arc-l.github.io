@@ -204,7 +204,7 @@ footer{
   }
 
   header{
-    position: relative;
+    position: fixed;
     padding: 5px 0px;
     min-height: 0px;
 
@@ -218,14 +218,14 @@ footer{
     }
   }
   section {
-    margin-top: 5px;
+    margin-top: 85px;
   }
 
   #banner { 
     #logo{
       display: none;
     }
-    top: 30px;
+    top: 40px;
     display: inline;
   }  
   header ul {
