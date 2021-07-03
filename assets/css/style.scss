@@ -106,6 +106,28 @@ header {
     font-size:16px;
     background-color: #FFE788;
   }  
+
+  .resfork {
+    position:fixed;
+    left:50%;
+    margin-left:-165px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:16px;
+    background-color: #FFE788;
+  }  
+
+  .pubfork {
+    position:fixed;
+    left:50%;
+    margin-left:-65px;
+    padding: 10px 12px;
+    margin-top: 6px;
+    line-height:14px;
+    font-size:16px;
+    background-color: #FFE788;
+  }  
 }
 
 
@@ -151,10 +173,25 @@ section {
       display: inline-block;
       margin-left: 0px;
     position:fixed;
-    left:20px;
-
+    left:90px;
       }
-  }
+
+   .resfork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:160px;
+      }
+
+    .pubfork {
+      float: left;
+      display: inline-block;
+      margin-left: 0px;
+    position:fixed;
+    left:250px;
+      }
+}
 
   section {
     margin-top: 130px;
