@@ -1,0 +1,14 @@
+# Belongs at: /_data/navigation.yml
+
+- title: Home
+  url: /
+
+- title: Group
+  url: /group.md
+  
+- title: Research
+  url: /research.md
+  
+- title: Pub
+  url: /pub.md
+ 
