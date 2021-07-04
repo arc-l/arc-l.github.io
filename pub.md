@@ -33,3 +33,14 @@ number={},<br>
 pages={2331-2338},<br> 
 doi={10.1109/ROBOT.2008.4543562}}<br>" 
 %}
+
+<p id='YuLav08ICRA' style='display:none;' value='+'>@INPROCEEDINGS{YuLav08ICRA,
+author={Jingjin Yu and LaValle, Steven M.},
+booktitle={2008 IEEE International Conference on Robotics and Automation},
+title={Tracking hidden agents through shadow information spaces},
+year={2008},
+volume={},
+number={},
+pages={2331-2338},
+doi={10.1109/ROBOT.2008.4543562}}
+</p>
