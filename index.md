@@ -1,6 +1,7 @@
 <div style="text-align: right">
-  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue"><strong>Google Scholar</strong></span></a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>
+  <a href="https://github.com/arc-l"><span style="color:blue"><strong>Code on Github</strong></span></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue"><strong>Google Scholar</strong></span></a>&nbsp;&nbsp;
 </div>
 
 ### New website under construction. Check back later! 
