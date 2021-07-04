@@ -16,40 +16,6 @@ function sv(id) {
 
 ## 2019
 
-
-{% 
-include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
-%}
-
-
-{% 
-include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
-%}
-
-
-{% 
-include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
-%}
-
-
 ## 2018
 
 {% 
@@ -101,8 +67,7 @@ p_bib="@inproceedings{Yu18RSS,<br>
 Title = {Constant-Factor Time-Optimal Multi-Robot Routing on High-Dimensional Grids},<br>
 Author = {Jingjin Yu},<br>
 Booktitle = RSS,<br>
-Year = {2018}<br>
-}" 
+Year = {2018}<br>}" 
 %}
 
 
@@ -146,8 +111,7 @@ address="Cham",<br>
 pages="495--511",<br>
 isbn="978-3-319-51532-8",<br>
 doi="10.1007/978-3-319-51532-8_30",<br>
-url="https://doi.org/10.1007/978-3-319-51532-8_30"<br>
-}" 
+url={https://doi.org/10.1007/978-3-319-51532-8_30}<br>}" 
 %}
 
 ## 2017
