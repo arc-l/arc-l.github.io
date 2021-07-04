@@ -654,7 +654,7 @@ p_bib="@article{Yu16RAL,<br>
   doi={10.1109/LRA.2015.2503143}}" 
 %}
 
-## 2015 and before 
+## - 2015
 
 {% 
 include cite.html 
