@@ -1,1 +1,1 @@
-{% include image.html url="/images/my-cat.jpg" description="My cat, Robert Downey Jr." %}
+{% include image.html url="/assets/images/jingjin.png" description="Dr. Jingjin Yu, Lab Director" %}
