@@ -172,11 +172,11 @@ p_bib="@inproceedings{YuAslKarRus15IROS,<br>
 {% 
 include cite.html 
 p_title="Motion Planning for Unlabeled Discs with Optimality Guarantees" 
-p_id="SolYu15" 
+p_id="SolYuZamHal15RSS" 
 p_author="K. Solovey, J. Yu, O. Zamir, and D. Halperin" 
 p_venue="2015 Robotics: Science and Systems (RSS 2015)" 
-p_pdf="files/SolYu15.pdf" 
-p_bib="@InProceedings{SolYu15,<br>
+p_pdf="files/SolYuZamHal15RSS.pdf" 
+p_bib="@InProceedings{SolYuZamHal15RSS,<br>
   Title                    = {Motion Planning for Unlabeled Discs with Optimality Guarantees},<br>
   Author                   = {Kiril Solovey and Jingjin Yu and Or Zamir and Dan Halperin},<br>
   Booktitle                = RSS,<br>
