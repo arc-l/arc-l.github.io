@@ -22,6 +22,58 @@ function sv(id) {
 
 ## 2015 and before 
 
+
+
+{% 
+include cite.html 
+p_title="Rendezvous without Coordinates" 
+p_id="YuLavLib12TAC" 
+p_author="J. Yu, S. M. LaValle, and D. Liberzon" 
+p_venue="IEEE Transactions on Automatic Control, 57(2), page(s): 421-434, Feb 2012" 
+p_pdf="files/YuLavLib12TAC.pdf" 
+p_bib="@Article{YuLavLib12TAC,<br>
+  author={Yu, Jingjin and LaValle, Steven M. and Liberzon, Daniel},<br>
+  journal={IEEE Transactions on Automatic Control},<br> 
+  title={Rendezvous Without Coordinates},<br> 
+  year={2012},<br>
+  volume={57},<br>
+  number={2},<br>
+  pages={421-434},<br>
+  doi={10.1109/TAC.2011.2158172}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Time Optimal Multi-agent Path Planning on Graphs" 
+p_id="YuLav12AAAIWOMP" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="The First AAAI Workshop on Multiagent Pathfinding (WoMP 2012)" 
+p_pdf="files/YuLav12AAAIWOMP.pdf" 
+p_bib="@inproceedings{YuLav12AAAIWOMP,<br>
+author = {Jingjin Yu and Steven M. LaValle},<br>
+title = {Time Optimal Multi-agent Path Planning on Graphs},<br>
+booktitle={The First AAAI Workshop on Multiagent Pathfinding (WoMP)},<br>
+year={2012}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Story Validation and Approximate Path Inference with a Sparse Network of Heterogeneous Sensors" 
+p_id="YuLav11ICRA" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="2011 IEEE International Conference on Robotics and Automation (ICRA 2011)" 
+p_pdf="files/YuLav11ICRA.pdf" 
+p_bib="@InProceedings{YuLav11ICRA,<br>
+  author={Yu, Jingjin and LaValle, Steven M.},<br>
+  booktitle={2011 IEEE International Conference on Robotics and Automation}, <br>
+  title={Story validation and approximate path inference with a sparse network of heterogeneous sensors},<br> 
+  year={2011},<br>
+  volume={},<br>
+  number={},<br>
+  pages={4980-4985},<br>
+  doi={10.1109/ICRA.2011.5979827}}" 
+%}
+
 {% 
 include cite.html 
 p_title="Cyber Detectives: Determining When Robots or People Misbehave" 
