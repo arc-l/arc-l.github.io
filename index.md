@@ -1,5 +1,5 @@
 <div style="text-align: right">
-  <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>&nbsp;&nbsp;
+  <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a>&nbsp;&nbsp;
   <a href="https://github.com/arc-l"><span style="color:blue"><strong>Code on Github</strong></span></a>&nbsp;&nbsp;
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue"><strong>Google Scholar</strong></span></a>
 </div>
