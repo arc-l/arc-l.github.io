@@ -14,39 +14,106 @@ function sv(id) {
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
 ## 2019
 
-
 {% 
 include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
+p_title="Taming Combinatorial Challenges in Clutter Removal" 
+p_id="TanYu19ISRR" 
+p_author="W. N. Tang and J. Yu" 
+p_venue="2019 International Symposium on Robotics Research (ISRR 2019)" 
+p_pdf="files/TanYu19ISRR.pdf" 
+p_bib="@inproceedings{TanYu19ISRR,<br>
+  title={Taming Combinatorial Challenges in Optimal Clutter Removal Tasks},<br>
+  author={Tang, Wei N. and Yu, Jingjin},<br>
+  Booktitle = ISRR,<br>
+  Year = {2019}}" 
 %}
 
 
 {% 
 include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
+p_title="Integer Programming as a General Solution Methodology for Path-Based Optimization in Robotics: Principles, Best Practices, and Applications" 
+p_id="HanYu19IROS" 
+p_author="S. D. Han and J. Yu" 
+p_venue="2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2019)" 
+p_award="Best Student Paper Finalist and Best Application Paper Finalist" 
+p_pdf="files/HanYu19IROS.pdf" 
+p_bib="@InProceedings{HanYu19IROS,<br>
+  author={Han, Shuai D. and Yu, Jingjin},<br>
+  booktitle={2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, <br>
+  title={Integer Programming as a General Solution Methodology for Path-Based Optimization in Robotics: Principles, Best Practices, and Applications},<br> 
+  year={2019},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1890-1897},<br>
+  doi={10.1109/IROS40897.2019.8968479}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Average Case Constant Factor Time and Distance Optimal Multi-Robot Path Planning in Well-Connected Environments" 
+p_id="Yu19AR" 
+p_author="J. Yu" 
+p_venue="Autonomous Robots 44, no. 3 (2020): 469-483" 
+p_pdf="files/Yu19AR.pdf" 
+p_bib="@article{Yu19AR,<br>
+  title={Average Case Constant Factor Time and Distance Optimal Multi-Robot Path Planning in Well-Connected Environments},<br>
+  author={Yu, Jingjin},<br>
+  journal={Autonomous Robots},<br>
+  volume={44},<br>
+  number={3},<br>
+  pages={469--483},<br>
+  year={2020},<br>
+  publisher={Springer}<br>
+}" 
 %}
 
 
 {% 
 include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
+p_title="Efficient Algorithms for Optimal Perimeter Guarding" 
+p_id="FenHanGaoYu19RSS" 
+p_author="S. W. Feng, S. D. Han, K. Gao, and J. Yu" 
+p_venue="2019 Robotics: Science and Systems (RSS 2019)" 
+p_pdf="files/FenHanGaoYu19RSS.pdf" 
+p_bib="@inproceedings{FenHanGaoYu19RSS,<br>
+Title = {Efficient Algorithms for Optimal Perimeter Guarding},<br>
+author={Feng, Si Wei and Han, Shuai D. and Gao, Kai and Yu, Jingjin},<br>
+Booktitle = RSS,<br>
+Year = {2019}<br>
+}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Towards Robust Product Packing with a Minimalistic End-Effector" 
+p_id="ShoTanSonMitKouYuBouBek19ICRA" 
+p_author="R. Shome*, W. N. Tang*, C. Song, C. Mitash, H. Kourtev, J. Yu, A. Boularias, and K. E. Bekris" 
+p_venue="2019 IEEE International Conference on Robotics and Automation (ICRA 2019)" 
+p_award="Best Automation Paper Finalist"
+p_pdf="files/ShoTanSonMitKouYuBouBek19ICRA.pdf" 
+p_bib="@inproceedings{ShoTanSonMitKouYuBouBek19ICRA,<br>
+  author={Shome, Rahul and Tang, Wei N. and Song, Changkyu and Mitash, Chaitanya and Kourtev, Hristiyan and Yu, Jingjin and Boularias, Abdeslam and Bekris, Kostas E.},<br>
+  booktitle={2019 International Conference on Robotics and Automation (ICRA)}, <br>
+  title={Towards Robust Product Packing with a Minimalistic End-Effector},<br> 
+  year={2019},<br>
+  volume={},<br>
+  number={},<br>
+  pages={9007-9013},<br>
+  doi={10.1109/ICRA.2019.8793966}}" 
 %}
 
 ## 2018
@@ -178,6 +245,7 @@ p_title="High-Quality Tabletop Rearrangement with Overhand Grasps: Hardness Resu
 p_id="HanStiKroBekYu17RSS" 
 p_author="S. D. Han, N. Stiffler, A. Krontiris, K. Bekris, and J. Yu" 
 p_venue="2017 Robotics: Science and Systems (RSS 2017)" 
+p_award="Best Student Paper Finalist"
 p_pdf="files/HanStiKroBekYu17RSS.pdf" 
 p_bib="@inproceedings{HanStiKroBekYu17RSS,<br>
 Title = {High-Quality Tabletop Rearrangement with Overhand Grasps: Hardness Results and Fast Methods},<br>
