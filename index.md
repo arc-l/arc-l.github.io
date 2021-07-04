@@ -9,7 +9,7 @@
 **06/2021** - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
 **05/2021** - Two papers accepted by RSS 2021. <br>
 **04/2021** - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
-**03/2021** - We received an Amazon gift supporting our research on multi-robot motion planning. <br>
+**03/2021** - Dr. Yu received an Amazon gift supporting our research on multi-robot motion planning. <br>
 **02/2021** - Four papers accepted by ICRA 2021. <br>
 **11/2020** - We are releasing an android game, <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="PS">Pebbles</a>, 
 based on motion models from our research on multi-robot motion planning and the 15-puzzle. You can directly download the <a href="http://arc.cs.rutgers.edu/files/pebbles.apk" target="_M">apk</a>.
