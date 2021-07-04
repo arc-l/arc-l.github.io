@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+h2 {
+  color: #802800;
+}
+
+h3 {
+  color: #602800;
+}
+
 #banner{
   #logo {
     position:absolute;
