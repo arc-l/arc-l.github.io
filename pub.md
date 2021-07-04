@@ -38,16 +38,6 @@ p_bib="@inproceedings{Yu17MRS,<br>
 
 {% 
 include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
-%}
-
-{% 
-include cite.html 
 p_title="Freeze Tag Awakening in 2D is NP-Hard" 
 p_id="AbeAkiYu17FWCG" 
 p_author="Z. Abel, H. Akitaya, and J. Yu" 
