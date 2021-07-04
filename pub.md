@@ -91,6 +91,26 @@ p_bib="@article{HanStiBekYu18RAL,<br>
   note = {Note: presented at ICRA 2018}}" 
 %}
 
+{% 
+include cite.html 
+p_title="An Effective Algorithmic Framework for Near Optimal Multi-Robot Path Planning" 
+p_id="YuRus2018RR" 
+p_author="J. Yu and D. Rus" 
+p_venue="Bicchi A., Burgard W. (eds), Robotics Research, vol 1, pp 495-511, 2018" 
+p_pdf="files/YuRus15ISRR.pdf" 
+p_bib="@incollection{YuRus2018RR,<br>
+author={Yu, Jingjin and Rus, Daniela},<br>
+editor={Bicchi, Antonio and Burgard, Wolfram},<br>
+title={An Effective Algorithmic Framework for Near Optimal Multi-robot Path Planning},<br>
+bookTitle={Robotics Research: Volume 1},<br>
+year=2018,<br>
+publisher={Springer International Publishing},<br>
+address={Cham},<br>
+pages={495--511},<br>
+isbn={978-3-319-51532-8},<br>
+doi={10.1007/978-3-319-51532-8_30}}" 
+%}
+
 ## 2017
 
 {% 
