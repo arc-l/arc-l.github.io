@@ -3,7 +3,7 @@
   <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>
 </div>
 
-### New lab website under construction. Check back later! 
+### New website under construction. Check back later! 
 
 **07/2021** - One paper accepted by IROS 2021. <br>
 **06/2021** - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
