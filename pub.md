@@ -193,15 +193,15 @@ p_author="M. Szegedy and J. Yu"
 p_venue="Algorithmic Foundations of Robotics XIV, Springer Proceedings in Advanced Robotics (SPAR), page(s): 518-833, 2021. Presented at WAFR 2020" 
 p_pdf="https://arxiv.org/pdf/2002.04979.pdf" 
 p_bib="@InProceedings{SzeYu21SPAR,<br>
-author="Szegedy, Mario and Yu, Jingjin",<br>
-editor="LaValle, Steven M. and Lin, Ming and Ojala, Timo and Shell, Dylan and Yu, Jingjin",<br>
-title="On Rearrangement of Items Stored in Stacks",<br>
-booktitle="Algorithmic Foundations of Robotics XIV",<br>
-year="2021",<br>
-publisher="Springer International Publishing",<br>
-address="Cham",<br>
-pages="518--533",<br>
-isbn="978-3-030-66723-8"<br>
+author={Szegedy, Mario and Yu, Jingjin},<br>
+editor={LaValle, Steven M. and Lin, Ming and Ojala, Timo and Shell, Dylan and Yu, Jingjin},<br>
+title={On Rearrangement of Items Stored in Stacks},<br>
+booktitle={Algorithmic Foundations of Robotics XIV},<br>
+year={2021},<br>
+publisher={Springer International Publishing},<br>
+address={Cham},<br>
+pages={518--533},<br>
+isbn={978-3-030-66723-8}<br>
 }" 
 %}
 
@@ -302,15 +302,15 @@ p_author="R. Chinta, S. D. Han and J. Yu"
 p_venue="Algorithmic Foundations of Robotics XIII, Springer Proceedings in Advanced Robotics (SPAR), page(s): 817-834, 2020. Presented at WAFR 2018" 
 p_pdf="files/ChiHanYu20SPAR.pdf" 
 p_bib="@InProceedings{ChiHanYu20SPAR,<br>
-author="Chinta, Rupesh and Han, Shuai D. and Yu, Jingjin",<br>
-editor="Morales, Marco and Tapia, Lydia and S{\'a}nchez-Ante, Gildardo and Hutchinson, Seth",<br>
-title="Coordinating the Motion of Labeled Discs with Optimality Guarantees under Extreme Density",<br>
-booktitle="Algorithmic Foundations of Robotics XIII",<br>
-year="2020",<br>
+author={Chinta, Rupesh and Han, Shuai D. and Yu, Jingjin},<br>
+editor={Morales, Marco and Tapia, Lydia and S{\'a}nchez-Ante, Gildardo and Hutchinson, Seth},<br>
+title={Coordinating the Motion of Labeled Discs with Optimality Guarantees under Extreme Density},<br>
+booktitle={Algorithmic Foundations of Robotics XIII},<br>
+year={2020},<br>
 publisher="Springer International Publishing",<br>
-address="Cham",<br>
-pages="817--834",<br>
-isbn="978-3-030-44051-0"<br>
+address={Cham},<br>
+pages={817--834},<br>
+isbn={978-3-030-44051-0}<br>
 }" 
 %}
 
@@ -322,15 +322,15 @@ p_author="R. Shome, K. Solovey, J. Yu, D. Halperin and K. Bekris"
 p_venue="Algorithmic Foundations of Robotics XIII, Springer Proceedings in Advanced Robotics (SPAR), page(s): 778-795, 2020. Presented at WAFR 2018" 
 p_pdf="files/ShoSolYuHalBek20SPAR.pdf" 
 p_bib="@InProceedings{ShoSolYuHalBek20SPAR,<br>
-author="Shome, Rahul and Solovey, Kiril and Yu, Jingjin and Bekris, Kostas and Halperin, Dan",<br>
-editor="Morales, Marco and Tapia, Lydia and S{\'a}nchez-Ante, Gildardo and Hutchinson, Seth",<br>
-title="Fast, High-Quality Dual-Arm Rearrangement in Synchronous, Monotone Tabletop Setups",<br>
-booktitle="Algorithmic Foundations of Robotics XIII",<br>
-year="2020",<br>
-publisher="Springer International Publishing",<br>
-address="Cham",<br>
-pages="778--795",<br>
-isbn="978-3-030-44051-0"}" 
+author={Shome, Rahul and Solovey, Kiril and Yu, Jingjin and Bekris, Kostas and Halperin, Dan},<br>
+editor={Morales, Marco and Tapia, Lydia and S{\'a}nchez-Ante, Gildardo and Hutchinson, Seth},<br>
+title={Fast, High-Quality Dual-Arm Rearrangement in Synchronous, Monotone Tabletop Setups},<br>
+booktitle={Algorithmic Foundations of Robotics XIII},<br>
+year={2020},<br>
+publisher={Springer International Publishing},<br>
+address={Cham},<br>
+pages={778--795},<br>
+isbn={978-3-030-44051-0}}" 
 %}
 
 ## 2019
