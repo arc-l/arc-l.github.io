@@ -20,6 +20,78 @@ function sv(id) {
 
 AbeAkiYu17FWCG
 
+https://arxiv.org/pdf/1706.07255.pdf
+
+{% 
+include cite.html 
+p_title="Expected Constant-Factor Optimal Multi-Robot Path Planning in Well-Connected Environments" 
+p_id="Yu17MRS" 
+p_author="J. Yu" 
+p_venue="The 1st International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2017)" 
+p_pdf="files/Yu17MRS.pdf" 
+p_bib="@inproceedings{Yu17MRS,<br>
+  author={Yu, Jingjin},<br>
+  booktitle={2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)}, <br>
+  title={Expected constant-factor optimal multi-robot path planning in well-connected environments},<br> 
+  year={2017},<br>
+  volume={},<br>
+  number={},<br>
+  pages={48-55},<br>
+  doi={10.1109/MRS.2017.8250930}}" 
+%}
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+{% 
+include cite.html 
+p_title="Freeze Tag Awakening in 2D is NP-Hard" 
+p_id="AbeAkiYu17FWCG" 
+p_author="Z. Abel, H. Akitaya, and J. Yu" 
+p_venue="27th Annual Fall Workshop on Computational Geometry (FWCG 2017)" 
+p_pdf="files/AbeAkiYu17FWCG.pdf" 
+%}
+
+{% 
+include cite.html 
+p_title="High-Quality Tabletop Rearrangement with Overhand Grasps: Hardness Results and Fast Methods" 
+p_id="HanStiKroBekYu17RSS" 
+p_author="S. D. Han, N. Stiffler, A. Krontiris, K. Bekris, and J. Yu" 
+p_venue="2017 Robotics: Science and Systems (RSS 2017)" 
+p_pdf="files/HanStiKroBekYu17RSS.pdf" 
+p_bib="@inproceedings{HanStiKroBekYu17RSS,<br>
+Title = {High-Quality Tabletop Rearrangement with Overhand Grasps: Hardness Results and Fast Methods},<br>
+Author = {Shuai D. Han and Nicholas M. Stiffler and Athansios Krontiris and Kostas E. Bekris and Jingjin Yu},<br>
+Booktitle = RSS,<br>
+Year = {2017},<br>
+Note = {\textbf{Best Student Paper Finalist}}}" 
+%}
+
+{% 
+include cite.html 
+p_title="A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education" 
+p_id="YuHanTanRus17ICRA" 
+p_author="J. Yu, S. D. Han, W. N. Tang and D. Rus" 
+p_venue="2017 IEEE International Conference on Robotics and Automation (ICRA 2017)" 
+p_pdf="files/YuHanTanRus17ICRA.pdf" 
+p_bib="@inproceedings{YuHanTanRus17ICRA,<br>
+  author={Yu, Jingjin and Han, Shuai D. and Tang, Wei N. and Rus, Daniela},<br>
+  booktitle={2017 IEEE International Conference on Robotics and Automation (ICRA)}, <br>
+  title={A portable, 3D-printing enabled multi-vehicle platform for robotics research and education},<br> 
+  year={2017},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1475-1480},<br>
+  doi={10.1109/ICRA.2017.7989176}}" 
+%}
+
 ## 2016
 
 {% 
@@ -27,7 +99,7 @@ include cite.html
 p_title="Optimal Multi-Robot Path Planning on Graphs: Complete Algorithms and Effective Heuristics" 
 p_id="YuLav16TOR" 
 p_author="J. Yu and S. M. LaValle" 
-p_venue="IEEE Transactions on Robotics</em>, 32(5), page(s): 1163 - 1177, 2016" 
+p_venue="IEEE Transactions on Robotics, 32(5), page(s): 1163 - 1177, 2016" 
 p_pdf="files/YuLav16TOR.pdf" 
 p_bib="@Article{YuLav16TOR,<br>
   author={Yu, Jingjin and LaValle, Steven M.},<br>
@@ -59,7 +131,7 @@ include cite.html
 p_title="Correlated Orienteering Problem and its Application to Persistent Monitoring Tasks" 
 p_id="YuSchRus16TOR" 
 p_author="J. Yu, M. Schwager, and D. Rus" 
-p_venue="IEEE Transactions on Robotics</em>, 32(5), page(s): 1106 - 1118, 2016" 
+p_venue="IEEE Transactions on Robotics, 32(5), page(s): 1106 - 1118, 2016" 
 p_pdf="files/YuSchRus16TOR.pdf" 
 p_bib="@article{YuSchRus16TOR, <br>
   author={Yu, Jingjin and Schwager, Mac and Rus, Daniela},<br>
@@ -130,7 +202,7 @@ include cite.html
 p_title="Persistent Monitoring of Events with Stochastic Arrivals at Multiple Stations" 
 p_id="YuKarRus15TOR" 
 p_author="J. Yu, S. Karaman, and D. Rus" 
-p_venue="IEEE Transactions on Robotics</em>, 31(3), page(s): 521-535, 2015" 
+p_venue="IEEE Transactions on Robotics, 31(3), page(s): 521-535, 2015" 
 p_pdf="files/YuKarRus15TOR.pdf" 
 p_bib="@Article{YuKarRus15TOR,<br>
   author={Yu, Jingjin and Karaman, Sertac and Rus, Daniela},<br>
@@ -165,7 +237,7 @@ include cite.html
 p_title="Target Assignment in Robotic Networks: Distance Optimality Guarantees and Hierarchical Strategies" 
 p_id="YuChuVou15TAC" 
 p_author="J. Yu, S.-J. Chung, and P. G. Voulgaris" 
-p_venue="IEEE Transactions on Automatic Control</em>, 60(2), page(s): 327-341, 2015" 
+p_venue="IEEE Transactions on Automatic Control, 60(2), page(s): 327-341, 2015" 
 p_pdf="files/YuChuVou15TAC.pdf" 
 p_bib="@Article{YuChuVou15TAC,<br>
   author={Yu, Jingjin and Chung, Soon-Jo and Voulgaris, Petros G.},<br>
