@@ -8,6 +8,7 @@ Publications
 {% 
 include cite.html p_title="Tracking hidden agents through shadow information spaces"  
 p_author="J. Yu and S. M. LaValle"
+p_venue="The 2008 IEEE International Conference on Robotics and Automation (ICRA 2008)"
 p_pdf="files/YuLav08ICRA.pdf"
 p_bib="@INPROCEEDINGS{YuLav08ICRA,<br>
 author={Jingjin Yu and LaValle, Steven M.},<br>
