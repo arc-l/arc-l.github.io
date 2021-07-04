@@ -18,17 +18,13 @@ function sv(id) {
 
 ## 2017
 
-AbeAkiYu17FWCG
-
-https://arxiv.org/pdf/1706.07255.pdf
-
 {% 
 include cite.html 
 p_title="Expected Constant-Factor Optimal Multi-Robot Path Planning in Well-Connected Environments" 
 p_id="Yu17MRS" 
 p_author="J. Yu" 
 p_venue="The 1st International Symposium on Multi-Robot and Multi-Agent Systems (MRS 2017)" 
-p_pdf="files/Yu17MRS.pdf" 
+p_pdf="https://arxiv.org/pdf/1706.07255.pdf" 
 p_bib="@inproceedings{Yu17MRS,<br>
   author={Yu, Jingjin},<br>
   booktitle={2017 International Symposium on Multi-Robot and Multi-Agent Systems (MRS)}, <br>
