@@ -39,7 +39,7 @@ iOS version will follow.<br>
 **06/2018** - One paper accepted by IROS 2018.<br>
 **05/2018** - Our extended RSS 2017 work is accepted by IJRR.<br>
 **04/2018** - One paper accepted by RSS 2018.<br>
-**01/2018** - Dr. Yu started working on a warehouse automation project (sponsored by JD.com) with colleagues  Kostas Bekris and Abdeslam Boularias.<br>   
+**01/2018** - Dr. Yu started working on a warehouse automation project (sponsored by JD.com) with colleagues  Kostas Bekris and Abdeslam Boularias.<br>
 **01/2018** - One paper accepted by RAL/ICRA 2018.<br>
 **09/2017** - Dr. Yu started an NSF NRI project on demand-driven multi-robot path and motion planning.<br>
 **09/2017** - One paper accepted by MRS 2017.<br>
