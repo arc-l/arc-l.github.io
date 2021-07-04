@@ -22,7 +22,112 @@ function sv(id) {
 
 ## 2015 and before 
 
+{% 
+include cite.html 
+p_title="Persistent Monitoring of Events with Stochastic Arrivals at Multiple Stations" 
+p_id="YuKarRus15TOR" 
+p_author="J. Yu, S. Karaman, and D. Rus" 
+p_venue="IEEE Transactions on Robotics</em>, 31(3), page(s): 521-535, 2015" 
+p_pdf="files/YuKarRus15TOR.pdf" 
+p_bib="@Article{YuKarRus15TOR,<br>
+  author={Yu, Jingjin and Karaman, Sertac and Rus, Daniela},<br>
+  journal={IEEE Transactions on Robotics}, <br>
+  title={Persistent Monitoring of Events With Stochastic Arrivals at Multiple Stations},<br> 
+  year={2015},<br>
+  volume={31},<br>
+  number={3},<br>
+  pages={521-535},<br>
+  doi={10.1109/TRO.2015.2409453}}" 
+%}
 
+{% 
+include cite.html 
+p_title="Pebble Motion on Graphs with Rotations: Efficient Feasibility Tests and Planning Algorithms" 
+p_id="YuRus15STAR" 
+p_author="J. Yu and Daniela Rus" 
+p_venue="Algorithmic Foundations of Robotics XI, Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015" 
+p_pdf="files/YuRus15STAR.pdf" 
+p_bib="@incollection{YuRus15STAR,<br>
+  author = {J. Yu and D. Rus},<br>
+  title = {Pebble Motion on Graphs with Rotations: Efficient Feasibility Tests and Planning Algorithms},<br>
+  booktitle={Algorithmic Foundations of Robotics XI, Springer Tracts in Advanced Robotics (STAR)},<br>
+  volume=107,<br>
+  publisher = {Springer Berlin/Heidelberg},<br>
+  pages={729-746}, <br>
+  year={2015}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Target Assignment in Robotic Networks: Distance Optimality Guarantees and Hierarchical Strategies" 
+p_id="YuChuVou15TAC" 
+p_author="J. Yu, S.-J. Chung, and P. G. Voulgaris" 
+p_venue="IEEE Transactions on Automatic Control</em>, 60(2), page(s): 327-341, 2015" 
+p_pdf="files/YuChuVou15TAC.pdf" 
+p_bib="@Article{YuChuVou15TAC,<br>
+  author={Yu, Jingjin and Chung, Soon-Jo and Voulgaris, Petros G.},<br>
+  journal={IEEE Transactions on Automatic Control}, <br>
+  title={Target Assignment in Robotic Networks: Distance Optimality Guarantees and Hierarchical Strategies},<br> 
+  year={2015},<br>
+  volume={60},<br>
+  number={2},<br>
+  pages={327-341},<br>
+  doi={10.1109/TAC.2014.2344291}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Correlated Orienteering Problem and its Application to Informative Path Planning for Persistent Monitoring Tasks" 
+p_id="YuSchRus14IROS" 
+p_author="J. Yu, M. Schwager, and D. Rus" 
+p_venue="2014 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2014)" 
+p_pdf="files/YuSchRus14IROS.pdf" 
+p_bib="@InProceedings{YuSchRus14IROS,<br>
+  author={Yu, Jingjin and Schwager, Mac and Rus, Daniela},<br>
+  booktitle={2014 IEEE/RSJ International Conference on Intelligent Robots and Systems}, <br>
+  title={Correlated Orienteering Problem and its application to informative path planning for persistent monitoring tasks},<br> 
+  year={2014},<br>
+  volume={},<br>
+  number={},<br>
+  pages={342-349},<br>
+  doi={10.1109/IROS.2014.6942582}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Traveled Distance Minimization and Hierarchical Strategies for Robotic Networks" 
+p_id="YuChuVou14ISCCSP" 
+p_author="J. Yu, S.-J. Chung, and P. G. Voulgaris" 
+p_venue="6th International Symposium on Communications, Control, and Signal Processing (ISCCSP), 2014, invited" 
+p_pdf="files/YuChuVou14ISCCSP.pdf" 
+p_bib="@InProceedings{YuChuVou14ISCCSP,<br>
+  author={Yu, Jingjin and Chung, Soon-Jo and Voulgaris, Petros G.},<br>
+  booktitle={2014 6th International Symposium on Communications, Control and Signal Processing (ISCCSP)},<br> 
+  title={Traveled distance minimization and hierarchical strategies for robotic networks},<br> 
+  year={2014},<br>
+  volume={},<br>
+  number={},<br>
+  pages={491-496},<br>
+  doi={10.1109/ISCCSP.2014.6877920}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Persistent Monitoring of Events with Stochastic Arrivals at Multiple Stations" 
+p_id="YuKarRus14ICRA" 
+p_author="J. Yu, S. Karaman, and D. Rus" 
+p_venue="2014 IEEE International Conference on Robotics and Automation (ICRA 2014)" 
+p_pdf="files/YuKarRus14ICRA.pdf" 
+p_bib="@InProceedings{YuKarRus14ICRA,<br>
+  author={Yu, Jingjin and Karaman, Sertac and Rus, Daniela},<br>
+  booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)}, <br>
+  title={Persistent monitoring of events with stochastic arrivals at multiple stations},<br> 
+  year={2014},<br>
+  volume={},<br>
+  number={},<br>
+  pages={5758-5765},<br>
+  doi={10.1109/ICRA.2014.6907705}}" 
+%}
 
 {% 
 include cite.html 
@@ -40,16 +145,6 @@ p_bib="@InProceedings{YuChuVou14ICRA,<br>
   number={},<br>
   pages={1098-1105},<br>
   doi={10.1109/ICRA.2014.6906991}}" 
-%}
-
-{% 
-include cite.html 
-p_title="" 
-p_id="" 
-p_author="" 
-p_venue="" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="" 
 %}
 
 {% 
@@ -150,8 +245,8 @@ p_title="Planning Optimal Paths for Multiple Robots on Graphs"
 p_id="YuLav13ICRA" 
 p_author="J. Yu and S. M. LaValle" 
 p_venue="2013 IEEE International Conference on Robotics and Automation (ICRA 2013)" 
-p_pdf="files/YuLavLib08CDC.pdf" 
-p_bib="@InProceedings{YuLav13ICRA-A,<br>
+p_pdf="files/YuLav13ICRA.pdf" 
+p_bib="@InProceedings{YuLav13ICRA,<br>
   author={Yu, Jingjin and LaValle, Steven M.},<br>
   booktitle={2013 IEEE International Conference on Robotics and Automation},<br> 
   title={Planning optimal paths for multiple robots on graphs},<br> 
