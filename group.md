@@ -1,6 +1,6 @@
 ### Current Members 
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table class="tablenoborder" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       {% include image.html url="/assets/images/jingjin.png" description="Dr. Jingjin Yu, Lab Director" %} 
