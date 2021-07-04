@@ -13,6 +13,28 @@ h3 {
 
 nav {
   top: 180px;
+
+  ul {
+    li {
+      &.tag-h2 {
+        font-size: 1.1em;
+
+        a {
+          font-weight: bold;
+          color: #333;
+        }
+
+        + .tag-h3 {       }
+      }
+
+      &.tag-h3 {
+
+        + .tag-h2 {
+          margin-top:10px;
+        }
+      }
+    }
+  }
 }
 
 #banner{
