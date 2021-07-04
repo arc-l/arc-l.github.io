@@ -16,8 +16,40 @@ function sv(id) {
 
 ## 2019
 
-## 2018
 
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+## 2018
 
 {% 
 include cite.html 
