@@ -23,6 +23,158 @@ function sv(id) {
 ## 2015 and before 
 
 
+{% 
+include cite.html 
+p_title="Counting Moving Bodies Using Sparse Sensor Beams" 
+p_id="EriYuHuaLav13TASE" 
+p_author="L. H. Erickson, J. Yu, Y. Huang, and S. M. LaValle" 
+p_venue="IEEE Transactions on Automation Science and Engineering</em>, 10(4), page(s): 853-861, 2013" 
+p_pdf="files/EriYuHuaLav13TASE.pdf" 
+p_bib="@Article{EriYuHuaLav13TASE,<br>
+  author={Erickson, Lawrence H. and Yu, Jingjin and Huang, Yaonan and LaValle, Steven M.},<br>
+  journal={IEEE Transactions on Automation Science and Engineering},<br> 
+  title={Counting Moving Bodies Using Sparse Sensor Beams},<br> 
+  year={2013},<br>
+  volume={10},<br>
+  number={4},<br>
+  pages={853-861},<br>
+  doi={10.1109/TASE.2013.2260149}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Combinatorial Structures and Filter Design in Information Spaces" 
+p_id="PHDTHESIS" 
+p_author="J. Yu" 
+p_venue="Ph.D. Thesis, University of Illinois at Urbana Champaign, 2013" 
+%}
+
+{% 
+include cite.html 
+p_title="Multi-agent Path Planning and Network Flow" 
+p_id="YuLav13STAR" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="Algorithmic Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer Berlin/Heidelberg, vol 86, page(s): 157-173, 2013" 
+p_pdf="files/YuLav13STAR.pdf" 
+p_bib="@incollection{YuLav13STAR,<br>
+  author = {J. Yu and S. M. LaValle},<br>
+  title = {Multi-agent Path Planning and Network Flow},<br>
+  booktitle={Algorithmic Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR)},<br>
+  volume=86,<br>
+  publisher = {Springer Berlin/Heidelberg},<br>
+  pages={157-173}, <br>
+  year={2013}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Counting Moving Bodies Using Sparse Sensor Beams" 
+p_id="EriYuHuaLav13STAR" 
+p_author="L. H. Erickson, J. Yu, Y. Huang, and S. M. LaValle" 
+p_venue="Algorithmic Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer Berlin/Heidelberg, vol 86, page(s): 427-442, 2013" 
+p_pdf="files/EriYuHuaLav13STAR.pdf" 
+p_bib="@article{EriYuHuaLav13STAR,<br>
+  author = {L. Erickson and J. Yu and Y. Huang and S. M. LaValle},<br>
+  title = {Counting Moving Bodies Using Sparse Sensor Beams},<br>
+  booktitle={Algorithmic Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR)},<br>
+  volume=86,<br>
+  pages={427--442}, <br>
+  year={2013}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Planning Optimal Paths for Multiple Robots on Graphs" 
+p_id="YuLav13ICRA" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="2013 IEEE International Conference on Robotics and Automation (ICRA 2013)" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="@InProceedings{YuLav13ICRA-A,<br>
+  author={Yu, Jingjin and LaValle, Steven M.},<br>
+  booktitle={2013 IEEE International Conference on Robotics and Automation},<br> 
+  title={Planning optimal paths for multiple robots on graphs},<br> 
+  year={2013},<br>
+  volume={},<br>
+  number={},<br>
+  pages={3612-3617},<br>
+  doi={10.1109/ICRA.2013.6631084}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Efficient Formation Path Planning on Large Graphs" 
+p_id="KatYuLav13ICRA" 
+p_author="M. Katsev, J. Yu and S. M. LaValle" 
+p_venue="2013 IEEE International Conference on Robotics and Automation (ICRA 2013)" 
+p_pdf="files/KatYuLav13ICRA.pdf" 
+p_bib="@InProceedings{KatYuLav13ICRA,<br>
+  author={Katsev, Max and Yu, Jingjin and LaValle, Steven M.},<br>
+  booktitle={2013 IEEE International Conference on Robotics and Automation},<br> 
+  title={Efficient formation path planning on large graphs},<br> 
+  year={2013},<br>
+  volume={},<br>
+  number={},<br>
+  pages={3606-3611},<br>
+  doi={10.1109/ICRA.2013.6631083}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Structure and Intractability of Optimal Multi-robot Path Planning on Graphs" 
+p_id="YuLav13AAAI" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="The Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13)" 
+p_pdf="files/YuLav13AAAI.pdf" 
+p_bib="@InProceedings{YuLav13AAAI,<br>
+author = {Yu, Jingjin and LaValle, Steven M.},<br>
+title = {Structure and Intractability of Optimal Multi-Robot Path Planning on Graphs},<br>
+year = {2013},<br>
+publisher = {AAAI Press},<br>
+booktitle = {Proceedings of the Twenty-Seventh AAAI Conference on Artificial Intelligence},<br>
+pages = {1443–1449},<br>
+numpages = {7},<br>
+location = {Bellevue, Washington},<br>
+series = {AAAI'13},<br>
+doi={10.5555/2891460.2891662}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Fast, Near-Optimal Computation for Multi-robot Path Planning on Graphs" 
+p_id="J. Yu and S. M. LaValle" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="The Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI-13), late breaking papers" 
+p_pdf="files/YuLav13AAAI-LBP.pdf" 
+p_bib="@InProceedings{YuLav13AAAI-LBP,
+author = {Yu, Jingjin and LaValle, Steven M.},<br>
+title = {Fast, near-Optimal Computation for Multi-Robot Path Planning on Graphs},<br>
+year = {2013},<br>
+publisher = {AAAI Press},<br>
+abstract = {We report a new method for computing near optimal makespan solutions to multi-robot path planning problem on graphs. Our focus here is with hard instances - those with up to 85% of all graph nodes occupied by robots. Our method yields 100-1000x speedup compared with existing methods. At the same time, our solutions have much smaller and often optimal makespans.},<br>
+booktitle = {Proceedings of the 17th AAAI Conference on Late-Breaking Developments in the Field of Artificial Intelligence},<br>
+pages = {155–157},<br>
+numpages = {3},<br>
+series = {AAAIWS'13-17},<br>
+doi={10.5555/2908286.2908338}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee" 
+p_id="YuLav12CDC" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="The 51st IEEE Conference on Decision and Control (CDC 2012)" 
+p_pdf="files/YuLav12CDC.pdf" 
+p_bib="@InProceedings{YuLav12CDC,<br>
+  author={Yu, Jingjin and LaValle, M.},<br>
+  booktitle={2012 IEEE 51st IEEE Conference on Decision and Control (CDC)}, <br>
+  title={Distance optimal formation control on graphs with a tight convergence time guarantee},<br> 
+  year={2012},<br>
+  volume={},<br>
+  number={},<br>
+  pages={4023-4028},<br>
+  doi={10.1109/CDC.2012.6426233}}" 
+%}
 
 {% 
 include cite.html 
