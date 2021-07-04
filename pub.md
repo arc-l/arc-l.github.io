@@ -1,3 +1,15 @@
+<script>
+function sv(id) {
+                    if (document.getElementById(id).value == '-') {
+                        document.getElementById(id).value = '+';
+                        document.getElementById(id).style.display = 'none';
+                    } else {
+                        document.getElementById(id).value = '-';
+                        document.getElementById(id).style.display = 'inline';
+                    }
+                }
+</script>
+
 <div style="text-align: right">
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
