@@ -14,7 +14,141 @@ function sv(id) {
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
+## 2019
+
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+
 ## 2018
+
+{% 
+include cite.html 
+p_title="SEAR: A Polynomial-Time Multi-Robot Path Planning Algorithm with Expected Constant-Factor Optimality Guarantee" 
+p_id="HanRodYu18IROS" 
+p_author="S. D. Han, E. J. Rodriguez and J. Yu" 
+p_venue="2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2018)" 
+p_pdf="files/HanRodYu18IROS.pdf" 
+p_bib="@InProceedings{HanRodYu18IROS,<br>
+  author={Han, Shuai D. and Rodriguez, Edgar J. and Yu, Jingjin},<br>
+  booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, <br>
+  title={SEAR: A Polynomial- Time Multi-Robot Path Planning Algorithm with Expected Constant-Factor Optimality Guarantee},<br> 
+  year={2018},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1-9},<br>
+  doi={10.1109/IROS.2018.8594417}}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Complexity Results and Fast Methods for Optimal Tabletop Rearrangement with Overhand Grasps" 
+p_id="HanStiKonBekYu18IJRR" 
+p_author="S. D. Han, N. Stiffler, A. Krontiris, K. Bekris, and J. Yu" 
+p_venue="The International Journal of Robotics Research 37, no. 13-14 (2018): 1775-1795" 
+p_pdf="files/HanStiKonBekYu18IJRR.pdf" 
+p_bib="@article{HanStiKonBekYu18IJRR,<br>
+author = {Shuai D Han and Nicholas M Stiffler and Athanasios Krontiris and Kostas E Bekris and Jingjin Yu},<br>
+title ={Complexity Results and Fast Methods for Optimal Tabletop Rearrangement with Overhand Grasps},<br>
+journal = {The International Journal of Robotics Research},<br>
+volume = {37},<br>
+number = {13-14},<br>
+pages = {1775-1795},<br>
+year = {2018},<br>
+doi = {10.1177/0278364918780999}}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Constant-Factor Time-Optimal Multi-Robot Routing on High-Dimensional Grids" 
+p_id="Yu18RSS" 
+p_author="J. Yu" 
+p_venue="2018 Robotics: Science and Systems (RSS 2018)" 
+p_pdf="files/Yu18RSS.pdf" 
+p_bib="@inproceedings{Yu18RSS,<br>
+Title = {Constant-Factor Time-Optimal Multi-Robot Routing on High-Dimensional Grids},<br>
+Author = {Jingjin Yu},<br>
+Booktitle = RSS,<br>
+Year = {2018}<br>
+}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Efficient, High-Quality Stack Rearrangement" 
+p_id="HanStiBekYu18RAL" 
+p_author="S. D. Han, N. Stiffler, K. Bekris, and J. Yu" 
+p_venue="IEEE Robotics and Automation Letters</em>, 3(3), page(s): 1608-1615, 2018. Presented at ICRA 2018" 
+p_pdf="files/HanStiBekYu18RAL.pdf" 
+p_bib="@article{HanStiBekYu18RAL,<br>
+  author={Han, Shuai D. and Stiffler, Nicholas M. and Bekris, Kostas E. and Yu, Jingjin},<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Efficient, High-Quality Stack Rearrangement},<br> 
+  year={2018},<br>
+  volume={3},<br>
+  number={3},<br>
+  pages={1608-1615},<br>
+  doi={10.1109/LRA.2018.2800116},<br>
+  note = {Note: presented at ICRA 2018}}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="An Effective Algorithmic Framework for Near Optimal Multi-Robot Path Planning" 
+p_id="YuRus2018RR" 
+p_author="J. Yu and D. Rus" 
+p_venue="Bicchi A., Burgard W. (eds), Robotics Research, vol 1, pp 495-511, 2018" 
+p_pdf="files/YuRus15ISRR.pdf" 
+p_bib="@incollection{YuRus2018RR,<br>
+author="Yu, Jingjin<br>
+and Rus, Daniela",<br>
+editor="Bicchi, Antonio<br>
+and Burgard, Wolfram",<br>
+title="An Effective Algorithmic Framework for Near Optimal Multi-robot Path Planning",<br>
+bookTitle="Robotics Research: Volume 1",<br>
+year="2018",<br>
+publisher="Springer International Publishing",<br>
+address="Cham",<br>
+pages="495--511",<br>
+isbn="978-3-319-51532-8",<br>
+doi="10.1007/978-3-319-51532-8_30",<br>
+url="https://doi.org/10.1007/978-3-319-51532-8_30"<br>
+}" 
+%}
 
 ## 2017
 
