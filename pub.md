@@ -110,8 +110,7 @@ publisher="Springer International Publishing",<br>
 address="Cham",<br>
 pages="495--511",<br>
 isbn="978-3-319-51532-8",<br>
-doi="10.1007/978-3-319-51532-8_30",<br>
-url={https://doi.org/10.1007/978-3-319-51532-8_30}<br>}" 
+doi="10.1007/978-3-319-51532-8_30"}<br>}" 
 %}
 
 ## 2017
