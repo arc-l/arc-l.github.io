@@ -23,12 +23,74 @@ function sv(id) {
 ## 2015 and before 
 
 
+
+{% 
+include cite.html 
+p_title="Distance Optimal Target Assignment in Robotic Networks under Communication and Sensing Constraints" 
+p_id="YuChuVou14ICRA" 
+p_author="J. Yu, S.-J. Chung, and P. G. Voulgaris" 
+p_venue="2014 IEEE International Conference on Robotics and Automation (ICRA 2014)" 
+p_pdf="files/YuChuVou14ICRA.pdf" 
+p_bib="@InProceedings{YuChuVou14ICRA,<br>
+  author={Yu, Jingjin and Chung, Soon-Jo and Voulgaris, Petros G.},<br>
+  booktitle={2014 IEEE International Conference on Robotics and Automation (ICRA)}, <br>
+  title={Distance optimal target assignment in robotic networks under communication and sensing constraints},<br> 
+  year={2014},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1098-1105},<br>
+  doi={10.1109/ICRA.2014.6906991}}" 
+%}
+
+{% 
+include cite.html 
+p_title="" 
+p_id="" 
+p_author="" 
+p_venue="" 
+p_pdf="files/YuLavLib08CDC.pdf" 
+p_bib="" 
+%}
+
+{% 
+include cite.html 
+p_title="Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance Optimal Formation Planning and Control on Graphs" 
+p_id="YuLav13CDC" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="52nd IEEE Conference on Decision and Control (CDC 2013)" 
+p_pdf="files/YuLav13CDC.pdf" 
+p_bib="@InProceedings{YuLav13CDC,<br>
+  author={Yu, Jingjin and LaValle, Steven M.},<br>
+  booktitle={52nd IEEE Conference on Decision and Control}, <br>
+  title={Shortest path set induced vertex ordering and its application to distributed distance optimal formation path planning and control on graphs},<br> 
+  year={2013},<br>
+  volume={},<br>
+  number={},<br>
+  pages={2775-2780},<br>
+  doi={10.1109/CDC.2013.6760303}}" 
+%}
+
+{% 
+include cite.html 
+p_title="A Linear Time Algorithm for the Feasibility of Pebble Motion on Graphs" 
+p_id="Yu13ARXIV" 
+p_author="J. Yu" 
+p_venue="arXiv preprint, 2013" 
+p_pdf="https://arxiv.org/pdf/1301.2342.pdf" 
+p_bib="@article{Yu13ARXIV,<br>
+  author    = {J. Yu},<br>
+  title     = {A Linear Time Algorithm for the Feasibility of Pebble Motion on Graphs},<br>
+  journal   = {arXiv:1301.2342},<br>
+  year      = {2013},<br>
+  ee        = {http://arxiv.org/abs/1301.2342}}" 
+%}
+
 {% 
 include cite.html 
 p_title="Counting Moving Bodies Using Sparse Sensor Beams" 
 p_id="EriYuHuaLav13TASE" 
 p_author="L. H. Erickson, J. Yu, Y. Huang, and S. M. LaValle" 
-p_venue="IEEE Transactions on Automation Science and Engineering</em>, 10(4), page(s): 853-861, 2013" 
+p_venue="IEEE Transactions on Automation Science and Engineering, 10(4), page(s): 853-861, 2013" 
 p_pdf="files/EriYuHuaLav13TASE.pdf" 
 p_bib="@Article{EriYuHuaLav13TASE,<br>
   author={Erickson, Lawrence H. and Yu, Jingjin and Huang, Yaonan and LaValle, Steven M.},<br>
@@ -181,7 +243,7 @@ include cite.html
 p_title="Shadow Information Spaces: Combinatorial Filters for Tracking Targets" 
 p_id="YuLav12TOR" 
 p_author="J. Yu and S. M. LaValle" 
-p_venue="IEEE Transactions on Robotics</em>, 28(2), page(s): 440-456, Apr. 2012" 
+p_venue="IEEE Transactions on Robotics, 28(2), page(s): 440-456, Apr. 2012" 
 p_pdf="files/YuLav12TOR.pdf" 
 p_bib="@Article{YuLav12TOR,<br>
   author={Yu, Jingjin and LaValle, Steven M.},<br>
