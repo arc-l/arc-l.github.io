@@ -1,10 +1,10 @@
 <div style="text-align: right">
-  <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>
+  <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>&nbsp;&nbsp;
   <a href="https://github.com/arc-l"><span style="color:blue"><strong>Code on Github</strong></span></a>&nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue"><strong>Google Scholar</strong></span></a>&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue"><strong>Google Scholar</strong></span></a>
 </div>
 
-### New website under construction. Check back later! 
+## Updates
 
 **07/2021** - One paper accepted by IROS 2021. <br>
 **06/2021** - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
@@ -48,3 +48,7 @@ based on motion models from our research on multi-robot motion planning and the 
 **04/2017** - One paper accepted by RSS 2017.<br>
 **12/2016** - One paper accepted by ICRA 2017.<br>
 **04/2016** - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
+
+## Prospective students
+
+We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting.
