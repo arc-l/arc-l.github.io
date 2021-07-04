@@ -3,6 +3,5 @@
   <a href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw"><span style="color:blue"><strong>YouTube</strong></span></a>
 </div>
 <br/>
-
 ### New lab website under construction. Check back later! 
 
