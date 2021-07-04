@@ -26,6 +26,24 @@ function sv(id) {
 
 {% 
 include cite.html 
+p_title="Shadow Information Spaces: Combinatorial Filters for Tracking Targets" 
+p_id="YuLav12TOR" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="IEEE Transactions on Robotics</em>, 28(2), page(s): 440-456, Apr. 2012" 
+p_pdf="files/YuLav12TOR.pdf" 
+p_bib="@Article{YuLav12TOR,<br>
+  author={Yu, Jingjin and LaValle, Steven M.},<br>
+  journal={IEEE Transactions on Robotics}, <br>
+  title={Shadow Information Spaces: Combinatorial Filters for Tracking Targets},<br> 
+  year={2012},<br>
+  volume={28},<br>
+  number={2},<br>
+  pages={440-456},<br>
+  doi={10.1109/TRO.2011.2174494}}" 
+%}
+
+{% 
+include cite.html 
 p_title="Rendezvous without Coordinates" 
 p_id="YuLavLib12TAC" 
 p_author="J. Yu, S. M. LaValle, and D. Liberzon" 
