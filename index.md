@@ -33,7 +33,7 @@ iOS version will follow.<br>
 **03/2019** - Dr. Yu gave a talk at the University of Illinois. <br>
 **03/2019** - Dr. Yu received the NSF CAREER Award.<br> 
 **01/2019** - One paper accepted by ICRA 2019.<br> 
-**10/2018** - Dr. Yu started an exciting project on recycling automation with a large recycling company with his colleague Abdeslam Boularias.<br> 
+**10/2018** - Dr. Yu started an exciting project on recycling automation with a large recycling company with his colleague Abdeslam Boularias.<br>
 **09/2018** - Two papers accepted by WAFR 2018.<br>
 **07/2018** - New version of our open-source <a href="https://arc.cs.rutgers.edu/mvp" target="_">microMVP</a> multi-vehicle platform is now available. <br>
 **06/2018** - One paper accepted by IROS 2018.<br>
