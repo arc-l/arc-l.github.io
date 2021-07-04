@@ -18,9 +18,112 @@ function sv(id) {
 
 ## 2017
 
+AbeAkiYu17FWCG
+
 ## 2016
 
+{% 
+include cite.html 
+p_title="Optimal Multi-Robot Path Planning on Graphs: Complete Algorithms and Effective Heuristics" 
+p_id="YuLav16TOR" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="IEEE Transactions on Robotics</em>, 32(5), page(s): 1163 - 1177, 2016" 
+p_pdf="files/YuLav16TOR.pdf" 
+p_bib="@Article{YuLav16TOR,<br>
+  author={Yu, Jingjin and LaValle, Steven M.},<br>
+  journal={IEEE Transactions on Robotics}, <br>
+  title={Optimal Multirobot Path Planning on Graphs: Complete Algorithms and Effective Heuristics},<br> 
+  year={2016},<br>
+  volume={32},<br>
+  number={5},<br>
+  pages={1163-1177},<br>
+  doi={10.1109/TRO.2016.2593448}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Optimal Multi-Robot Path Planning on Graphs: Structure and Computational Complexity" 
+p_id="YuLav15ARXIV" 
+p_author="J. Yu and S. M. LaValle" 
+p_venue="arXiv preprint, 2015" 
+p_pdf="https://arxiv.org/pdf/1507.03289.pdf" 
+p_bib="@article{YuLav15ARXIV,<br>
+  title={Optimal multi-robot path planning on graphs: Structure and computational complexity},<br>
+  author={Yu, Jingjin and LaValle, Steven M},<br>
+  journal={arXiv preprint arXiv:1507.03289},<br>
+  year={2015}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Correlated Orienteering Problem and its Application to Persistent Monitoring Tasks" 
+p_id="YuSchRus16TOR" 
+p_author="J. Yu, M. Schwager, and D. Rus" 
+p_venue="IEEE Transactions on Robotics</em>, 32(5), page(s): 1106 - 1118, 2016" 
+p_pdf="files/YuSchRus16TOR.pdf" 
+p_bib="@article{YuSchRus16TOR, <br>
+  author={Yu, Jingjin and Schwager, Mac and Rus, Daniela},<br>
+  journal={IEEE Transactions on Robotics}, <br>
+  title={Correlated Orienteering Problem and its Application to Persistent Monitoring Tasks},<br> 
+  year={2016},<br>
+  volume={32},<br>
+  number={5},<br>
+  pages={1106-1118},<br>
+  doi={10.1109/TRO.2016.2593450}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Intractability of Optimal Multi-Robot Path Planning on Planar Graphs" 
+p_id="Yu16RAL" 
+p_author="J. Yu" 
+p_venue="IEEE Robotics and Automation Letters, 1(1), page(s): 33-40, 2016. Presented at ICRA 2016" 
+p_pdf="files/Yu16RAL.pdf" 
+p_bib="@article{Yu16RAL,<br>
+  author={Yu, Jingjin},<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Intractability of Optimal Multirobot Path Planning on Planar Graphs},<br> 
+  year={2016},<br>
+  volume={1},<br>
+  number={1},<br>
+  pages={33-40},<br>
+	note={Note: presented at ICRA 2016},<br>
+  doi={10.1109/LRA.2015.2503143}}" 
+%}
+
 ## 2015 and before 
+
+{% 
+include cite.html 
+p_title="Anytime Planning of Optimal Schedules for a Mobile Sensing Robot" 
+p_id="YuAslKarRus15IROS" 
+p_author="J. Yu, J. Aslam, S. Karaman, and D. Rus" 
+p_venue="2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2015)" 
+p_pdf="files/YuAslKarRus15IROS.pdf" 
+p_bib="@inproceedings{YuAslKarRus15IROS,<br>
+  author={Yu, Jingjin and Aslam, Javed and Karaman, Sertac and Rus, Daniela},<br>
+  booktitle={2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Anytime planning of optimal schedules for a mobile sensing robot},<br> 
+  year={2015},<br>
+  volume={},<br>
+  number={},<br>
+  pages={5279-5286},<br>
+  doi={10.1109/IROS.2015.7354122}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Motion Planning for Unlabeled Discs with Optimality Guarantees" 
+p_id="SolYu15" 
+p_author="K. Solovey, J. Yu, O. Zamir, and D. Halperin" 
+p_venue="2015 Robotics: Science and Systems (RSS 2015)" 
+p_pdf="files/SolYu15.pdf" 
+p_bib="@InProceedings{SolYu15,<br>
+  Title                    = {Motion Planning for Unlabeled Discs with Optimality Guarantees},<br>
+  Author                   = {Kiril Solovey and Jingjin Yu and Or Zamir and Dan Halperin},<br>
+  Booktitle                = RSS,<br>
+  Year                     = {2015}}" 
+%}
 
 {% 
 include cite.html 
