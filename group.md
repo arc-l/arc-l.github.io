@@ -1,11 +1,11 @@
 ### Current Members 
 
-<table class="tablenoborder" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr border="0">
+    <td border="0">
       {% include image.html url="/assets/images/jingjin.png" description="Dr. Jingjin Yu, Lab Director" %} 
     </td>
-    <td>
+    <td border="0">
       {% include image.html url="/assets/images/siwei.png" description="Siwei Feng, Ph.D. Candidate" %}  
     </td>
   </tr>
