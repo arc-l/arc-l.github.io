@@ -32,3 +32,40 @@
 </table>
 
 ## Alumni 
+
+### Postdocs 
+
+Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017-2018)
+
+### Graduate students
+
+Wei Tang (MS in Computer Science, 2020)
+
+### Undergraduates 
+
+Sijie Ding (Undergraduate Researcher, 2019-2020, going to Brown for MS)<br>
+Xinyu Cai (Summer Intern from USTC, China, 2019)<br>
+Lawrence Jiang (Undergraduate Researcher, 2018-2019, joining the financial industry)<br>
+Zetao Yu (Undergraduate Researcher, 2018-2019, going to Duke for MS)<br>
+Kai Gao (Summer Intern from USTC, China, 2018, joining Rutgers CS for PhD)<br>
+Jiakun Lyu (Summer Intern from Zhejiang Univeristy, China,2017, going to CMU for MS)<br>
+Edgar Jaramillo Rodriguez (Undergraduate Researcher, Summer 2017, <a href="http://reu.dimacs.rutgers.edu/">DIMACS REU Program</a>) <br>
+Angelo Carrabba (Undergraduate Researcher, Summer 2016, <a href="http://reu.dimacs.rutgers.edu/">DIMACS REU Program</a>) <br>
+Rupesh Chinta (Undergraduate Researcher, 2016-2018, going to Google) <br>
+Chris Gong (Undergraduate Researcher, Summer 2016, <a href="https://aresty.rutgers.edu/our-programs/summer-science-program" target="_">Aresty Summer Science</a>)<br>
+<br>
+
+
+### High school volunteers
+
+Ivan Xiong (Summer 2019, NYU)  
+Lawrence Huang (Summer 2017, Brown)  
+Sanjana Pruthi (Summer 2017, CMU)  
+
+
+
+
+
+
+
+
