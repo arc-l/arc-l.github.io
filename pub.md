@@ -26,6 +26,63 @@ p_bib=""
 %}
 -->
 
+{% 
+include cite.html 
+p_title="Optimal Perimeter Guarding with Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms" 
+p_id="FenYu20RAL" 
+p_author="S. W. Feng and J. Yu" 
+p_venue="IEEE Robotics and Automation Letters, 5(2), page(s): 430-437, 2020" 
+p_pdf="files/FenYu20RAL.pdf" 
+p_bib="@article{FenYu20RAL,<br>
+  author={Feng, Si Wei and Yu, Jingjin},<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Optimal Perimeter Guarding With Heterogeneous Robot Teams: Complexity Analysis and Effective Algorithms},<br> 
+  year={2020},<br>
+  volume={5},<br>
+  number={2},<br>
+  pages={430-437},<br>
+	note={Note: presented at ICRA 2020},<br>
+  doi={10.1109/LRA.2019.2961302}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor" 
+p_id="HanFenYu20RAL" 
+p_author="S. D. Han, S. W. Feng, and J. Yu" 
+p_venue="IEEE Robotics and Automation Letters, 5(2), page(s): 446-453, 2020" 
+p_pdf="files/HanFenYu20RAL.pdf" 
+p_bib="@article{HanFenYu20RAL,<br>
+  author={Han, Shuai D. and Feng, Si Wei and Yu, Jingjin},<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Toward Fast and Optimal Robotic Pick-and-Place on a Moving Conveyor},<br> 
+  year={2020},<br>
+  volume={5},<br>
+  number={2},<br>
+  pages={446-453},<br>
+	note={Note: presented at ICRA 2020},<br>
+  doi={10.1109/LRA.2019.2961605}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Coordinating the Motion of Labeled Discs with Optimality Guarantees under Extreme Density" 
+p_id="" 
+p_author="R. Chinta, S. D. Han and J. Yu" 
+p_venue="Algorithmic Foundations of Robotics XIII, Springer Proceedings in Advanced Robotics (SPAR), page(s): 817-834, 2020. Presented at WAFR 2018" 
+p_pdf="files/ChiHanYu20SPAR.pdf" 
+p_bib="@InProceedings{ChiHanYu20SPAR,<br>
+author={Chinta, Rupesh and Han, Shuai D. and Yu, Jingjin},<br>
+editor={Morales, Marco and Tapia, Lydia and S{\'a}nchez-Ante, Gildardo and Hutchinson, Seth},<br>
+title={Coordinating the Motion of Labeled Discs with Optimality Guarantees under Extreme Density},<br>
+booktitle={Algorithmic Foundations of Robotics XIII},<br>
+year={2020},<br>
+publisher="Springer International Publishing",<br>
+address={Cham},<br>
+pages={817--834},<br>
+isbn={978-3-030-44051-0}<br>
+}" 
+%}
 
 {% 
 include cite.html 
