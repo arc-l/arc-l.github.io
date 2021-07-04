@@ -1,4 +1,4 @@
-<strong>{{ include.p_title }}</strong>. {{ include.p_author }}. <em>{{ include.p_venue }}</em>. {% if include.p_pdf %}[<a href="{{ include.p_pdf }}">pdf</a>]{% endif %} {% if include.p_awards %}<strong>{{ include.p_awards }}</strong>{% endif %} {% if include.p_slides %}{{ include.p_slides }} {% endif %} {% if include.p_bib %} [<a href="javascript:void(0)" onclick="sv('{{ include.p_id }}');">bibtex</a>] {% endif %}
+<strong>{{ include.p_title }}</strong>. {{ include.p_author }}. <em>{{ include.p_venue }}</em>. {% if include.p_pdf %}[<a href="{{ include.p_pdf }}">pdf</a>]{% endif %} {% if include.p_award %}<strong>{{ include.p_award }}</strong>{% endif %} {% if include.p_slides %}{{ include.p_slides }} {% endif %} {% if include.p_bib %} [<a href="javascript:void(0)" onclick="sv('{{ include.p_id }}');">bibtex</a>] {% endif %}
 {% if include.p_bib %} 
   <div id='{{ include.p_id }}' style='display:none;' value='+'>
     <div style='width:95%; padding: 10px 10px; border-radius: 3px; background: #D9F9FF;'>
