@@ -18,33 +18,33 @@ iOS version will follow.<br>
 **09/2020** - Dr. Yu gave his tenure talk to the department. Here is a <a href="https://youtu.be/hk4Wh2oMAaA" target="_TT">recorded version</a>. <br>
 **07/2020** - One paper accepted by IROS 2020. <br>
 **06/2020** - Dr. Yu gave an invited talk to the Multi-Agent Systems Group of the China Computer Federation. <br>
-**06/2020** - Our lab's team, RuBot by Siwei Feng and Teng Guo, made to top 3 of <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition/ariac-results" target="_NIST">NIST's 2020 ARIAC Robot Challenge</a>, with a 2.5K cash award. Congratulations!<br>  
+**06/2020** - Our lab's team, RuBot by Siwei Feng and Teng Guo, made to top 3 of <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition/ariac-results" target="_NIST">NIST's 2020 ARIAC Robot Challenge</a>, with a 2.5K cash award. Congratulations!<br>
 **05/2020** - One paper accepted by RSS 2020. <br>
-04/2020 - One paper accepted by WAFR 2020. <br>
-01/2020 - Three papers accepted by RA-L and will be presented at ICRA 2020. <br>
-12/2019 - Dr. Yu gave a talk at the University of Maryland. <br>
-11/2019 - Our IROS 2019 paper was a finalist for the Best Student Paper Award as well as the Best Application Paper Award. <br>
-09/2019 - Dr. Yu is serving as a co-chair of WAFR 2020. Please send us your best work! <br>
-08/2019 - One paper accepted by ISRR 2019. <br>
-06/2019 - One paper accepted by IROS 2019. <br> 
-05/2019 - Rutgers team lead by Siwei Feng was placed second at the <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition" target="_NIST">NIST's ARIAC Robot Challenge</a>, with a 5K cash award.<br> 
-05/2019 - Our ICRA 2019 paper was a finalist for the Best Automation Paper Award.<br>
-04/2019 - One paper accepted by RSS 2019. <br> 
-03/2019 - Dr. Yu gave a talk at the University of Illinois. <br>
-03/2019 - Dr. Yu received the NSF CAREER Award.<br> 
-01/2019 - One paper accepted by ICRA 2019.<br> 
-10/2018 - Dr. Yu started an exciting project on recycling automation with a large recycling company with his colleague Abdeslam Boularias.<br> 
-09/2018 - Two papers accepted by WAFR 2018.<br>
-07/2018 - New version of our open-source <a href="https://arc.cs.rutgers.edu/mvp" target="_">microMVP</a> multi-vehicle platform is now available. <br>   
-06/2018 - One paper accepted by IROS 2018.<br>
-05/2018 - Our extended RSS 2017 work is accepted by IJRR.<br>
-04/2018 - One paper accepted by RSS 2018.<br>
-01/2018 - Dr. Yu started working on a warehouse automation project (sponsored by JD.com) with colleagues  Kostas Bekris and Abdeslam Boularias.<br>   
-01/2018 - One paper accepted by RAL/ICRA 2018.<br>
-09/2017 - Dr. Yu started an NSF NRI project on demand-driven multi-robot path and motion planning.<br>
-09/2017 - One paper accepted by MRS 2017.<br>
-06/2017 - Our RSS 2017 paper was a finalist for the Best Student Paper Award.<br>
-06/2017 - Dr. Yu gave a talk at the University of Science and Technology of China. <br>
-04/2017 - One paper accepted by RSS 2017.<br>
-12/2016 - One paper accepted by ICRA 2017.<br>
-04/2016 - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
+**04/2020** - One paper accepted by WAFR 2020. <br>
+**01/2020** - Three papers accepted by RA-L and will be presented at ICRA 2020. <br>
+**12/2019** - Dr. Yu gave a talk at the University of Maryland. <br>
+**11/2019** - Our IROS 2019 paper was a finalist for the Best Student Paper Award as well as the Best Application Paper Award. <br>
+**09/2019** - Dr. Yu is serving as a co-chair of WAFR 2020. Please send us your best work! <br>
+**08/2019** - One paper accepted by ISRR 2019. <br>
+**06/2019** - One paper accepted by IROS 2019. <br> 
+**05/2019** - Rutgers team lead by Siwei Feng was placed second at the <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition" target="_NIST">NIST's ARIAC Robot Challenge</a>, with a 5K cash award.<br> 
+**05/2019** - Our ICRA 2019 paper was a finalist for the Best Automation Paper Award.<br>
+**04/2019** - One paper accepted by RSS 2019. <br> 
+**03/2019** - Dr. Yu gave a talk at the University of Illinois. <br>
+**03/2019** - Dr. Yu received the NSF CAREER Award.<br> 
+**01/2019** - One paper accepted by ICRA 2019.<br> 
+**10/2018** - Dr. Yu started an exciting project on recycling automation with a large recycling company with his colleague Abdeslam Boularias.<br> 
+**09/2018** - Two papers accepted by WAFR 2018.<br>
+**07/2018** - New version of our open-source <a href="https://arc.cs.rutgers.edu/mvp" target="_">microMVP</a> multi-vehicle platform is now available. <br>
+**06/2018** - One paper accepted by IROS 2018.<br>
+**05/2018** - Our extended RSS 2017 work is accepted by IJRR.<br>
+**04/2018** - One paper accepted by RSS 2018.<br>
+**01/2018** - Dr. Yu started working on a warehouse automation project (sponsored by JD.com) with colleagues  Kostas Bekris and Abdeslam Boularias.<br>   
+**01/2018** - One paper accepted by RAL/ICRA 2018.<br>
+**09/2017** - Dr. Yu started an NSF NRI project on demand-driven multi-robot path and motion planning.<br>
+**09/2017** - One paper accepted by MRS 2017.<br>
+**06/2017** - Our RSS 2017 paper was a finalist for the Best Student Paper Award.<br>
+**06/2017** - Dr. Yu gave a talk at the University of Science and Technology of China. <br>
+**04/2017** - One paper accepted by RSS 2017.<br>
+**12/2016** - One paper accepted by ICRA 2017.<br>
+**04/2016** - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
