@@ -5,21 +5,21 @@
 <br/>
 ### New lab website under construction. Check back later! 
 
-07/2021 - One paper accepted by IROS 2021. <br>
-06/2021 - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
-05/2021 - Two papers accepted by RSS 2021. <br>
-04/2021 - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
-03/2021 - Dr. Yu received an Amazon gift supporting our research on multi-robot motion planning. <br>
-02/2021 - Four papers accepted by ICRA 2021. <br>
-11/2020 - We are releasing an android game, <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="PS">Pebbles</a>, 
+**07/2021** - One paper accepted by IROS 2021. <br>
+**06/2021** - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
+**05/2021** - Two papers accepted by RSS 2021. <br>
+**04/2021** - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
+**03/2021** - We received an Amazon gift supporting our research on multi-robot motion planning. <br>
+**02/2021** - Four papers accepted by ICRA 2021. <br>
+**11/2020** - We are releasing an android game, <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="PS">Pebbles</a>, 
 based on motion models from our research on multi-robot motion planning and the 15-puzzle. You can directly download the <a href="http://arc.cs.rutgers.edu/files/pebbles.apk" target="_M">apk</a>.
 iOS version will follow.<br>
-10/2020 - Joining the dark side :D here is our lab's first deep learning based work, focusing on <a href="https://youtu.be/CNkZfZ-0Du8" target="_TT">de-cluttering</a>, as a joint work with Abdeslam Boularias. Submitted to ICRA 2021 [<a href="https://arxiv.org/pdf/2011.04692.pdf" target="_M">manuscript</a>].<br>
-09/2020 - Dr. Yu gave his tenure talk to the department. Here is a <a href="https://youtu.be/hk4Wh2oMAaA" target="_TT">recorded version</a>. <br>
-07/2020 - One paper accepted by IROS 2020. <br>
-06/2020 - Dr. Yu gave an invited talk to the Multi-Agent Systems Group of the China Computer Federation. <br>  
-06/2020 - Our lab's team, RuBot by Siwei Feng and Teng Guo, made to top 3 of <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition/ariac-results" target="_NIST">NIST's 2020 ARIAC Robot Challenge</a>, with a 2.5K cash award. Congratulations!<br>  
-05/2020 - One paper accepted by RSS 2020. <br>
+**10/2020** - Joining the dark side :D here is our lab's first deep learning based work, focusing on <a href="https://youtu.be/CNkZfZ-0Du8" target="_TT">de-cluttering</a>, as a joint work with Abdeslam Boularias. Submitted to ICRA 2021 [<a href="https://arxiv.org/pdf/2011.04692.pdf" target="_M">manuscript</a>].<br>
+**09/2020** - Dr. Yu gave his tenure talk to the department. Here is a <a href="https://youtu.be/hk4Wh2oMAaA" target="_TT">recorded version</a>. <br>
+**07/2020** - One paper accepted by IROS 2020. <br>
+**06/2020** - Dr. Yu gave an invited talk to the Multi-Agent Systems Group of the China Computer Federation. <br>
+**06/2020** - Our lab's team, RuBot by Siwei Feng and Teng Guo, made to top 3 of <a href="https://www.nist.gov/el/intelligent-systems-division-73500/agile-robotics-industrial-automation-competition/ariac-results" target="_NIST">NIST's 2020 ARIAC Robot Challenge</a>, with a 2.5K cash award. Congratulations!<br>  
+**05/2020** - One paper accepted by RSS 2020. <br>
 04/2020 - One paper accepted by WAFR 2020. <br>
 01/2020 - Three papers accepted by RA-L and will be presented at ICRA 2020. <br>
 12/2019 - Dr. Yu gave a talk at the University of Maryland. <br>
