@@ -18,5 +18,5 @@ year={2008},<br>
 volume={},<br>
 number={},<br>
 pages={2331-2338},<br>
-doi={10.1109/ROBOT.2008.4543562}}"<br>
+doi={10.1109/ROBOT.2008.4543562}}<br>"
 %}
