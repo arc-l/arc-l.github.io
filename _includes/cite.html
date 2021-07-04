@@ -1,4 +1,1 @@
-<strong>{{ include.p_title }}</strong>. {{ include.p_author }}. <em>{{ include.p_venue }}</em>.
-{% if include.p_pdf %}{{ include.p_pdf }}{% endif %}
-{% if include.p_slides %}{{ include.p_slides }}{% endif %}
-{% if include.p_bib %}{{ include.p_bib }}{% endif %}
+<strong>{{ include.p_title }}</strong>. {{ include.p_author }}. <em>{{ include.p_venue }}</em>. {% if include.p_pdf %}{{ include.p_pdf }}{% endif %} {% if include.p_slides %}{{ include.p_slides }} {% endif %}{% if include.p_bib %}{{ include.p_bib }}{% endif %}
