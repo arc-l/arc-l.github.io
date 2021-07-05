@@ -3,9 +3,20 @@
 </div>
 
 
-### &#62; Fast MRMP via Integer Programming 
+### &#62; Multi-Robot Motion Planning 
 
-### &#62; MRMP: Feasibility via Group Theory
+### &#62; Multi-Robot Motion Planning 
+
+#### Feasbility via Group Theoretic Methods
+
+{% include image.html url="/media/mrmp-feasibility.png" description="Our algorithm converts a pebble motion on graphs problem to a pebble motion on trees problem (well, almost) by doing the following: For each maximally 2-edge-connected component of the graph $G$, we contract it to a single edge $(v_1, v_2)$. All vertices adjacent to this component are now connected to $v_1$. This contracts $G$ into a tree. " %}<br />
+
+Let $G$ be a simple connected graph with $n$ vertices and let there be $p < n$ labeled pebbles. In a configuration, the pebbles occupy $p$ distinct vertices of $G$. From a configuration, a pebble may move to a nearby unoccupied vertex in one step. Now given two configurations $S$ and $D$, a natural question is whether $S$, $D$ are reachable from each other. Kornhauser, Miller, and Spirakis (FOCS 1984) showed that this problem can be decided in polynomial time but a solution may require $\Theta(n^3)$ moves. This suggests that no algorithm can solve all instances of the problem under cubic time. Therefore, deciding whether such a problem is feasible using less time helps avoiding unnecessary computations on infeasible instances. Auletta et al. (SWAT, 1996) worked on pebble motion on trees and provided a linear time algorithm for testing the feasibility of this problem. Observing that pebbles on a 2-edge-connected component are almost always equivalent, we reducethe pebble motion on graphs to the pebble motion on trees in linear time by contracting these components intoa single edge. We obtained this result independently of the work by Goraly and Hassin.
+
+Manuscript on arXiv: 
+```
+A Linear Time Algorithm for the Feasibility of Pebble Motion on Graphs. J. Yu, 2013
+```
 
 ### &#62; Information Spaces
 
