@@ -2,12 +2,15 @@
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
+## Object Rearrangement
+
+## Optimal Multi-Agent Coverage 
 
 ## Multi-Robot Motion Planning (MRMP)
 
 ### Optimal Solutions 
 
-#### MRMP and Network Flow
+#### Multi-Robot Motion Planning on Graphs and Network Flow
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
@@ -35,6 +38,10 @@ page(s): 1163 - 1177, 2016.
 ```
 
 <hr>
+
+#### Heuristics for Multi-Robot Motion Planning
+
+
 
 ### Complexity 
 
