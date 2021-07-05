@@ -3,9 +3,38 @@
 </div>
 
 
-## Multi-Robot Motion Planning
+## Multi-Robot Motion Planning (MRMP)
 
-### Optimality 
+### Optimal Solutions 
+
+#### MRMP and Network Flow
+
+<table border="0"  style="border: none!important; vertical-align:top;">
+  <tr style="border: none!important;">
+    <td width="200px" style="border: none!important;  vertical-align:top;">
+      {% include fig.html url="/media/wafr-12.png" description="" %} 
+    </td>
+    <td style="border: none!important; vertical-align:top;">
+       We show that there is an intimate relation between the problem of multi-robot motion/formation planning and network flow. Using the time expansion technique (illustrated on the left), we can convert the problem of finding collision-free paths for multiple robots to a problem of flowing commodities through a network (we call this the time-expanded network). In retrospect, this is not very surprising: Robots traveling on a graph, when looked from both space and time, are just like commodities traveling on a network. Applying results from network flow literature, we obtain efficient algorithms for planning time optimal and distance optimal paths for indistinguishable robots (i.e. the goals are  permutation invariant). For the permutation invariant case, we also looked at the compatibility of multiple objectives. It turns out that three common objectives, last arrival time, average arrival time, and total distance, have a pairwise Pareto optimal structure. . 
+    </td>
+  </tr>
+</table>
+
+Equivalence between MRMP and network flow: 
+```
+Multi-agent Path Planning and Network Flow. J. Yu and S. M. LaValle. Algorithmic 
+Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer 
+Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
+```
+
+Algorithms and heuristics for labeled MRMP on graphs:
+```
+Optimal Multi-Robot Path Planning on Graphs: Complete Algorithms and Effective 
+Heuristics. J. Yu and S. M. LaValle. IEEE Transactions on Robotics, 32(5), 
+page(s): 1163 - 1177, 2016.
+```
+
+<hr>
 
 ### Complexity 
 
@@ -15,7 +44,7 @@
       {% include fig.html url="/media/ral-16.png" description="" %} 
     </td>
     <td style="border: none!important; vertical-align:top;">
-       In this line of work, we show that optimal multi-robot path/motion planning on graphs demonstrats a Pareto structure for different minimum time and minimum distance constraints. We further show that all these problems are NP-hard to solve, for both general graphs and planar graphs (the later implies the former). The figure on the left illustrates of a reduction from planar monotone 3-SAT to minimum-makespan planar multi-robot path planning.
+       In this line of work, we show that optimal multi-robot path/motion planning on graphs demonstrats a Pareto structure for different minimum time and minimum distance constraints. We further show that all these problems are NP-hard to solve, for both general graphs and planar graphs (the later implies the former). The figure on the left illustrates of a reduction from planar monotone 3-SAT to minimum-makespan multi-robot motion planning on planar graphs. 
     </td>
   </tr>
 </table>
@@ -38,6 +67,8 @@ Results for planar graphs:
 Intractability of Optimal Multi-Robot Path Planning on Planar Graphs. J. Yu. IEEE 
 Robotics and Automation Letters, 1(1), page(s): 33-40, 2016.
 ```
+
+<hr>
 
 ### Feasibility 
 
