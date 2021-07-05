@@ -54,9 +54,9 @@ page(s): 1163 - 1177, 2016.
 </table>
 
 ```
-Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. 
-Guo, S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and 
-Automation (ICRA 2021).
+Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. Guo, 
+S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automation 
+(ICRA 2021).
 ```
 
 <hr>
