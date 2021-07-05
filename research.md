@@ -23,15 +23,17 @@
   </tr>
 </table>
 
-Exact inference algorithm
-
+Exact inference algorithm:
 ```
-Cyber Detectives: Determining When Robots or People Misbehave. J. Yu and S. M. LaValle. Algorithmic Foundations of Robotics IX, Springer Tracts in Advanced Robotics (STAR), Springer Berlin/Heidelberg, vol 68, page(s): 391-407, 2011.
+Cyber Detectives: Determining When Robots or People Misbehave. J. Yu and S. M. LaValle. 
+Algorithmic Foundations of Robotics IX, Springer Tracts in Advanced Robotics (STAR), 
+Springer Berlin/Heidelberg, vol 68, page(s): 391-407, 2011.
 ```
 
-Approximate inference algorithm
-
+Approximate inference algorithm:
 ```
-Story Validation and Approximate Path Inference with a Sparse Network of Heterogeneous Sensors. J. Yu and S. M. LaValle. 2011 IEEE International Conference on Robotics and Automation (ICRA 2011)
+Story Validation and Approximate Path Inference with a Sparse Network of Heterogeneous 
+Sensors. J. Yu and S. M. LaValle. 2011 IEEE International Conference on Robotics and 
+Automation (ICRA 2011).
 ```
 
