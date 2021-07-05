@@ -12,20 +12,32 @@
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
-      {% include fig.html url="/media/ral-16.png" description="Illustration of a reduction from planar monotone 3-SAT to optimal planar multi-robot path planning" %} 
+      {% include fig.html url="/media/ral-16.png" description="" %} 
     </td>
     <td style="border: none!important; vertical-align:top;">
-       In this line of work, we show that optimal multi-robot path/motion planning on graphs demonstrats a Pareto structure for different minimum time and minimum distance constraints. We further show that all these problems are NP-hard to solve, for both general graphs and planar graphs (the later implies the former). 
+       In this line of work, we show that optimal multi-robot path/motion planning on graphs demonstrats a Pareto structure for different minimum time and minimum distance constraints. We further show that all these problems are NP-hard to solve, for both general graphs and planar graphs (the later implies the former). The figure on the left illustrates of a reduction from planar monotone 3-SAT to minimum-makespan planar multi-robot path planning.
     </td>
   </tr>
 </table>
 
+Results for general graphs:
+
 ```
-Pebble Motion on Graphs with Rotations: Efficient Feasibility Tests and Planning 
-Algorithms. J. Yu and Daniela Rus. Algorithmic Foundations of Robotics XI, 
-Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015.
+Structure and Intractability of Optimal Multi-robot Path Planning on Graphs. J. Yu 
+and S. M. LaValle. The Twenty-Seventh AAAI Conference on Artificial Intelligence, 2013.
 ```
 
+```
+Optimal Multi-Robot Path Planning on Graphs: Structure and Computational Complexity. 
+J. Yu and S. M. LaValle. arXiv, 2015.
+```
+
+Results for planar graphs:
+
+```
+Intractability of Optimal Multi-Robot Path Planning on Planar Graphs. J. Yu. IEEE 
+Robotics and Automation Letters, 1(1), page(s): 33-40, 2016.
+```
 
 ### Feasibility 
 
