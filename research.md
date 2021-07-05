@@ -2,4 +2,8 @@
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
-Research 
+
+
+## Multi-robot motion planning: Feasibility via Group Theory
+
+## Reasoning with information spaces
