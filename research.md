@@ -4,6 +4,6 @@
 
 
 
-### Multi-robot motion planning: Feasibility via Group Theory
+### MRMP: Feasibility via Group Theory
 
 ### Reasoning with information spaces
