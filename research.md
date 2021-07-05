@@ -7,14 +7,14 @@
 
 ### &#62; MRMP: Feasibility via Group Theory
 
-### &#62; Combinatorial Filters & Information Spaces
+### &#62; Information Spaces
 
 #### Shadow Information Space for Multi-Target Tracking (2008-2012)  
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
-      {% include fig.html url="/media/sis-1.png" description="Several environments to which this research applies. " %}  
+      {% include fig.html url="/media/sis-1.png" description="Several environments to which this research applies. " %}<br /><br />
       {% include fig.html url="/media/sis-2.png" description="a) A 2D environment and trajectory followed by a robot with omni-directional visibility. b) The graph encoding combinatorial changes in visibility. c) The bipartite graph, made by compressing information in (b). d) A resulting maximum-flow graph, used to answer questions about tracking or counting targets." %}  
     </td>
     <td style="border: none!important; vertical-align:top;">
