@@ -18,7 +18,7 @@ nav {
     li {
       &.tag-h2 {
         font-size: 1.1em;
-
+        font-family: Courier, monospace; 
         a {
           font-weight: bold;
           color: #555;
@@ -28,6 +28,8 @@ nav {
       }
 
       &.tag-h3 {
+        font-size: 0.9em;
+        font-family: Courier, monospace; 
 
         + .tag-h2 {
           margin-top:10px;
