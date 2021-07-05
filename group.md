@@ -2,7 +2,7 @@
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
-## Current members 
+## Current Members 
 
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
@@ -47,7 +47,7 @@
 
 Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017-2018)
 
-### Graduate students
+### Graduate Students
 
 Wei Tang (MS in Computer Science, 2020)
 
