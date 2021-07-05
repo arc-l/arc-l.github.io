@@ -39,9 +39,23 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
-#### Heuristics for Multi-Robot Motion Planning
+#### Fast Heuristics for Multi-Robot Motion Planning
 
 
+<table border="0"  style="border: none!important; vertical-align:top;">
+  <tr style="border: none!important;">
+    <td width="200px" style="border: none!important;  vertical-align:top;">
+      <a href="https://youtu.be/0MUGrg5CphM" target="youtube">
+        {% include fig.html url="https://img.youtube.com/vi/0MUGrg5CphM/0.jpg" description="" %} 
+      </a> 
+    </td>
+    <td style="border: none!important; vertical-align:top;">
+       We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, sub-problem solution databases facilitate the fast resolution of local path conflicts. 
+    </td>
+  </tr>
+</table>
+
+<hr>
 
 ### Complexity 
 
