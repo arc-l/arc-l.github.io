@@ -7,7 +7,7 @@
 
 ### &#62; Multi-Robot Motion Planning: Optimality 
 
-### &#62; Multi-Robot Motion Planning: Complexity 
+### &#62; MRMP: Complexity 
 
 
 
@@ -47,9 +47,9 @@ Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015.
 
 <hr>
 
-### &#62; Information Spaces
+## Information Spaces
 
-#### Shadow Information Space for Multi-Target Tracking (2008-2012)  
+### Shadow Information Space for Multi-Target Tracking (2008-2012)  
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
@@ -73,7 +73,7 @@ LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, Apr. 2012.
 
 <hr />
 
-#### Cyber Detectives (2008-2011)  
+### Cyber Detectives (2008-2011)  
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
