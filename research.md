@@ -9,10 +9,30 @@
 
 ### &#62; Combinatorial Filters & Information Spaces
 
-#### Shadow Information Space for Multi-Target Tracking (2008-2012)
+#### Shadow Information Space for Multi-Target Tracking (2008-2012)  
 
+<table border="0"  style="border: none!important; vertical-align:top;">
+  <tr style="border: none!important;">
+    <td width="200px" style="border: none!important;  vertical-align:top;">
+      {% include fig.html url="/media/sis-1.png" description="Several environments to which this research applies. " %}  
+      {% include fig.html url="/media/sis-2.png" description="a) A 2D environment and trajectory followed by a robot with omni-directional visibility. b) The graph encoding combinatorial changes in visibility. c) The bipartite graph, made by compressing information in (b). d) A resulting maximum-flow graph, used to answer questions about tracking or counting targets." %}  
+    </td>
+    <td style="border: none!important; vertical-align:top;">
+Imagine a game of hide-and-seek (variations include tag, tick, Cops and Robbers) is being played. After the hiders conceal themselves (subsequent relocations are allowed), the seekers, usually having a map of the environment, start to search for the hiders. Most people who played the game as school children know that an effective search usually begins with the seekers checking places having high probabilities of containing a hider, from previous experience: a closet, an attic, a tall bush, and so on. After the most likely areas are exhausted, the next strategy is then to carry out a systematic search of the environment, possibly with some seekers guarding certain escape routes. Occasionally, during game play, some hiders may attempt to relocate themselves to avoid being found. While they succeed sometimes, they may end up being spotted by the seekers and instead getting found earlier.
 
-#### Cyber Detectives (2008-2011)
+      <strong>Shadow Information Spaces</strong> research builds a model that abstracts the above hide-and-seek problem. We reason around the evolution of information that's hidden from the robots' sensors. This applies to a wide variety of real world problems, some of which are illustrated in the top figure on the left. Calling a connected component of the environment that is out of the robot's sensor field-of-view as a shadow, we argue that given the transitions of shadows, the problem of estimating those hidden information can be transformed into a maximum flow problem on a bipartitie graph structure in the nondeterministic case (bottom figure on the right). When the targets move probabilistically and sensors are not reliable, Bayesian filter are engaged to solve the problem. Since our approach mimics Bayesian filters but always begins with a combinatorial structure, we call it a combinatorial filter. 
+    </td>
+  </tr>
+</table>
+
+The details are described in the following TOR paper:
+```
+Shadow Information Spaces: Combinatorial Filters for Tracking Targets. J. Yu 
+and S. M. LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, 
+Apr. 2012.
+```
+
+#### Cyber Detectives (2008-2011)  
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
