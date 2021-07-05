@@ -3,8 +3,8 @@
 </div>
 
 
-### Fast MRMP via Integer Programming 
+### &deg;Fast MRMP via Integer Programming 
 
-### MRMP: Feasibility via Group Theory
+### &deg;MRMP: Feasibility via Group Theory
 
-### Reasoning with information spaces
+### &deg;Reasoning with information spaces
