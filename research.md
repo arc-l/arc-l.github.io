@@ -46,7 +46,7 @@ page(s): 1163 - 1177, 2016.
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
       <a href="https://youtu.be/0MUGrg5CphM" target="youtube">
-        {% include fig.html url="https://img.youtube.com/vi/0MUGrg5CphM/0.jpg" description="" %} 
+        {% include fig.html url="/media/ddm.png" description="Click on picture for video." %} 
       </a> 
     </td>
     <td style="border: none!important; vertical-align:top;">
