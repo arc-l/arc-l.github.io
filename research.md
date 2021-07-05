@@ -39,7 +39,7 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
-#### Fast Heuristics for Multi-Robot Motion Planning
+#### Path Diversification and Database-Driven Conflict Resolution Heuristics
 
 
 <table border="0"  style="border: none!important; vertical-align:top;">
@@ -54,6 +54,12 @@ page(s): 1163 - 1177, 2016.
     </td>
   </tr>
 </table>
+
+```
+DDM: Fast Near-Optimal Multi-Robot Path Planning using Diversified-Path and 
+Optimal Sub-Problem Solution Database Heuristics. S. D. Han and J. Yu. IEEE 
+Robotics and Automation Letters 5, no. 2 (2020): 1350-1357. 
+```
 
 <hr>
 
