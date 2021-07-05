@@ -39,7 +39,7 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
-#### Spatio-Temporal Splitting Heuristics
+#### Spatio-Temporal Splitting Heuristics for Speeding up MRMP Algorithms
 
 
 <table border="0"  style="border: none!important; vertical-align:top;">
