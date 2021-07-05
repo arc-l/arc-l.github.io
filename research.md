@@ -27,9 +27,8 @@ Imagine a game of hide-and-seek (variations include tag, tick, Cops and Robbers)
 
 The details are described in the following TOR paper:
 ```
-Shadow Information Spaces: Combinatorial Filters for Tracking Targets. J. Yu 
-and S. M. LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, 
-Apr. 2012.
+Shadow Information Spaces: Combinatorial Filters for Tracking Targets. J. Yu and S. M. 
+LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, Apr. 2012.
 ```
 
 #### Cyber Detectives (2008-2011)  
@@ -55,7 +54,7 @@ Robotics (STAR), Springer Berlin/Heidelberg, vol 68, page(s): 391-407, 2011.
 Approximate inference algorithm:
 ```
 Story Validation and Approximate Path Inference with a Sparse Network of 
-Heterogeneous Sensors. J. Yu and S. M. LaValle. 2011 IEEE International 
-Conference on Robotics and Automation (ICRA 2011).
+Heterogeneous Sensors. J. Yu and S. M. LaValle. 2011 IEEE International Conference 
+on Robotics and Automation (ICRA 2011).
 ```
 
