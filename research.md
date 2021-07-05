@@ -31,6 +31,8 @@ Shadow Information Spaces: Combinatorial Filters for Tracking Targets. J. Yu and
 LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, Apr. 2012.
 ```
 
+<hr />
+
 #### Cyber Detectives (2008-2011)  
 
 <table border="0"  style="border: none!important; vertical-align:top;">
