@@ -39,6 +39,35 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
+#### Optimally Solving Unlabled Multi-Robot Motion Planning Problems 
+
+
+<table border="0"  style="border: none!important; vertical-align:top;">
+  <tr style="border: none!important;">
+    <td width="200px" style="border: none!important;  vertical-align:top;">
+      <a href="https://www.youtube.com/watch?v=ldelQkjzPwA&t=20s" target="youtube">
+        {% include fig.html url="/media/cdc-12.png" description="Click on the picture for video." %} 
+      </a> 
+    </td>
+    <td style="border: none!important; vertical-align:top;">
+      For multi-robot formation reconfiguration (i.e., permutation invariant multi-robot path planning), we observe that by separating goal assignment and path planning/coordination, we can obtain a faster algorithm for distance optimal multi-robot formation planning with a total running time of $O(n2V)$, in which $n$ is the number of robots and $V$ is the number of vertices of the graph. We show that distance optimal paths can also be scheduled with a completion (convergence) time of no more than $n + V - 1$, which is a tight bound. The resulting algorithm is fast enough to plan distance optimal paths for hundreds of robots in real time. 
+     </td>
+  </tr>
+</table>
+
+```
+Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance 
+Optimal Formation Planning and Control on Graphs. J. Yu and S. M. LaValle. 52nd IEEE 
+Conference on Decision and Control (CDC 2013).
+```
+
+```
+Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee. 
+J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
+```
+
+<hr>
+
 #### Spatio-Temporal Splitting Heuristics for Speeding up MRMP Algorithms
 
 
