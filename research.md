@@ -39,6 +39,28 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
+#### Spatio-Temporal Splitting Heuristics
+
+
+<table border="0"  style="border: none!important; vertical-align:top;">
+  <tr style="border: none!important;">
+    <td width="200px" style="border: none!important;  vertical-align:top;">
+        {% include fig.html url="/media/teng-icra-21.png" description="Illustrationn of the time-split (top) and space-split (bottom) heuristics." %} 
+    </td>
+    <td style="border: none!important; vertical-align:top;">
+       We examine the application of spatio-temporal splitting heuristics to the MRMP problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality.
+    </td>
+  </tr>
+</table>
+
+```
+Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. 
+Guo, S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and 
+Automation (ICRA 2021).
+```
+
+<hr>
+
 #### Path Diversification and Database-Driven Conflict Resolution Heuristics
 
 
@@ -46,11 +68,11 @@ page(s): 1163 - 1177, 2016.
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
       <a href="https://youtu.be/0MUGrg5CphM" target="youtube">
-        {% include fig.html url="/media/ddm.png" description="Click on picture for video." %} 
+        {% include fig.html url="/media/ddm.png" description="Click on the picture for video." %} 
       </a> 
     </td>
     <td style="border: none!important; vertical-align:top;">
-       We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, sub-problem solution databases facilitate the fast resolution of local path conflicts. 
+       We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, solution databases facilitate the fast resolution of local path conflicts. 
     </td>
   </tr>
 </table>
