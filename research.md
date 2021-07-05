@@ -46,7 +46,7 @@ page(s): 1163 - 1177, 2016.
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
       <a href="https://www.youtube.com/watch?v=ldelQkjzPwA&t=20s" target="youtube">
-        {% include fig.html url="/media/cdc-12.png" description="Click on the picture for video." %} 
+        {% include fig.html url="/media/cdc-12.png" description="Click for videos showing executions of distance optimal plans." %} 
       </a> 
     </td>
     <td style="border: none!important; vertical-align:top;">
@@ -97,7 +97,7 @@ S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automat
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
       <a href="https://youtu.be/0MUGrg5CphM" target="youtube">
-        {% include fig.html url="/media/ddm.png" description="Click on the picture for video." %} 
+        {% include fig.html url="/media/ddm.png" description="Click for videos showing the execution of plans for static and dynamic problems." %} 
       </a> 
     </td>
     <td style="border: none!important; vertical-align:top;">
@@ -186,7 +186,7 @@ Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015.
 
 ## Information Spaces
 
-#### Shadow Information Space for Multi-Target Tracking (2008-2012)  
+#### Shadow Information Space for Multi-Target Tracking
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
@@ -210,7 +210,7 @@ LaValle. IEEE Transactions on Robotics, 28(2), page(s): 440-456, Apr. 2012.
 
 <hr />
 
-#### Cyber Detectives (2008-2011)  
+#### Cyber Detectives
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
