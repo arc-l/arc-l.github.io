@@ -32,7 +32,7 @@ p_bib=""
 include cite.html 
 p_title="Capacitated Vehicle Routing with Target Geometric Constraints" 
 p_id="GaoYu21IROS" 
-p_author="K. Gao Han and J. Yu" 
+p_author="K. Gao and J. Yu" 
 p_venue="2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021)" 
 p_pdf="files/GaoYu21IROS.pdf" 
 p_bib="@InProceedings{GaoYu21IROS,<br>
