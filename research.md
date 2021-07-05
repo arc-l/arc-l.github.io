@@ -4,6 +4,6 @@
 
 
 
-## Multi-robot motion planning: Feasibility via Group Theory
+### Multi-robot motion planning: Feasibility via Group Theory
 
-## Reasoning with information spaces
+### Reasoning with information spaces
