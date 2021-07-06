@@ -3,10 +3,10 @@
 </div>
 
 <div>
-  <a id="links" href="#object-manipulation">Object Manipulation</a>&nbsp;&middot;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Optimal Multi-Robot Coverage</a>&nbsp;&middot;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&middot;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Informative Path Planning</a>&nbsp;&middot;&nbsp;
+  <a id="links" href="#object-manipulation">Object Manipulation</a>&nbsp;&#9679;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Optimal Multi-Robot Coverage</a>&nbsp;&#9679;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&#9679;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Informative Path Planning</a>&nbsp;&#9679;&nbsp;
   <a id="links" href="multi-robot-motion-planning">Information Spaces</a>
 </div>
 
