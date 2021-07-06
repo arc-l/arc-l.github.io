@@ -2,11 +2,11 @@
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
-<div style="text-align: right">
-  <a id="links" href="#object-manipulation">Object Manipulation</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Optimal Multi-Robot Coverage</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="multi-robot-motion-planning">Informative Path Planning</a>
+<div>
+  <a id="links" href="#object-manipulation">Object Manipulation</a>&nbsp;&middot;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Optimal Multi-Robot Coverage</a>&nbsp;&middot;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&middot;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Informative Path Planning</a>&nbsp;&middot;&nbsp;
   <a id="links" href="multi-robot-motion-planning">Information Spaces</a>
 </div>
 
