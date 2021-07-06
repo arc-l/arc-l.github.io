@@ -2,11 +2,20 @@
   <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
 </div>
 
+<div style="text-align: right">
+  <a id="links" href="#object-manipulation">Object Manipulation</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Optimal Multi-Robot Coverage</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="multi-robot-motion-planning">Informative Path Planning</a>
+  <a id="links" href="multi-robot-motion-planning">Information Spaces</a>
+</div>
+
+
 ## Object Rearrangement
 
-## Optimal Multi-Agent Coverage 
+## Optimal Multi-Robot Coverage
 
-## Multi-Robot Motion Planning (MRMP)
+## Multi-Robot Motion Planning
 
 ### Optimal Solutions 
 
@@ -183,6 +192,8 @@ Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015.
 ```
 
 <hr>
+
+## Informative Path Planning
 
 ## Information Spaces
 
