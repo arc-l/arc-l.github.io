@@ -13,7 +13,7 @@
   <tr style="border: none!important;">
     <td width="200px" style="border: none!important;  vertical-align:top;">
       <a href="https://youtu.be/SSVS6PxpNiY" target="youtube">
-      {% include fig.html url="/media/tac-12.png" description="Simulation showing that the rendezvous behavior of the 16 Dubins car vehicles depends on a single 'windshield' angle. Note that this simulation only deals with the key case of cyclic pursuit. Our work, on the other hand, handles arbitrary pursuit graph topology. Click for a video hightlighting the concensus process." %}  
+      {% include fig.html url="/media/tac-12.png" description=" Click for a video hightlighting the concensus process. The simulation shows that the rendezvous behavior of the 16 Dubins car vehicles depends on a single 'windshield' angle. Note that this simulation only deals with the key case of cyclic pursuit. Our work, on the other hand, handles arbitrary pursuit graph topology." %}  
       </a> 
     </td>
     <td style="border: none!important; vertical-align:top;">
