@@ -8,8 +8,8 @@
   <a id="links" href="multi-robot-motion-planning">Multi-Robot Motion Planning</a>&nbsp;&#9679;&nbsp;
   <a id="links" href="informative-path-planning">Informative Path Planning</a>&nbsp;&#9679;&nbsp;
   <a id="links" href="information-spaces">Information Spaces</a>
-</div>
-
+</div>  
+<br />
 
 ## Object Rearrangement
 
