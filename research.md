@@ -13,8 +13,12 @@
 
 ## Object Rearrangement
 
+<br />
+<br />
 ## Optimal Multi-Robot Coverage
 
+<br />
+<br />
 ## Multi-Robot Motion Planning
 
 ### Optimal Solutions 
@@ -193,8 +197,12 @@ Springer Tracts in Advanced Robotics (STAR), vol 107, page(s): 729-746, 2015.
 
 <hr>
 
+<br />
+<br />
 ## Informative Path Planning
 
+<br />
+<br />
 ## Information Spaces
 
 #### Shadow Information Space for Multi-Target Tracking
