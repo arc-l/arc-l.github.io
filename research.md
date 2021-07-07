@@ -73,6 +73,8 @@ K. Gao, J. Gong, and J. Yu. 2021 IEEE International Conference on Robotics and
 Automation (ICRA 2021).
 ```
 
+<hr>
+
 ### Spatio-Temporal Splitting Heuristics for MRMP
 
 {% include r-item.html 
@@ -86,5 +88,3 @@ Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. Gu
 S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automation 
 (ICRA 2021).
 ```
-
-<hr>
