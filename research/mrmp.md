@@ -69,7 +69,7 @@ Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guara
 J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
 ```
 
-<a id="links" href="/files/YuLav13CDC.pdf">paper</a>
+<a id="links" href="/files/YuLav13CDC.pdf" target="_">paper</a>
 
 ```
 Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance 
@@ -141,7 +141,7 @@ Optimal Multi-Robot Path Planning on Graphs: Structure and Computational Complex
 J. Yu and S. M. LaValle. arXiv, 2015.
 ```
 
-Initial AAAI-13 conference <a id="links" href="/files/YuLav13AAAI.pdf">paper</a>
+Initial AAAI-13 conference <a id="links" href="/files/YuLav13AAAI.pdf" target="_">paper</a>
 
 ```
 Structure and Intractability of Optimal Multi-robot Path Planning on Graphs. J. Yu 
