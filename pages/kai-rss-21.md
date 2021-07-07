@@ -1,3 +1,7 @@
+<div id="#object-manipulation" style="text-align: right">
+  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
+</div>
+
 ## On Minimizing the Number of Running Buffers for Tabletop Rearrangement
 
 In nearly all aspects of our everyday lives, be it work related, at home, or for 
