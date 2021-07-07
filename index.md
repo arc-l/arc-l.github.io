@@ -1,7 +1,7 @@
 <div style="text-align: right">
-  <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="https://github.com/arc-l">Code on Github</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en">Google Scholar</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw" target="_">YouTube</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="https://github.com/arc-l" target="_">Code on Github</a>&nbsp;&nbsp;&nbsp;
+  <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en" target="_">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
 
@@ -53,7 +53,7 @@ based on motion models from our research on multi-robot motion planning and the 
 
 ## Legacy Group Website
 
-If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.html">old code</a> and/or the <a id="links" href="https://arc.cs.rutgers.edu/mvp/">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://arc.cs.rutgers.edu">arc.cs.rutgers.edu</a>, no longer updated after 07/2021. 
+If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.html" target="_">old code</a> and/or the <a id="links" href="https://arc.cs.rutgers.edu/mvp/" target="_">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://arc.cs.rutgers.edu" target="_">arc.cs.rutgers.edu</a>, no longer updated after 07/2021. 
 
 ## Prospective Students
 
