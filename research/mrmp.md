@@ -11,25 +11,27 @@
 
 #### Multi-Robot Motion Planning on Graphs and Network Flow
 
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-      {% include fig.html url="/media/wafr-12.png" description="" %} 
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-       We show that there is an intimate relation between the problem of multi-robot motion/formation planning and network flow. Using the time expansion technique (illustrated on the left), we can convert the problem of finding collision-free paths for multiple robots to a problem of flowing commodities through a network (we call this the time-expanded network). In retrospect, this is not very surprising: Robots traveling on a graph, when looked from both space and time, are just like commodities traveling on a network. Applying results from network flow literature, we obtain efficient algorithms for planning time optimal and distance optimal paths for indistinguishable robots (i.e. the goals are  permutation invariant). For the permutation invariant case, we also looked at the compatibility of multiple objectives. It turns out that three common objectives, last arrival time, average arrival time, and total distance, have a pairwise Pareto optimal structure. . 
-    </td>
-  </tr>
-</table>
+{% include r-item.html 
+   url="/media/wafr-12.png" 
+   paperurl="/files/YuLav13STAR.pdf" 
+   description="We show that there is an intimate relation between the problem of multi-robot motion/formation planning and network flow. Using the time expansion technique (illustrated on the left), we can convert the problem of finding collision-free paths for multiple robots to a problem of flowing commodities through a network (we call this the time-expanded network). In retrospect, this is not very surprising: Robots traveling on a graph, when looked from both space and time, are just like commodities traveling on a network. Applying results from network flow literature, we obtain efficient algorithms for planning time optimal and distance optimal paths for indistinguishable robots (i.e. the goals are  permutation invariant). For the permutation invariant case, we also looked at the compatibility of multiple objectives. It turns out that three common objectives, last arrival time, average arrival time, and total distance, have a pairwise Pareto optimal structure." %}
 
-Equivalence between MRMP and network flow: 
 ```
 Multi-agent Path Planning and Network Flow. J. Yu and S. M. LaValle. Algorithmic 
 Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer 
 Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
 ```
 
-Algorithms and heuristics for labeled MRMP on graphs:
+<hr>
+
+#### Integer Programming Models and Heuristics
+
+
+{% include r-item.html 
+   url="/media/mrmp-tor-13.png" 
+   paperurl="/files/YuLav16TOR.pdf" 
+   description="We study optimal multirobot path planning on graphs (MPP) over four minimization objectives: the makespan (last arrival time), the maximum (single-robot traveled) distance, the total arrival time, and the total distance. Having established previously that these objectives are distinct and NP-hard to optimize, in this paper, we focus on efficient algorithmic solutions for solving these optimal MPP problems. Toward this goal, we first establish a one-to-one solution mapping between MPP and a special type of multiflow network. Based on this equivalence and integer linear programming (ILP), we design novel and complete algorithms for optimizing over each of the four objectives. In particular, our exact algorithm for computing optimal makespan solutions is a first that is capable of solving extremely challenging problems with robot-vertex ratios as high as 100%. Then, we further improve the computational performance of these exact algorithms through the introduction of principled heuristics, at the expense of slight optimality loss. The combination of ILP model based algorithms and the heuristics proves to be highly effective, allowing the computation of $1.x$-optimal solutions for problems containing hundreds of robots, densely populated in the environment, often in just seconds. " %}
+
 ```
 Optimal Multi-Robot Path Planning on Graphs: Complete Algorithms and Effective 
 Heuristics. J. Yu and S. M. LaValle. IEEE Transactions on Robotics, 32(5), 
