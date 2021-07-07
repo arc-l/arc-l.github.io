@@ -98,34 +98,39 @@ Robotics and Automation Letters 5, no. 2 (2020): 1350-1357.
 
 ### Computational Complexity 
 
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-      {% include fig.html url="/media/ral-16.png" description="" %} 
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-       In this line of work, we show that optimal multi-robot path/motion planning on graphs demonstrats a Pareto structure for different minimum time and minimum distance constraints. We further show that all these problems are NP-hard to solve, for both general graphs and planar graphs (the later implies the former). The figure on the left illustrates of a reduction from planar monotone 3-SAT to minimum-makespan multi-robot motion planning on planar graphs. 
-    </td>
-  </tr>
-</table>
+### NP-Hardness on Planar Graphs 
 
-Results for general graphs:
+{% include r-item.html 
+   url="/media/hard-ral-16.png" 
+   paperurl="/files/Yu16RAL.pdf" 
+   description="—We study the computational complexity of optimally solving multirobot path planning problems on planar graphs. For four common time- and distance-based objectives, we show that the associated path optimization problems for multiple robots are all NP-complete, even when the underlying graph is planar. Establishing the computational intractability of optimal multirobot path planning problems on planar graphs has important practical implications. In particular, our result suggests the preferred approach toward solving such problems, when the number of robots is large, is to augment the planar environment to reduce the sharing of paths among robots traveling in opposite directions on those paths. Indeed, such efficiency boosting structures, such as highways and elevated intersections, are ubiquitous in robotics and transportation applications." %}
 
 ```
-Structure and Intractability of Optimal Multi-robot Path Planning on Graphs. J. Yu 
-and S. M. LaValle. The Twenty-Seventh AAAI Conference on Artificial Intelligence, 2013.
+Intractability of Optimal Multi-Robot Path Planning on Planar Graphs. J. Yu. IEEE 
+Robotics and Automation Letters, 1(1), page(s): 33-40, 2016.
 ```
+
+### NP-Hardness on General Graphs 
+
+{% include r-item.html 
+   url="/media/hard-aaai-13.png" 
+   paperurl="https://arxiv.org/pdf/1507.03289.pdf" 
+   description="We study the problem of optimal multi-robot path planning on graphs (MPP) over four distinct minimization objectives:
+the total arrival time, the makespan (last arrival time), the total distance, and the maximum (single-robot traveled) distance.
+On the structure side, we show that each pair of these four objectives induces a Pareto front and cannot always be optimized
+simultaneously. Then, through reductions from 3SAT, we further establish that computation over each objective is an NP-hard task,
+providing evidence that solving MPP optimally is generally intractable. " %}
 
 ```
 Optimal Multi-Robot Path Planning on Graphs: Structure and Computational Complexity. 
 J. Yu and S. M. LaValle. arXiv, 2015.
 ```
 
-Results for planar graphs:
+Initial AAAI-13 conference <a id="links" href="/files/YuLav13AAAI.pdf">paper</a>
 
 ```
-Intractability of Optimal Multi-Robot Path Planning on Planar Graphs. J. Yu. IEEE 
-Robotics and Automation Letters, 1(1), page(s): 33-40, 2016.
+Structure and Intractability of Optimal Multi-robot Path Planning on Graphs. J. Yu 
+and S. M. LaValle. The Twenty-Seventh AAAI Conference on Artificial Intelligence, 2013.
 ```
 
 <hr>
