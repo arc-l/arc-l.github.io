@@ -6,7 +6,7 @@
 
 <br />
 
-### Running Buffer Minimization for Tabletop Rearrangement (R:SS 2021)
+### Running Buffer Minimization
 
 {% include r-item.html 
    url="/media/kai-rss-21.png" 
@@ -23,7 +23,7 @@ S. W. Feng, and J Yu. 2021 Robotics: Science and Systems (RSS 2021).
 
 <hr />
 
-### Rearrangement on Lattices with Pick-n-Swaps (R:SS 2021)
+### Rearrangement on Lattices
 
 {% include r-item.html 
    url="/media/rss-21.png" 
@@ -40,7 +40,7 @@ Algorithms. J. Yu. 2021 Robotics: Science and Systems (RSS 2021).
 
 <hr />
 
-### Deep Interaction Prediction Network (ICRA 2021)
+### Deep Interaction Prediction
 
 {% include r-item.html 
    url="/media/dipn-icra-21.png"
@@ -58,7 +58,7 @@ on Robotics and Automation (ICRA 2021).
 
 <hr />
 
-### Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
+### Globally Optimal Coverage of 3D-Embedded Surfaces
 
 {% include r-item.html 
    url="/media/siwei-icra-21.png"
