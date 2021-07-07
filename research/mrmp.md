@@ -41,6 +41,21 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
+#### Toward Optimally Solving Continuous Problems
+
+{% include r-item.html 
+   url="/media/isrr-15.png" 
+   code="https://github.com/arc-l/optimal-mrpp-continuous"
+   paperurl="/files/YuRus15ISRR.pdf" 
+   description="We present a centralized algorithmic framework for solving multirobot path planning problems in general, two-dimensional, continuous environments while minimizing globally the task completion time. The framework obtains high levels of effectiveness through the composition of an optimal discretization of the continuous environment and the subsequent fast, near-optimal resolution of the resulting discrete planning problem. This principled approach achieves orders of magnitudes better performance with respect to both speed and the supported robot density. For a wide variety of environments, our method is shown to compute globally near-optimal solutions for 50 robots in seconds with robots packed close to each other. In the extreme, the method can consistently solve problems with hundreds of robots that occupy over 30% of the free space. " %}
+
+```
+An Effective Algorithmic Framework for Near Optimal Multi-Robot Path Planning. J. Yu 
+and D. Rus. Bicchi A., Burgard W. (eds), Robotics Research, vol 1, pp 495-511, 2018.
+```
+
+<hr>
+
 #### Optimally Solving Unlabled Multi-Robot Motion Planning Problems 
 
 {% include r-item.html 
