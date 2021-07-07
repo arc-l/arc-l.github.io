@@ -9,6 +9,23 @@
 
 ### Computing Optimal Solutions 
 
+#### Solving Dense Continuous Problem with Provable Guarantees
+
+
+{% include r-item.html 
+   url="/media/chinta-wafr-18.png" 
+   video="https://www.youtube.com/watch?v=2-QHESZ_p3E"
+   paperurl="https://arxiv.org/pdf/1807.03347.pdf" 
+   description="We push the limit in planning collision-free motions for routing uniform labeled discs in two dimensions. First, from a theoretical perspective, we show that the constant-factor time-optimal routing of labeled discs can be achieved using a polynomial-time algorithm with robot density over 50% in the limit (i.e., over half of the workspace may be occupied by the discs). Second, from a more practical standpoint, we provide a high performance algorithm that computes near-optimal (e.g., $1.x$) solutions under the same density setting." %}
+
+```
+Coordinating the Motion of Labeled Discs with Optimality Guarantees under Extreme 
+Density. R. Chinta, S. D. Han and J. Yu. Algorithmic Foundations of Robotics XIII, 
+Springer Proceedings in Advanced Robotics (SPAR), page(s): 817-834, 2020. 
+```
+
+<hr>
+
 #### Toward Optimally Solving Continuous Problems
 
 {% include r-item.html 
