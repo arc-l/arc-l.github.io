@@ -4,9 +4,6 @@
 
 {% include research-topics.html %}
 
-<br />
-## Page Under Construction - Check Back Later!
-
 ### Running Buffer Minimization for Tabletop Rearrangement
 
 <table border="0"  style="border: none!important; vertical-align:top;">
@@ -22,6 +19,8 @@ show that random labeled and unlabeled instances, which more closely mimics real
     </td>
   </tr>
 </table>
+
+<hr />
 
 ### Rearrangement on Lattices with Pick-n-Swaps
 
@@ -57,3 +56,5 @@ studies corroborate the effectiveness of our algorithms.
     </td>
   </tr>
 </table>
+
+<hr />
