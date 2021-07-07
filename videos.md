@@ -1,16 +1,16 @@
 This page will be infrequently updated. For latest videos, check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
 <br/>
-<a href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&middot;&nbsp;
-<a href="#recycle">Recycling Automation Highlight</a>&nbsp;&middot;&nbsp;
-<a href="#periguard">Optimal Perimeter Guarding</a>&nbsp;&middot;&nbsp;
-<a href="#ddmstar">DDM</a>&nbsp;&middot;&nbsp;
-<a href="#stack">Efficient High Quality Stack Rearrangement</a>&nbsp;&middot;&nbsp;
-<a href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&middot;&nbsp;
-<a href="#micromvp">micro-Multi-Vehicle Platform</a>&nbsp;&middot;&nbsp;
-<a href="#mppcisrr">Multi-Robot Path Planning</a>&nbsp;&middot;&nbsp;
-<a href="#reconfiguration">Optimal Formation Reconfiguration</a>&nbsp;&middot;&nbsp;
-<a href="#rendezvous">Rendezvous Without Coordinates</a>
+<a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#recycle">Recycling Automation Highlight</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#periguard">Optimal Perimeter Guarding</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#ddmstar">DDM</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#stack">Efficient High Quality Stack Rearrangement</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#micromvp">micro-Multi-Vehicle Platform</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#mppcisrr">Multi-Robot Path Planning</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#reconfiguration">Optimal Formation Reconfiguration</a>&nbsp;&9679;&nbsp;
+<a id="links" href="#rendezvous">Rendezvous Without Coordinates</a>
 <br>
 <a name="dipn"></a>
 <p>
