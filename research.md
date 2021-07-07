@@ -10,7 +10,7 @@
 
 {% include r-item.html 
    url="/media/kai-rss-21.png" 
-   readmore="" 
+   readmore="/pages/kai-rss-21.html" 
    video="https://youtu.be/hbD-cumF_H4" 
    code="https://github.com/arc-l/running-buffer" 
    paperurl="https://arxiv.org/pdf/2105.06357.pdf" 
@@ -27,7 +27,7 @@ S. W. Feng, and J Yu. 2021 Robotics: Science and Systems (RSS 2021).
 
 {% include r-item.html 
    url="/media/rss-21.png" 
-   readmore="" 
+   readmore="/pages/rss-21.html" 
    video="https://youtu.be/LcI-Es5w5HI" 
    code="https://github.com/arc-l/lattice-rearrangement" 
    paperurl="https://arxiv.org/pdf/2105.05366.pdf" 
