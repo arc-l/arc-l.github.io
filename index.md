@@ -56,4 +56,6 @@ If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.h
 
 ## Prospective Students
 
-We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting.
+We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting. Note that, given the volume of requests, generic inquries about "positions" at the lab will most likely not be answered. 
+
+
