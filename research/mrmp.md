@@ -40,19 +40,18 @@ page(s): 1163 - 1177, 2016.
 
 #### Optimally Solving Unlabled Multi-Robot Motion Planning Problems 
 
+{% include r-item.html 
+   url="/media/cdc-12.png" 
+   video="https://www.youtube.com/watch?v=ldelQkjzPwA" 
+   paperurl="/files/YuLav12CDC.pdf" 
+   description="For multi-robot formation reconfiguration (i.e., permutation invariant multi-robot path planning), we observe that by separating goal assignment and path planning/coordination, we can obtain a faster algorithm for distance optimal multi-robot formation planning with a total running time of $O(n2V)$, in which $n$ is the number of robots and $V$ is the number of vertices of the graph. We show that distance optimal paths can also be scheduled with a completion (convergence) time of no more than $n + V - 1$, which is a tight bound. The resulting algorithm is fast enough to plan distance optimal paths for hundreds of robots in real time. " %}
 
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-      <a href="https://www.youtube.com/watch?v=ldelQkjzPwA&t=20s" target="youtube">
-        {% include fig.html url="/media/cdc-12.png" description="Click for videos showing executions of distance optimal plans." %} 
-      </a> 
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-      For multi-robot formation reconfiguration (i.e., permutation invariant multi-robot path planning), we observe that by separating goal assignment and path planning/coordination, we can obtain a faster algorithm for distance optimal multi-robot formation planning with a total running time of $O(n2V)$, in which $n$ is the number of robots and $V$ is the number of vertices of the graph. We show that distance optimal paths can also be scheduled with a completion (convergence) time of no more than $n + V - 1$, which is a tight bound. The resulting algorithm is fast enough to plan distance optimal paths for hundreds of robots in real time. 
-     </td>
-  </tr>
-</table>
+```
+Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee. 
+J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
+```
+
+<a id="links" paperurl="/files/YuLav13CDC.pdf">paper</a>
 
 ```
 Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance 
@@ -60,26 +59,14 @@ Optimal Formation Planning and Control on Graphs. J. Yu and S. M. LaValle. 52nd 
 Conference on Decision and Control (CDC 2013).
 ```
 
-```
-Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee. 
-J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
-```
-
 <hr>
 
 #### Spatio-Temporal Splitting Heuristics for Speeding up MRMP Algorithms
 
-
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-        {% include fig.html url="/media/teng-icra-21.png" description="Illustrationn of the time-split (top) and space-split (bottom) heuristics." %} 
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-       We examine the application of spatio-temporal splitting heuristics to the MRMP problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality.
-    </td>
-  </tr>
-</table>
+{% include r-item.html 
+   url="/media/teng-icra-21.png.png" 
+   paperurl="https://arxiv.org/pdf/2103.14111.pdf" 
+   description="We examine the application of spatio-temporal splitting heuristics to the MRMP problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality." %}
 
 ```
 Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. Guo, 
@@ -92,18 +79,11 @@ S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automat
 #### Path Diversification and Database-Driven Conflict Resolution Heuristics
 
 
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-      <a href="https://youtu.be/0MUGrg5CphM" target="youtube">
-        {% include fig.html url="/media/ddm.png" description="Click for videos showing the execution of plans for static and dynamic problems." %} 
-      </a> 
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-       We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, solution databases facilitate the fast resolution of local path conflicts. 
-    </td>
-  </tr>
-</table>
+{% include r-item.html 
+   url="/media/ddm-ral-20.png.png" 
+   video="https://youtu.be/0MUGrg5CphM" 
+   paperurl="https://arxiv.org/pdf/1904.02598.pdf" 
+   description="We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, solution databases facilitate the fast resolution of local path conflicts. " %}
 
 ```
 DDM: Fast Near-Optimal Multi-Robot Path Planning using Diversified-Path and 
