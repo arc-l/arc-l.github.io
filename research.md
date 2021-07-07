@@ -72,3 +72,19 @@ Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces. S. W. Fe
 K. Gao, J. Gong, and J. Yu. 2021 IEEE International Conference on Robotics and 
 Automation (ICRA 2021).
 ```
+
+### Spatio-Temporal Splitting Heuristics for MRMP
+
+{% include r-item.html 
+   url="/media/teng-icra-21.png" 
+   video="https://youtu.be/w8wqnmuBKwU" 
+   paperurl="https://arxiv.org/pdf/2103.14111.pdf" 
+   description="We examine the application of spatio-temporal splitting heuristics to the multi-robot motion planning (MRMP) problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality." %}
+
+```
+Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. Guo, 
+S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automation 
+(ICRA 2021).
+```
+
+<hr>
