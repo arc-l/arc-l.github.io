@@ -45,7 +45,7 @@ Algorithms. J. Yu. 2021 Robotics: Science and Systems (RSS 2021).
 {% include r-item.html 
    url="/media/dipn-icra-21.png"
    readmore="https://github.com/arc-l/dipn" 
-   video="https://youtu.be/LcI-Es5w5HI" 
+   video="https://youtu.be/CNkZfZ-0Du8" 
    code="https://github.com/arc-l/dipn" 
    paperurl="https://arxiv.org/pdf/2011.04692.pdf" 
    description="We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex interactions that ensue as a robot end-effector pushes multiple objects, whose physical properties, including size, shape, mass, and friction coefficients may be unknown a priori. DIPN “imagines” the effect of a push action and generates an accurate synthetic image of the predicted outcome. DIPN is shown to be sample efficient when trained in simulation or with a real robotic system. The high accuracy of DIPN allows direct integration with a grasp network, yielding a robotic manipulation system capable of executing challenging clutter removal tasks while being trained in a fully self-supervised manner. The overall network demonstrates intelligent behavior in selecting proper actions between push and grasp for completing clutter removal tasks and significantly outperforms the previous state-of-the-art. Remarkably, DIPN achieves even better performance on the real robotic hardware system than in simulation. " %}
@@ -63,7 +63,6 @@ on Robotics and Automation (ICRA 2021).
 {% include r-item.html 
    url="/media/siwei-icra-21.png"
    readmore="https://github.com/arc-l/dipn" 
-   video="https://youtu.be/LcI-Es5w5HI" 
    code="https://github.com/arc-l/3d_coverage" 
    paperurl="https://arxiv.org/pdf/2011.04692.pdf" 
    description="We carry out a structural and algorithmic study of a mobile sensor coverage optimization problem targeting 2D surfaces embedded in a 3D workspace. The investigated settings model multiple important applications including camera network deployment for surveillance, geological monitoring/survey of 3D terrains, and UVC-based surface disinfection for the prevention of the spread of disease agents (e.g., SARS-CoV2). Under a unified general “sensor coverage” problem, three concrete formulations are examined, focusing on optimizing visibility, single-best coverage quality, and cumulative quality, respectively. After demonstrating the computational intractability of all these formulations, we describe approximation schemes and mathematical programming models for near-optimally solving them. The effectiveness of our methods is thoroughly evaluated under realistic and practical scenarios.  " %}
