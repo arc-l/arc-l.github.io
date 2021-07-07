@@ -1,7 +1,7 @@
 <div style="text-align: right">
   <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="https://github.com/arc-l">Code on Github</a>&nbsp;&nbsp;&nbsp;
-  <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en">Google Scholar</a>
+  <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
 
