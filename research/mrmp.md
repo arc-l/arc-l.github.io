@@ -9,17 +9,17 @@
 
 ### Computing Optimal Solutions 
 
-#### Multi-Robot Motion Planning on Graphs and Network Flow
+#### Toward Optimally Solving Continuous Problems
 
 {% include r-item.html 
-   url="/media/wafr-12.png" 
-   paperurl="/files/YuLav13STAR.pdf" 
-   description="We show that there is an intimate relation between the problem of multi-robot motion/formation planning and network flow. Using the time expansion technique (illustrated above), we can convert the problem of finding collision-free paths for multiple robots to a problem of flowing commodities through a network (we call this the time-expanded network). In retrospect, this is not very surprising: Robots traveling on a graph, when looked from both space and time, are just like commodities traveling on a network. Applying results from network flow literature, we obtain efficient algorithms for planning time optimal and distance optimal paths for indistinguishable robots (i.e. the goals are  permutation invariant). For the permutation invariant case, we also looked at the compatibility of multiple objectives. It turns out that three common objectives, last arrival time, average arrival time, and total distance, have a pairwise Pareto optimal structure." %}
+   url="/media/isrr-15.png" 
+   code="https://github.com/arc-l/optimal-mrpp-continuous"
+   paperurl="/files/YuRus15ISRR.pdf" 
+   description="We present a centralized algorithmic framework for solving multirobot path planning problems in general, two-dimensional, continuous environments while minimizing globally the task completion time. The framework obtains high levels of effectiveness through the composition of an optimal discretization of the continuous environment and the subsequent fast, near-optimal resolution of the resulting discrete planning problem. This principled approach achieves orders of magnitudes better performance with respect to both speed and the supported robot density. For a wide variety of environments, our method is shown to compute globally near-optimal solutions for 50 robots in seconds with robots packed close to each other. In the extreme, the method can consistently solve problems with hundreds of robots that occupy over 30% of the free space. " %}
 
 ```
-Multi-agent Path Planning and Network Flow. J. Yu and S. M. LaValle. Algorithmic 
-Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer 
-Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
+An Effective Algorithmic Framework for Near Optimal Multi-Robot Path Planning. J. Yu 
+and D. Rus. Bicchi A., Burgard W. (eds), Robotics Research, vol 1, pp 495-511, 2018.
 ```
 
 <hr>
@@ -41,17 +41,17 @@ page(s): 1163 - 1177, 2016.
 
 <hr>
 
-#### Toward Optimally Solving Continuous Problems
+#### Multi-Robot Motion Planning on Graphs and Network Flow
 
 {% include r-item.html 
-   url="/media/isrr-15.png" 
-   code="https://github.com/arc-l/optimal-mrpp-continuous"
-   paperurl="/files/YuRus15ISRR.pdf" 
-   description="We present a centralized algorithmic framework for solving multirobot path planning problems in general, two-dimensional, continuous environments while minimizing globally the task completion time. The framework obtains high levels of effectiveness through the composition of an optimal discretization of the continuous environment and the subsequent fast, near-optimal resolution of the resulting discrete planning problem. This principled approach achieves orders of magnitudes better performance with respect to both speed and the supported robot density. For a wide variety of environments, our method is shown to compute globally near-optimal solutions for 50 robots in seconds with robots packed close to each other. In the extreme, the method can consistently solve problems with hundreds of robots that occupy over 30% of the free space. " %}
+   url="/media/wafr-12.png" 
+   paperurl="/files/YuLav13STAR.pdf" 
+   description="We show that there is an intimate relation between the problem of multi-robot motion/formation planning and network flow. Using the time expansion technique (illustrated above), we can convert the problem of finding collision-free paths for multiple robots to a problem of flowing commodities through a network (we call this the time-expanded network). In retrospect, this is not very surprising: Robots traveling on a graph, when looked from both space and time, are just like commodities traveling on a network. Applying results from network flow literature, we obtain efficient algorithms for planning time optimal and distance optimal paths for indistinguishable robots (i.e. the goals are  permutation invariant). For the permutation invariant case, we also looked at the compatibility of multiple objectives. It turns out that three common objectives, last arrival time, average arrival time, and total distance, have a pairwise Pareto optimal structure." %}
 
 ```
-An Effective Algorithmic Framework for Near Optimal Multi-Robot Path Planning. J. Yu 
-and D. Rus. Bicchi A., Burgard W. (eds), Robotics Research, vol 1, pp 495-511, 2018.
+Multi-agent Path Planning and Network Flow. J. Yu and S. M. LaValle. Algorithmic 
+Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer 
+Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
 ```
 
 <hr>
