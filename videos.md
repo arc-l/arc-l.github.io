@@ -1,3 +1,7 @@
+<div id="#object-manipulation" style="text-align: right">
+  <a href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en"><span style="color:blue">&nbsp;</span></a>
+</div>
+
 This page hosts selected videos highlighting excutions of robot tasks. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
 <br/>
