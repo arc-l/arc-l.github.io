@@ -113,7 +113,7 @@ Robotics and Automation Letters 5, no. 2 (2020): 1350-1357.
 
 ### Computational Complexity 
 
-### NP-Hardness on Planar Graphs 
+#### NP-Hardness on Planar Graphs 
 
 {% include r-item.html 
    url="/media/hard-ral-16.png" 
@@ -125,7 +125,7 @@ Intractability of Optimal Multi-Robot Path Planning on Planar Graphs. J. Yu. IEE
 Robotics and Automation Letters, 1(1), page(s): 33-40, 2016.
 ```
 
-### NP-Hardness on General Graphs 
+#### NP-Hardness on General Graphs 
 
 {% include r-item.html 
    url="/media/hard-aaai-13.png" 
