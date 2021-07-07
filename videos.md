@@ -1,4 +1,4 @@
-This page will be infrequently updated. For latest videos, check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
+This page hosts selected videos highlighting excutions of robot tasks. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
 <br/>
 <a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
