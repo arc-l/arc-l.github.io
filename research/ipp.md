@@ -24,7 +24,7 @@ on Intelligent Robots and Systems (IROS 2015).
 
 <hr />
 
-### Persistent Monitoring of Stochastic Events
+### The Correlated Orienteering Problem
 
 {% include r-item.html 
    url="/media/cop-tor-16.png" 
