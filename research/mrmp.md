@@ -51,7 +51,7 @@ Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guara
 J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
 ```
 
-<a id="links" paperurl="/files/YuLav13CDC.pdf">paper</a>
+<a id="links" href="/files/YuLav13CDC.pdf">paper</a>
 
 ```
 Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance 
@@ -64,7 +64,7 @@ Conference on Decision and Control (CDC 2013).
 #### Spatio-Temporal Splitting Heuristics for Speeding up MRMP Algorithms
 
 {% include r-item.html 
-   url="/media/teng-icra-21.png.png" 
+   url="/media/teng-icra-21.png" 
    paperurl="https://arxiv.org/pdf/2103.14111.pdf" 
    description="We examine the application of spatio-temporal splitting heuristics to the MRMP problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality." %}
 
@@ -80,7 +80,7 @@ S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automat
 
 
 {% include r-item.html 
-   url="/media/ddm-ral-20.png.png" 
+   url="/media/ddm-ral-20.png" 
    video="https://youtu.be/0MUGrg5CphM" 
    paperurl="https://arxiv.org/pdf/1904.02598.pdf" 
    description="We propose a novel centralized and decoupled algorithm, DDM, for solving multi-robot path planning problems in grid graphs, targeting on-demand and automated warehouselike settings. Two settings are studied: a traditional one whose objective is to move a set of robots from their respective initial vertices to the goal vertices as quickly as possible, and a dynamic one which requires frequent re-planning to accommodate for goal configuration adjustments. DDM is enabled through two innovative heuristics, path diversification and optimal sub-problem solution databases, targeting two distinct phases of a decoupling-based planner. Path diversification allows the more effective use of the entire workspace for robot travel, solution databases facilitate the fast resolution of local path conflicts. " %}
