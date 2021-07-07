@@ -1,3 +1,6 @@
+This page will be infrequently updated. For latest videos, check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
+
+<br/>
 <a href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&middot;&nbsp;
 <a href="#recycle">Recycling Automation Highlight</a>&nbsp;&middot;&nbsp;
 <a href="#periguard">Optimal Perimeter Guarding</a>&nbsp;&middot;&nbsp;
