@@ -4,7 +4,9 @@
 
 {% include research-topics.html %}
 
-### Running Buffer Minimization for Tabletop Rearrangement
+<br />
+
+### On Minimizing the Number of Running Buffers for Tabletop Rearrangement (R:SS 2021)
 
 <figure class="image">
   <img width="100%" src="/media/kai-rss-21.png"> 
@@ -18,76 +20,55 @@ show that random labeled and unlabeled instances, which more closely mimics real
   </figcaption>
 </figure>
 
+<br />
+<br />
+
 <hr />
 
-### Rearrangement on Lattices with Pick-n-Swaps
+### Rearrangement on Lattices with Pick-n-Swaps (R:SS 2021)
 
 <figure class="image">
   <img width="100%" src="/media/rss-21.png"> 
   <figcaption>
     <span style="width: 100%;">
-We propose and study a class of rearrangement
-problems under a novel pick-n-swap prehensile manipulation
-model, in which a robotic manipulator, capable of carrying an
-item and making item swaps, is tasked to sort items stored
-in lattices of variable dimensions in a time-optimal manner.
-We systematically analyze the intrinsic optimality structure,
-which is fairly rich and intriguing, under different levels of
-item distinguishability (fully labeled, where each item has a
-unique label, or partially labeled, where multiple items may
-be of the same type) and different lattice dimensions. Focusing
-on the most practical setting of one and two dimensions, we
-develop low polynomial time cycle-following based algorithms
-that optimally perform rearrangements on 1D lattices under
-both fully- and partially-labeled settings. On the other hand, we
-show that rearrangement on 2D and higher dimensional lattices
-becomes computationally intractable to optimally solve. Despite
-their NP-hardness, we prove that efficient cycle-following based
-algorithms remain asymptotically optimal for 2D fully- and
-partially-labeled settings, in expectation, using the interesting
-fact that random permutations induce only a small number
-of cycles. We further improve these algorithms to provide
-1.x-optimality when the number of items is small. Simulation
-studies corroborate the effectiveness of our algorithms.    
+We propose and study a class of rearrangement problems under a novel pick-n-swap prehensile manipulation model, in which a robotic manipulator, capable of carrying an item and making item swaps, is tasked to sort items stored in lattices of variable dimensions in a time-optimal manner. We systematically analyze the intrinsic optimality structure,
+which is fairly rich and intriguing, under different levels of item distinguishability (fully labeled, where each item has a unique label, or partially labeled, where multiple items may be of the same type) and different lattice dimensions. Focusing on the most practical setting of one and two dimensions, we develop low polynomial time cycle-following based algorithms that optimally perform rearrangements on 1D lattices under both fully- and partially-labeled settings. On the other hand, we show that rearrangement on 2D and higher dimensional lattices becomes computationally intractable to optimally solve. Despite their NP-hardness, we prove that efficient cycle-following based algorithms remain asymptotically optimal for 2D fully- and partially-labeled settings, in expectation, using the interesting fact that random permutations induce only a small number of cycles. We further improve these algorithms to provide 1.x-optimality when the number of items is small. Simulation studies corroborate the effectiveness of our algorithms.    
     </span>
   </figcaption>
 </figure>
 
-<hr />
-
-### Rearrangement on Lattices with Pick-n-Swaps
-
-<table border="0"  style="border: none!important; vertical-align:top;">
-  <tr style="border: none!important;">
-    <td width="200px" style="border: none!important;  vertical-align:top;">
-      {% include fig.html url="/media/rss-21.png" description="" %}  
-    </td>
-    <td style="border: none!important; vertical-align:top;">
-       We propose and study a class of rearrangement
-problems under a novel pick-n-swap prehensile manipulation
-model, in which a robotic manipulator, capable of carrying an
-item and making item swaps, is tasked to sort items stored
-in lattices of variable dimensions in a time-optimal manner.
-We systematically analyze the intrinsic optimality structure,
-which is fairly rich and intriguing, under different levels of
-item distinguishability (fully labeled, where each item has a
-unique label, or partially labeled, where multiple items may
-be of the same type) and different lattice dimensions. Focusing
-on the most practical setting of one and two dimensions, we
-develop low polynomial time cycle-following based algorithms
-that optimally perform rearrangements on 1D lattices under
-both fully- and partially-labeled settings. On the other hand, we
-show that rearrangement on 2D and higher dimensional lattices
-becomes computationally intractable to optimally solve. Despite
-their NP-hardness, we prove that efficient cycle-following based
-algorithms remain asymptotically optimal for 2D fully- and
-partially-labeled settings, in expectation, using the interesting
-fact that random permutations induce only a small number
-of cycles. We further improve these algorithms to provide
-1.x-optimality when the number of items is small. Simulation
-studies corroborate the effectiveness of our algorithms.
-    </td>
-  </tr>
-</table>
+<br />
+<br />
 
 <hr />
+
+### DIPN: Deep Interaction Prediction Network with Application to Clutter Removal (ICRA 2021)
+
+<figure class="image">
+  <img width="100%" src="/media/dipn-icra-21.png"> 
+  <figcaption>
+    <span style="width: 100%;">
+    We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex interactions that ensue as a robot end-effector pushes multiple objects, whose physical properties, including size, shape, mass, and friction coefficients may be unknown a priori. DIPN “imagines” the effect of a push action and generates an accurate synthetic image of the predicted outcome. DIPN is shown to be sample efficient when trained in simulation or with a real robotic system. The high accuracy of DIPN allows direct integration with a grasp network, yielding a robotic manipulation system capable of executing challenging clutter removal tasks while being trained in a fully self-supervised manner. The overall network demonstrates intelligent behavior in selecting proper actions between push and grasp for completing clutter removal tasks and significantly outperforms the previous state-of-the-art. Remarkably, DIPN achieves even better performance on the real robotic hardware system than in simulation.     
+    </span>
+  </figcaption>
+</figure>
+
+<br />
+<br />
+
+<hr />
+
+### DIPN: Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
+
+<figure class="image">
+  <img width="100%" src="/media/siwei-icra-21.png"> 
+  <figcaption>
+    <span style="width: 100%;">
+    We carry out a structural and algorithmic study of a mobile sensor coverage optimization problem targeting 2D surfaces embedded in a 3D workspace. The investigated settings
+model multiple important applications including camera network deployment for surveillance, geological monitoring/survey of 3D terrains, and UVC-based surface disinfection for the prevention of the spread of disease agents (e.g., SARS-CoV2). Under a unified general “sensor coverage” problem, three concrete formulations are examined, focusing on optimizing visibility, single-best coverage quality, and cumulative quality, respectively. After demonstrating the computational intractability of all these formulations, we describe approximation schemes and mathematical programming models for near-optimally solving them. The effectiveness of our methods is thoroughly evaluated under realistic and practical scenarios. 
+    </span>
+  </figcaption>
+</figure>
+
+<br />
+<br />
