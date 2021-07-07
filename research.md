@@ -6,19 +6,20 @@
 
 <br />
 
-### On Minimizing the Number of Running Buffers for Tabletop Rearrangement (R:SS 2021)
+### Running Buffer Minimization for Tabletop Rearrangement (R:SS 2021)
 
-<figure class="image">
-  <img width="100%" src="/media/kai-rss-21.png"> 
-  <figcaption>
-    <span style="width: 100%;">
-     For tabletop rearrangement problems with overhand grasps, storage space outside the tabletop workspace, or buffers, can temporarily hold objects which greatly facilitates
-the resolution of a given rearrangement task. This brings forth the natural question of how many running buffers are required so that certain classes of tabletop rearrangement problems are feasible. We examine the problem for both the labeled and the unlabeledsettings. We observe that finding the minimum number of running buffers (MRB) can be carried out on a dependency graph abstracted from a problem instance, and show that computing MRB on dependency graphs is NP-hard. The number of required running buffers may grow unbounded as the number of objects to be rearranged increases even for uniform cylinders. On the algorithmic side, we develop highly effective algorithms for finding MRB for
-both labeled and unlabeled tabletop rearrangement problems, scalable to over a hundred objects under very high object density. Employing these algorithms, empirical evaluations
-show that random labeled and unlabeled instances, which more closely mimics real-world setups, have much smaller MRBs.
-    </span>
-  </figcaption>
-</figure>
+{% include r-item.html 
+   url="/media/kai-rss-21.png" 
+   readmore="" 
+   video="https://youtu.be/hbD-cumF_H4" 
+   code="https://github.com/arc-l/running-buffer" 
+   paperurl="https://arxiv.org/pdf/2105.06357.pdf" 
+   description="For tabletop rearrangement problems with overhand grasps, storage space outside the tabletop workspace, or buffers, can temporarily hold objects which greatly facilitates the resolution of a given rearrangement task. This brings forth the natural question of how many running buffers are required so that certain classes of tabletop rearrangement problems are feasible. We examine the problem for both the labeled and the unlabeledsettings. We observe that finding the minimum number of running buffers (MRB) can be carried out on a dependency graph abstracted from a problem instance, and show that computing MRB on dependency graphs is NP-hard. The number of required running buffers may grow unbounded as the number of objects to be rearranged increases even for uniform cylinders. On the algorithmic side, we develop highly effective algorithms for finding MRB for both labeled and unlabeled tabletop rearrangement problems, scalable to over a hundred objects under very high object density. Employing these algorithms, empirical evaluations show that random labeled and unlabeled instances, which more closely mimics real-world setups, have much smaller MRBs." %}
+
+```
+On Minimizing the Number of Running Buffers for Tabletop Rearrangement. K. Gao,
+S. W. Feng, and J Yu. 2021 Robotics: Science and Systems (RSS 2021).
+```
 
 <br />
 <br />
@@ -27,31 +28,39 @@ show that random labeled and unlabeled instances, which more closely mimics real
 
 ### Rearrangement on Lattices with Pick-n-Swaps (R:SS 2021)
 
-<figure class="image">
-  <img width="100%" src="/media/rss-21.png"> 
-  <figcaption>
-    <span style="width: 100%;">
-We propose and study a class of rearrangement problems under a novel pick-n-swap prehensile manipulation model, in which a robotic manipulator, capable of carrying an item and making item swaps, is tasked to sort items stored in lattices of variable dimensions in a time-optimal manner. We systematically analyze the intrinsic optimality structure,
-which is fairly rich and intriguing, under different levels of item distinguishability (fully labeled, where each item has a unique label, or partially labeled, where multiple items may be of the same type) and different lattice dimensions. Focusing on the most practical setting of one and two dimensions, we develop low polynomial time cycle-following based algorithms that optimally perform rearrangements on 1D lattices under both fully- and partially-labeled settings. On the other hand, we show that rearrangement on 2D and higher dimensional lattices becomes computationally intractable to optimally solve. Despite their NP-hardness, we prove that efficient cycle-following based algorithms remain asymptotically optimal for 2D fully- and partially-labeled settings, in expectation, using the interesting fact that random permutations induce only a small number of cycles. We further improve these algorithms to provide 1.x-optimality when the number of items is small. Simulation studies corroborate the effectiveness of our algorithms.    
-    </span>
-  </figcaption>
-</figure>
+{% include r-item.html 
+   url="/media/rss-21.png" 
+   readmore="" 
+   video="https://youtu.be/LcI-Es5w5HI" 
+   code="https://github.com/arc-l/lattice-rearrangement" 
+   paperurl="https://arxiv.org/pdf/2105.05366.pdf" 
+   description="We propose and study a class of rearrangement problems under a novel pick-n-swap prehensile manipulation model, in which a robotic manipulator, capable of carrying an item and making item swaps, is tasked to sort items stored in lattices of variable dimensions in a time-optimal manner. We systematically analyze the intrinsic optimality structure, which is fairly rich and intriguing, under different levels of item distinguishability (fully labeled, where each item has a unique label, or partially labeled, where multiple items may be of the same type) and different lattice dimensions. Focusing on the most practical setting of one and two dimensions, we develop low polynomial time cycle-following based algorithms that optimally perform rearrangements on 1D lattices under both fully- and partially-labeled settings. On the other hand, we show that rearrangement on 2D and higher dimensional lattices becomes computationally intractable to optimally solve. Despite their NP-hardness, we prove that efficient cycle-following based algorithms remain asymptotically optimal for 2D fully- and partially-labeled settings, in expectation, using the interesting fact that random permutations induce only a small number of cycles. We further improve these algorithms to provide 1.x-optimality when the number of items is small. Simulation studies corroborate the effectiveness of our algorithms." %}
+
+```
+Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient 
+Algorithms. J. Yu. 2021 Robotics: Science and Systems (RSS 2021). 
+```
 
 <br />
 <br />
 
 <hr />
 
-### DIPN: Deep Interaction Prediction Network with Application to Clutter Removal (ICRA 2021)
+### Deep Interaction Prediction Network (ICRA 2021)
 
-<figure class="image">
-  <img width="100%" src="/media/dipn-icra-21.png"> 
-  <figcaption>
-    <span style="width: 100%;">
-    We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex interactions that ensue as a robot end-effector pushes multiple objects, whose physical properties, including size, shape, mass, and friction coefficients may be unknown a priori. DIPN “imagines” the effect of a push action and generates an accurate synthetic image of the predicted outcome. DIPN is shown to be sample efficient when trained in simulation or with a real robotic system. The high accuracy of DIPN allows direct integration with a grasp network, yielding a robotic manipulation system capable of executing challenging clutter removal tasks while being trained in a fully self-supervised manner. The overall network demonstrates intelligent behavior in selecting proper actions between push and grasp for completing clutter removal tasks and significantly outperforms the previous state-of-the-art. Remarkably, DIPN achieves even better performance on the real robotic hardware system than in simulation.     
-    </span>
-  </figcaption>
-</figure>
+{% include r-item.html 
+   url="/media/dipn-icra-21.png"
+   readmore="https://github.com/arc-l/dipn" 
+   video="https://youtu.be/LcI-Es5w5HI" 
+   code="https://youtu.be/CNkZfZ-0Du8" 
+   paperurl="https://arxiv.org/pdf/2011.04692.pdf" 
+   description="We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex interactions that ensue as a robot end-effector pushes multiple objects, whose physical properties, including size, shape, mass, and friction coefficients may be unknown a priori. DIPN “imagines” the effect of a push action and generates an accurate synthetic image of the predicted outcome. DIPN is shown to be sample efficient when trained in simulation or with a real robotic system. The high accuracy of DIPN allows direct integration with a grasp network, yielding a robotic manipulation system capable of executing challenging clutter removal tasks while being trained in a fully self-supervised manner. The overall network demonstrates intelligent behavior in selecting proper actions between push and grasp for completing clutter removal tasks and significantly outperforms the previous state-of-the-art. Remarkably, DIPN achieves even better performance on the real robotic hardware system than in simulation. " %}
+
+```
+DIPN: Deep Interaction Prediction Network with Application to Clutter Removal. 
+B. Huang, S. D. Han, A. Boularias, and J. Yu. 2021 IEEE International Conference 
+on Robotics and Automation (ICRA 2021).
+```
 
 <br />
 <br />
