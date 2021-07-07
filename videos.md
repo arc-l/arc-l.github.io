@@ -35,8 +35,8 @@ hardware system than in simulation. <br><br>
 
 <hr>
 
- ### Recycling Automation
-
+### Recycling Automation
+ 
 <a name="recycle"></a>
 <p>
 <strong>
@@ -73,7 +73,7 @@ facilitate the fast resolution of local path conflicts. <br><br>
 
 <hr>
 
- ### Efficient High Quality Stack Rearrangement 
+### Efficient High Quality Stack Rearrangement 
  
 <a name="stack"></a>
 <p>
@@ -135,7 +135,7 @@ our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video<
 
 <hr>
 
- ### Optimal Formation Reconfiguration
+### Optimal Formation Reconfiguration
  
 <a name="reconfiguration"></a>
 <p><strong>Optimal Reconfiguration of Multi-Robot Formations</strong> - In two 
