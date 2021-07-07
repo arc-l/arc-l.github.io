@@ -29,6 +29,7 @@ Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
 
 {% include r-item.html 
    url="/media/mrmp-tor-13.png" 
+   code="https://github.com/arc-l/optimal-mrppg-journal"
    paperurl="/files/YuLav16TOR.pdf" 
    description="We study optimal multirobot path planning on graphs (MPP) over four minimization objectives: the makespan (last arrival time), the maximum (single-robot traveled) distance, the total arrival time, and the total distance. Having established previously that these objectives are distinct and NP-hard to optimize, in this paper, we focus on efficient algorithmic solutions for solving these optimal MPP problems. Toward this goal, we first establish a one-to-one solution mapping between MPP and a special type of multiflow network. Based on this equivalence and integer linear programming (ILP), we design novel and complete algorithms for optimizing over each of the four objectives. In particular, our exact algorithm for computing optimal makespan solutions is a first that is capable of solving extremely challenging problems with robot-vertex ratios as high as 100%. Then, we further improve the computational performance of these exact algorithms through the introduction of principled heuristics, at the expense of slight optimality loss. The combination of ILP model based algorithms and the heuristics proves to be highly effective, allowing the computation of $1.x$-optimal solutions for problems containing hundreds of robots, densely populated in the environment, often in just seconds. " %}
 
