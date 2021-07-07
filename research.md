@@ -22,7 +22,6 @@ S. W. Feng, and J Yu. 2021 Robotics: Science and Systems (RSS 2021).
 ```
 
 <hr />
-<br />
 
 ### Rearrangement on Lattices with Pick-n-Swaps (R:SS 2021)
 
@@ -40,7 +39,6 @@ Algorithms. J. Yu. 2021 Robotics: Science and Systems (RSS 2021).
 ```
 
 <hr />
-<br />
 
 ### Deep Interaction Prediction Network (ICRA 2021)
 
@@ -59,7 +57,6 @@ on Robotics and Automation (ICRA 2021).
 ```
 
 <hr />
-<br />
 
 ### Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
 
