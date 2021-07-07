@@ -21,8 +21,8 @@ On Minimizing the Number of Running Buffers for Tabletop Rearrangement. K. Gao,
 S. W. Feng, and J Yu. 2021 Robotics: Science and Systems (RSS 2021).
 ```
 
-<br />
 <hr />
+<br />
 
 ### Rearrangement on Lattices with Pick-n-Swaps (R:SS 2021)
 
@@ -39,8 +39,8 @@ Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient
 Algorithms. J. Yu. 2021 Robotics: Science and Systems (RSS 2021). 
 ```
 
-<br />
 <hr />
+<br />
 
 ### Deep Interaction Prediction Network (ICRA 2021)
 
@@ -58,8 +58,8 @@ B. Huang, S. D. Han, A. Boularias, and J. Yu. 2021 IEEE International Conference
 on Robotics and Automation (ICRA 2021).
 ```
 
-<br />
 <hr />
+<br />
 
 ### Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
 
