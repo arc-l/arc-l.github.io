@@ -35,7 +35,7 @@ equipped with 2D range sensors to optimally guard perimeters
 or regions. Given a bounded set in $\mathbb R^2$ to be guarded, and
 $k$ mobile sensors where the $i$-th sensor can cover a circular
 region with a variable radius $r_i$, we seek the optimal strategy
-to deploy the $k$ sensors to fully cover the set such that *max* $r_i$
+to deploy the $k$ sensors to fully cover the set such that <em>max</em> $r_i$
 is minimized. On the side of computational complexity, we
 show that computing a $1.152$-optimal solution for guarding
 a perimeter or a region is NP-hard even when the set is
