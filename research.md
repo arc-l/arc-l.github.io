@@ -67,8 +67,21 @@ on Robotics and Automation (ICRA 2021).
 
 <hr />
 
-### DIPN: Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
+### Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 2021)
 
+{% include r-item.html 
+   url="/media/siwei-icra-21.png"
+   readmore="https://github.com/arc-l/dipn" 
+   video="https://youtu.be/LcI-Es5w5HI" 
+   code="https://youtu.be/CNkZfZ-0Du8" 
+   paperurl="https://arxiv.org/pdf/2011.04692.pdf" 
+   description="We carry out a structural and algorithmic study of a mobile sensor coverage optimization problem targeting 2D surfaces embedded in a 3D workspace. The investigated settings model multiple important applications including camera network deployment for surveillance, geological monitoring/survey of 3D terrains, and UVC-based surface disinfection for the prevention of the spread of disease agents (e.g., SARS-CoV2). Under a unified general “sensor coverage” problem, three concrete formulations are examined, focusing on optimizing visibility, single-best coverage quality, and cumulative quality, respectively. After demonstrating the computational intractability of all these formulations, we describe approximation schemes and mathematical programming models for near-optimally solving them. The effectiveness of our methods is thoroughly evaluated under realistic and practical scenarios.  " %}
+
+```
+Sensor Placement for Globally Optimal Coverage of 3D-Embedded Surfaces. S. W. Feng, 
+K. Gao, J. Gong, and J. Yu. 2021 IEEE International Conference on Robotics and 
+Automation (ICRA 2021).
+```
 <figure class="image">
   <img width="100%" src="/media/siwei-icra-21.png"> 
   <figcaption>
