@@ -28,6 +28,7 @@ on Intelligent Robots and Systems (IROS 2015).
 
 {% include r-item.html 
    url="/media/cop-tor-16.png" 
+   code="https://github.com/arc-l/correlated-orienteering" 
    paperurl="/files/YuSchRus16TOR.pdf" 
    description="We propose the correlated orienteering problem (COP) as a novel nonlinear extension to the classic orienteering problem (OP). With the introduction of COP, it becomes possible to model the planning of informative tours for the persistent monitoring of a spatiotemporal field with time-invariant spatial correlations using autonomous mobile robots, in which the robots are range- or time-constrained. Our focus in this paper is QCOP, a quadratic COP instantiation that looks at correlations between neighboring nodes in a node network. The main feature of QCOP is a quadratic utility function capturing the said spatial correlation. We solve QCOP using mixed integer quadratic programming, with the resulting anytime algorithm capable of planning multiple disjoint tours that maximize the quadratic utility. In particular, our algorithm can quickly plan a near-optimal tour over a network with up to 150 nodes. Beside performing extensive simulation studies to verify the algorithm’s correctness and characterize its performance, we also successfully applied QCOP to two realistic persistent monitoring tasks: 1) estimation over a synthetic spatiotemporal field and 2) estimating the temperature distribution in the state of Massachusetts in the United States." %}
 
