@@ -100,6 +100,7 @@ Conference on Decision and Control (CDC 2013).
 
 {% include r-item.html 
    url="/media/teng-icra-21.png" 
+   video="https://youtu.be/w8wqnmuBKwU" 
    paperurl="https://arxiv.org/pdf/2103.14111.pdf" 
    description="We examine the application of spatio-temporal splitting heuristics to the MRMP problem in a graph-theoretic setting. Following the divide-and-conquer principle, we design multiple spatial and temporal splitting schemes that can be applied to any existing MRMP algorithm, in an orthogonal manner. The combination of a good baseline MRMP algorithm with a proper splitting heuristic proves highly effective, allowing the resolution of problems 10+ times than what is possible previously, as corroborated by extensive numerical evaluations. 5-15 times speedups are usually observed with little degradation to solution optimality." %}
 
