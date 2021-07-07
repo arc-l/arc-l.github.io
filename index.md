@@ -50,6 +50,10 @@ based on motion models from our research on multi-robot motion planning and the 
 **12/2016** - One paper accepted by ICRA 2017.<br>
 **04/2016** - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
 
+## Legacy Group Website
+
+If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.html">old code</a> and/or the <a id="links" href="https://arc.cs.rutgers.edu/mvp/">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://arc.cs.rutgers.edu">arc.cs.rutgers.edu</a>, no longer updated after 07/2021. 
+
 ## Prospective Students
 
 We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting.
