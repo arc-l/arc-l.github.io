@@ -12,6 +12,9 @@ This page will be infrequently updated. For latest videos, check our <a id="link
 <a id="links" href="#reconfiguration">Optimal Formation Reconfiguration</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#rendezvous">Rendezvous Without Coordinates</a>
 <br>
+
+### Declutter with Deep Interaction Prediction Network (DIPN)
+
 <a name="dipn"></a>
 <p>
 We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex 
@@ -32,6 +35,8 @@ hardware system than in simulation. <br><br>
 
 <hr>
 
+ ### Recycling Automation
+
 <a name="recycle"></a>
 <p>
 <strong>
@@ -47,6 +52,8 @@ as the project progresses. <br><br>
 </p>
 
 <hr>
+
+###  DDM 
 
 <a name="ddmstar"></a>
 <p>
@@ -66,6 +73,8 @@ facilitate the fast resolution of local path conflicts. <br><br>
 
 <hr>
 
+ ### Efficient High Quality Stack Rearrangement 
+ 
 <a name="stack"></a>
 <p>
 <strong>
@@ -84,6 +93,8 @@ algorithms that could generate high quality rearrangement sequence. <br><br>
 
 <hr>
 
+### Tabletop Object Rearrangement with Overhand Grasps
+
 <a name="toro"></a>
 <p>
 <strong>
@@ -99,6 +110,7 @@ when compared with a greedy algorithm. <br><br>
 
 <hr>
 
+###  micro-Multi-Vehicle Platform
 
 <a name="micromvp"></a>
 <p><strong>A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education
@@ -111,6 +123,8 @@ for more details or read more <a href="https://arxiv.org/pdf/1609.04745v1.pdf">h
 
 <hr>
 
+### Multi-Robot Path Planning
+
 <a name="mppcisrr"></a>
 <p><strong>Near-Optimal Multi-Robot Path Planning in Continuous Domain</strong> - Video highlights accompanying 
 our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video</a>].<br><br>
@@ -121,6 +135,8 @@ our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video<
 
 <hr>
 
+ ### Optimal Formation Reconfiguration
+ 
 <a name="reconfiguration"></a>
 <p><strong>Optimal Reconfiguration of Multi-Robot Formations</strong> - In two 
 (<a href="files/YuLav12CDC.pdf" target="_">CDC'12</a>, <a href="files/YuLav13CDC.pdf" target="_">CDC'13</a>) recent works, 
@@ -134,6 +150,8 @@ implemented in Java and running on a MacBook Air (2013).
 </p>
 
 <hr>
+
+###  Rendezvous without Coordinates
 
 <a name="rendezvous"></a>
 <p><strong>Rendezvous Without Coordinates</strong> - This research establishes a sufficient condition for an arbitrary 
