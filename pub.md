@@ -229,7 +229,7 @@ include cite.html
 p_title="Optimally Guarding Perimeters and Regions with Mobile Range Sensors" 
 p_id="FenYuRSS20" 
 p_author="S. W. Feng and J. Yu" 
-p_venue="2020 Robotics: Science and Systems (RSS 2020)." 
+p_venue="2020 Robotics: Science and Systems (RSS 2020)" 
 p_pdf="https://arxiv.org/pdf/2002.08477.pdf" 
 p_bib="@inproceedings{FenYuRSS20,<br>
 Title = {Optimally Guarding Perimeters and Regions with Mobile Range Sensors},<br>
@@ -1072,7 +1072,7 @@ include cite.html
 p_title="Cyber Detectives: Determining When Robots or People Misbehave" 
 p_id="YuLav11STAR" 
 p_author="J. Yu and S. M. LaValle" 
-p_venue="Algorithmic Foundations of Robotics IX, Springer Tracts in Advanced Robotics (STAR), Springer Berlin/Heidelberg, vol 68, page(s): 391-407, 2011." 
+p_venue="Algorithmic Foundations of Robotics IX, Springer Tracts in Advanced Robotics (STAR), Springer Berlin/Heidelberg, vol 68, page(s): 391-407, 2011" 
 p_pdf="files/YuLav11STAR.pdf" 
 p_bib="@incollection{YuLav11STAR,<br>
   author = {J. Yu and S. M. LaValle},<br>
