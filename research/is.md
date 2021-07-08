@@ -7,41 +7,32 @@
 <br />
 ## Situational Awareness via Information Spaces
 
-<a href="media/shadow.png" target="_"><img src="media/shadow.png" width="250" border="0" align="left" title="click for more"/></a>
-When it comes to decision making in a variety of civilian and security 
-applications, for example search-and-rescue, pursuit-evasion, and monitoring, 
-having the right information is of critical importance. These problems are  
-known as 
-<a href="https://en.wikipedia.org/wiki/Situation_awareness" target="_">situational awareness (SA)</a>
-problems. As one can imagine, an effective cyber-physical system critically 
-depends on its awareness of its ambient environment. A particularly important 
-SA sub-category is target-tracking, in which (fixed and mobile) sensor 
-observations are processed to provide the best possible estimate of one or 
-more mobile targets. Because mobile targets will inevitably fall out of the 
-<a href="https://en.wikipedia.org/wiki/Field_of_view" target="_">field-of-view (FOV)</a>
-of the sensors (see the figure on the left), consistent information can be 
-difficult to maintain. To address these types of scenarios, we developed 
-a hybrid filtering process which allows us to handle both 
-<a href="files/YuLav08ICRA.pdf" target="_">topological/combinatorial evolutions</a> 
+<a href="/media/shadow.png" target="_"><img src="/media/shadows.png" width="250" border="0" align="left" title="click for more"/></a>
+When it comes to decision making in a variety of civilian and security applications, for example search-and-rescue, pursuit-evasion, and monitoring, having the right information is of critical importance. These problems are known as 
+<a href="https://en.wikipedia.org/wiki/Situation_awareness" target="_">situational awareness (SA)</a> 
+problems. As one can imagine, an effective cyber-physical system critically depends on its awareness of its ambient environment. A particularly important SA sub-category is target-tracking, in which (fixed and mobile) sensor observations are processed to provide the best possible estimate of one or more mobile targets. Because mobile targets will inevitably fall out of the 
+<a href="https://en.wikipedia.org/wiki/Field_of_view" target="_">field-of-view (FOV)</a> 
+of the sensors (see the figure on the left), consistent information can be difficult to maintain. To address these types of scenarios, we developed a hybrid filtering process which allows us to handle both 
+<a href="/files/YuLav08ICRA.pdf" target="_">topological/combinatorial evolutions</a> 
 and 
-<a href="files/YuLav10ICRA.pdf" target="_">probabilistic evolutions</a>. 
+<a href="/files/YuLav10ICRA.pdf" target="_">probabilistic evolutions</a>. 
 The filtering process maintains a minimal yet fully consistent 
 <a href="http://planning.cs.uiuc.edu/node536.html" target="_">information state</a>,
 which can be thought of as a compact snapshot of all important events that 
 have happened in the system of interest. The efficient maintenance of the 
 information state is achieved through a careful 
-<a href="files/YuLav12TOR.pdf" target="_">topological analysis of the space-time space</a>
+<a href="/files/YuLav12TOR.pdf" target="_">topological analysis of the space-time space</a>
 induced by the target-tracking task.  
-<a href="img/cdb.png" target="_"><img src="img/cds.png" width="200" border="0" align="right" title="click for a more readable version"/></a>
+<a href="/media/cdb.png" target="_"><img src="/media/cds.png" width="200" border="0" align="right" title="click for a more readable version"/></a>
 In the case where additional information of the targets is available, 
 we can also be more certain about their behavior. For example, if we have
 the high-level specification of a robot or the story from a person, we may 
 compare the story (or specification) with the recordings from the sensors 
 to infer whether the story is consistent. For such cases, we 
-<a href="files/YuLav11STAR.pdf" target="_">developed</a> 
+<a href="/files/YuLav11STAR.pdf" target="_">developed</a> 
 dynamic programming based algorithms that allow the consistency check to 
 be performed in linear time. In a 
-<a href="files/YuLav11ICRA.pdf" target="_">follow-up work</a>, 
+<a href="/files/YuLav11ICRA.pdf" target="_">follow-up work</a>, 
 we further allow the verification to be approximate and can compute how 
 different the story/specification is from the sensor observation.    
 
