@@ -7,6 +7,56 @@
 <br />
 ## Multi-Robot Motion Planning
 
+<iframe width="250" height="141" src="https://www.youtube.com/embed/vsEto_2E6eo" frameborder="0" allowfullscreen align="left" style="padding-right:4px;"></iframe>
+Effectively coordinating the motion for a large number of robots or vehicles 
+in crowded spaces is an important problem with applications to 
+<a href="https://www.youtube.com/watch?v=3UxZDJ1HiPE" target="_">warehouse automation</a>, 
+traffic routing, among others. Adapting a graph-theoretical approach, one can  
+show that feasibility tests can be completed in linear time and computing 
+complete feasible solutions can be done in cubic time. The analysis
+<a href="/media/fig-8.png" target="_"><img src="media/fig-8.png" width="250" border="0" align="right" title="click for a more readable version"/></a>
+boils down to the study of the structure of the 
+<a href="https://en.wikipedia.org/wiki/Permutation_group" target="_">permutation groups</a> 
+induced by synchronous robot motions. For example, the figure to the right
+illustrates how the locations of two robots ($c_2$ and $c_5$) 
+may be exchanged on a cycle using a limited number of moves. 
+For more details, see 
+<a href="/files/YuRus15STAR.pdf" target="_">this paper</a>. <br/>
+However, computing optimal or near-optimal solutions for such problems, in 
+terms of minimizing task completion time or traveled distance, proves to be 
+highly challenging as a computational problem. This is due to the curse of 
+dimensionality: each robot introduces at least a few degrees of freedom. 
+For $n$ robots, the search space is then $O(n)$ dimensional, which quickly 
+becomes prohibitive to explore. Indeed, we could readily establish that 
+common time- and distance-based objectives are 
+<a href="https://en.wikipedia.org/wiki/NP-hardness">NP-hard</a>
+to optimize on 
+<a href="files/YuLav13AAAI.pdf" target="_">general graphs</a>, even  
+<a href="files/Yu16RAL.pdf" target="_">planar ones</a>. 
+Different objectives generally 
+<a href="https://arxiv.org/pdf/1507.03289v1.pdf" target="_">cannot be optimized simultaneously</a>.    
+
+On the other hand, because each robot mainly interacts with robots that are 
+close by, decoupling of the search space is generally possible to some 
+extent, unless the density of robots approaches the limit. Given the very high 
+<a href="/media/network.png" target="_"><img src="/media/network.png" width="250" border="0" align="left" title="click for a more readable version"/></a>
+dimensional search space, we take the approach of early discretization and 
+work with an extracted graph structure. 
+By 
+<a href="files/YuLav13STAR.pdf" target="_">converting the problem into a multi-flow one</a> 
+(see the figure to the left) and adapting a novel integer programming (ILP) based
+<a href="files/YuLav16TOR.pdf" target="_">solution scheme</a>, 
+we are able to handle a broad spectrum of difficult problems, providing 
+a leap in computational performance on multi-robot coordination problems. 
+Using the graph-based method and an 
+<a href="files/YuRus15ISRR.pdf" target="_">efficient discretization of continuous domains</a>,
+we allow extremely dense setups with up to 30+% of free space occupied by 
+robots-our algorithms are capable of solving such instances within seconds 
+for up to hundreds of robots while often ensuring 1.x-optimality (see the 
+video). The source code of all current results can be found 
+<a href="https://github.com/arc-l/optimal-mrpp-continuous" target="_">here</a>.  
+<br>
+
 ### Computing Optimal Solutions 
 
 #### Solving Dense Continuous Problem with Provable Guarantees
