@@ -5,7 +5,7 @@
 {% include research-topics.html %} 
 
 <br />
-## Situational Awareness via Information Spaces
+## Situational Awareness via Information Spaces: Overview 
 
 <a href="/media/shadow.png" target="_"><img src="/media/shadows.png" width="250" border="0" align="left" title="click for more"/></a>
 When it comes to decision making in a variety of civilian and security applications, for example search-and-rescue, pursuit-evasion, and monitoring, having the right information is of critical importance. These problems are known as 
@@ -23,8 +23,7 @@ have happened in the system of interest. The efficient maintenance of the
 information state is achieved through a careful 
 <a href="/files/YuLav12TOR.pdf" target="_">topological analysis of the space-time space</a>
 induced by the target-tracking task.  
-<a href="/media/cdb.png" target="_"><img src="/media/cds.png" width="200" border="0" align="right" title="click for a more readable version"/></a>
-In the case where additional information of the targets is available, 
+<a href="/media/cdb.png" target="_"><img src="/media/cds.png" width="200" border="0" align="right" title="click for a more readable version"/></a> In the case where additional information of the targets is available, 
 we can also be more certain about their behavior. For example, if we have
 the high-level specification of a robot or the story from a person, we may 
 compare the story (or specification) with the recordings from the sensors 
@@ -36,7 +35,9 @@ be performed in linear time. In a
 we further allow the verification to be approximate and can compute how 
 different the story/specification is from the sensor observation.    
 
-### Shadow Information Space for Multi-Target Tracking
+## Topics
+
+### Shadow Information Spaces for Multi-Target Tracking
 
 <table border="0"  style="border: none!important; vertical-align:top;">
   <tr style="border: none!important;">
