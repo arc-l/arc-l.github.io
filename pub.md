@@ -486,7 +486,7 @@ include cite.html
 p_title="Efficient, High-Quality Stack Rearrangement" 
 p_id="HanStiBekYu18RAL" 
 p_author="S. D. Han, N. Stiffler, K. Bekris, and J. Yu" 
-p_venue="IEEE Robotics and Automation Letters</em>, 3(3), page(s): 1608-1615, 2018. Presented at ICRA 2018" 
+p_venue="IEEE Robotics and Automation Letters, 3(3), page(s): 1608-1615, 2018. Presented at ICRA 2018" 
 p_pdf="files/HanStiBekYu18RAL.pdf" 
 p_bib="@article{HanStiBekYu18RAL,<br>
   author={Han, Shuai D. and Stiffler, Nicholas M. and Bekris, Kostas E. and Yu, Jingjin},<br>
