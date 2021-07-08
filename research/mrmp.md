@@ -14,7 +14,7 @@ in crowded spaces is an important problem with applications to
 traffic routing, among others. Adapting a graph-theoretical approach, one can  
 show that feasibility tests can be completed in linear time and computing 
 complete feasible solutions can be done in cubic time. The analysis
-<a href="/media/fig-8.png" target="_"><img src="media/fig-8.png" width="250" border="0" align="right" title="click for a more readable version"/></a>
+<a href="/media/fig-8.png" target="_"><img src="/media/fig-8.png" width="250" border="0" align="right" title="click for a more readable version"/></a>
 boils down to the study of the structure of the 
 <a href="https://en.wikipedia.org/wiki/Permutation_group" target="_">permutation groups</a> 
 induced by synchronous robot motions. For example, the figure to the right
@@ -39,7 +39,7 @@ Different objectives generally
 On the other hand, because each robot mainly interacts with robots that are 
 close by, decoupling of the search space is generally possible to some 
 extent, unless the density of robots approaches the limit. Given the very high 
-<a href="/media/network.png" target="_"><img src="/media/network.png" width="250" border="0" align="left" title="click for a more readable version"/></a>
+<a href="/media/network.png" target="_"><img src="/media/networks.png" width="250" border="0" align="left" title="click for a more readable version"/></a>
 dimensional search space, we take the approach of early discretization and 
 work with an extracted graph structure. 
 By 
