@@ -80,4 +80,3 @@ J. Yu, S. Karaman, and D. Rus. IEEE Transactions on Robotics, 31(3), page(s):
 521-535, 2015.
 ```
 
-<hr />
