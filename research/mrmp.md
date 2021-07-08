@@ -5,7 +5,8 @@
 {% include research-topics.html %} 
 
 <br />
-## Multi-Robot Motion Planning
+
+## Multi-Robot Motion Planning: Overview 
 
 <iframe width="250" height="141" src="https://www.youtube.com/embed/vsEto_2E6eo" frameborder="0" allowfullscreen align="left" style="padding-right:4px;"></iframe>
 Effectively coordinating the motion for a large number of robots or vehicles in crowded spaces is an important problem with applications to <a href="https://www.youtube.com/watch?v=3UxZDJ1HiPE" target="_">warehouse automation</a>, traffic routing, among others. Adapting a graph-theoretical approach, one can  show that feasibility tests can be completed in linear time and computing complete feasible solutions can be done in cubic time. The analysis boils down to the study of the structure of the 
@@ -22,10 +23,11 @@ dimensional search space, we take the approach of early discretization and work 
 robots-our algorithms are capable of solving such instances within seconds for up to hundreds of robots while often ensuring 1.x-optimality (see the video). The source code of all current results can be found <a href="https://github.com/arc-l/optimal-mrpp-continuous" target="_">here</a>.  
 <br>
 
+## Topics
+
 ### Computing Optimal Solutions 
 
 #### Solving Dense Continuous Problem with Provable Guarantees
-
 
 {% include r-item.html 
    url="/media/chinta-wafr-18.png" 
@@ -84,29 +86,6 @@ page(s): 1163 - 1177, 2016.
 Multi-agent Path Planning and Network Flow. J. Yu and S. M. LaValle. Algorithmic 
 Foundations of Robotics X, Springer Tracts in Advanced Robotics (STAR), Springer 
 Berlin/Heidelberg, vol 86, page(s): 157-173, 2013
-```
-
-<hr>
-
-#### Optimally Solving Unlabled Multi-Robot Motion Planning Problems 
-
-{% include r-item.html 
-   url="/media/cdc-12.png" 
-   video="https://www.youtube.com/watch?v=ldelQkjzPwA" 
-   paperurl="/files/YuLav12CDC.pdf" 
-   description="For multi-robot formation reconfiguration (i.e., permutation invariant multi-robot path planning), we observe that by separating goal assignment and path planning/coordination, we can obtain a faster algorithm for distance optimal multi-robot formation planning with a total running time of $O(n2V)$, in which $n$ is the number of robots and $V$ is the number of vertices of the graph. We show that distance optimal paths can also be scheduled with a completion (convergence) time of no more than $n + V - 1$, which is a tight bound. The resulting algorithm is fast enough to plan distance optimal paths for hundreds of robots in real time. " %}
-
-```
-Distance Optimal Formation Control on Graphs with a Tight Convergence Time Guarantee. 
-J. Yu and S. M. LaValle. The 51st IEEE Conference on Decision and Control (CDC 2012).
-```
-
-<a id="links" href="/files/YuLav13CDC.pdf" target="_">paper</a>
-
-```
-Shortest Path Set Induced Vertex Ordering and its Application to Distributed Distance 
-Optimal Formation Planning and Control on Graphs. J. Yu and S. M. LaValle. 52nd IEEE 
-Conference on Decision and Control (CDC 2013).
 ```
 
 <hr>
