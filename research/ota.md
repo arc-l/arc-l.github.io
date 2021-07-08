@@ -19,12 +19,41 @@ is a tight bound. The resulting algorithm is fast enough to plan distance <a hre
 with a <a href="https://arc.cs.rutgers.edu/434F4445.html" target="_">java applet application</a>. 
 In a <a href="/files/YuLav13CDC.pdf" target="_">followup work</a>, we show that after initial paths are planned, path execution can be achieved using only local,  distance two communication between the robots. Recently, the graph-based 
 results are extended to <a href="/files/SolYuZamHal15RSS.pdf" target="_">continuous domain</a> with similar optimality guarantees. A typical example here is illustrated in the figure to the right, in which many robots must move from the blue 
-locations to the red locations with optimality assurance. More recently, we have further extended the work to <a href="/files/YuChuVol15TAC.pdf" target="_">continuous domains under a stochastic setting</a>, 
+locations to the red locations with optimality assurance. More recently, we have further extended the work to <a href="/files/YuChuVou15TAC.pdf" target="_">continuous domains under a stochastic setting</a>, 
 establishing that locally optimal behavior can give rise to near-optimal global behavior.
 
 ## Topics 
 
-#### Optimally Solving Unlabled Multi-Robot Motion Planning Problems 
+### Distance Optimal Target Assignment in Robotic Networks
+
+{% include r-item.html 
+   url="/media/tac-15.png" 
+   paperurl="/files/YuChuVou15TAC.pdf" 
+   description="We study the problem of multi-robot target assignment to minimize the total distance traveled by the robots until they all reach an equal number of static targets. In the first half of the paper, we present a necessary and sufficient condition under which true distance optimality can be achieved for robots with limited communication and target-sensing ranges. Moreover, we provide an explicit, non-asymptotic formula for computing the number of robots needed to achieve distance optimality in terms of the robots’ communication and target-sensing ranges with arbitrary guaranteed probabilities. The same bounds are also shown to be asymptotically tight. In the second half of the paper, we present suboptimal strategies for use when the number of robots cannot be chosen freely. Assuming first that all targets are known to all robots, we employ a hierarchical communication model in which robots communicate only with other robots in the same partitioned region. This hierarchical communication model leads to constant approximations of true distance-optimal solutions under mild assumptions. We then revisit the limited communication and sensing models. By combining simple rendezvous-based strategies with a hierarchical communication model, we obtain decentralized hierarchical strategies that achieve constant approximation ratios with respect to true distance optimality. Results of simulation show that the approximation ratio is as low as 1.4." %}
+
+```
+Target Assignment in Robotic Networks: Distance Optimality Guarantees and Hierarchical 
+Strategies. J. Yu, S.-J. Chung, and P. G. Voulgaris. IEEE Transactions on Automatic 
+Control, 60(2), page(s): 327-341, 2015.
+```
+
+<hr>
+
+### Optimal Unlabled Multi-Robot Motion Planning in Continuous Domains
+
+{% include r-item.html 
+   url="/media/rss-15.png" 
+   paperurl="/files/SolYuZamHal15RSS.pdf" 
+   description="We study the problem of path planning for unlabeled (indistinguishable) unit-disc robots in a planar environment cluttered with polygonal obstacles. We introduce an algorithm which minimizes the total path length, i.e., the sum of lengths of the individual paths. Our algorithm is guaranteed to find a solution if one exists, or report that none exists otherwise. It runs in time $\tilde{O}(m^4 + m^2n^2)$, where $m$ is the number of robots and $n$ is the total complexity of the workspace. Moreover, the total length of the returned solution is at most $OPT+4m$, where $OPT$ is the optimal solution cost. To the best of our knowledge this is the first algorithm for the problem that has such guarantees. The algorithm has been implemented in an exact manner and we present experimental results that attest to its efficienc" %}
+
+```
+Motion Planning for Unlabeled Discs with Optimality Guarantees. K. Solovey, J. Yu, O. 
+Zamir, and D. Halperin. 2015 Robotics: Science and Systems (RSS 2015). 
+```
+
+<hr>
+
+### Optimal Unlabled Multi-Robot Motion Planning on Graphs
 
 {% include r-item.html 
    url="/media/cdc-12.png" 
@@ -44,6 +73,4 @@ Shortest Path Set Induced Vertex Ordering and its Application to Distributed Dis
 Optimal Formation Planning and Control on Graphs. J. Yu and S. M. LaValle. 52nd IEEE 
 Conference on Decision and Control (CDC 2013).
 ```
-
-<hr>
 
