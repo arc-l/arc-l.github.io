@@ -14,10 +14,10 @@ in crowded spaces is an important problem with applications to
 traffic routing, among others. Adapting a graph-theoretical approach, one can  
 show that feasibility tests can be completed in linear time and computing 
 complete feasible solutions can be done in cubic time. The analysis
-<a href="/media/fig-8.png" target="_"><img src="/media/fig-8.png" width="250" border="0" align="right" title="click for a more readable version"/></a>
 boils down to the study of the structure of the 
 <a href="https://en.wikipedia.org/wiki/Permutation_group" target="_">permutation groups</a> 
 induced by synchronous robot motions. For example, the figure to the right
+<a href="/media/fig-8.png" target="_"><img src="/media/fig-8.png" width="250" border="0" align="right" title="click for a more readable version"/></a>
 illustrates how the locations of two robots ($c_2$ and $c_5$) 
 may be exchanged on a cycle using a limited number of moves. 
 For more details, see 
