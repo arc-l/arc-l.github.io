@@ -5,6 +5,7 @@
 {% include research-topics.html %} 
 
 <br />
+
 ## Situational Awareness via Information Spaces: Overview 
 
 <a href="/media/shadow.png" target="_"><img src="/media/shadows.png" width="250" border="0" align="left" title="click for more"/></a>
