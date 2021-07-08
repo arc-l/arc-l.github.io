@@ -5,7 +5,33 @@
 {% include research-topics.html %} 
 
 <br />
-## Informative Path Planning
+
+## Informative Path Planning: Overview
+
+<a href="/media/patrol.png" target="_"><img src="/media/patrols.png" width="250" border="0" align="left" title="click for a more readable version"/></a>
+As mobile robots get deployed to perform sensing tasks (e.g., surveillance,
+monitoring, scientific exploration), there are usually multiple objectives 
+that must be properly balanced. The general goal is to plan paths and policies 
+that best suit the goal of the mission. Often, it is not clear whether 
+multiple goals can be simultaneously optimized. With the question in mind,
+we began examining a broad class of problems in which multiple Poisson processes
+are spatially distributed, mimicking temporally-driven random events to be 
+observed. To observe these events, a mobile robot (observer) must travel to 
+the event site. Because the events are transient (i.e., time sensitive), 
+the longer the robot waits at a particular site, the more likely it will be 
+able to observe the particular event. Therefore, to observe a balanced 
+portfolio of events, the robots must weigh between frequently traveling between
+different sites and staying at each site longer for making more observations. 
+As it turns out, under proper (and mild) conditions, as established in 
+<a href="/files/YuKarRus15TOR.pdf" target="_">this paper</a>, 
+there exists a globally optimal policy for scheduling the trip of the robot 
+to (i) maximize the number of events observed and (ii) minimize the delay 
+between consecutive observations of events occurring at the same site. 
+Assuming a cyclic patrol policy is used, we provide a polynomial time 
+approximation scheme (PTAS) that computes for any $\varepsilon > 0$ a $(1+\varepsilon)$-optimal 
+solution for the more general, NP-hard problem. Beside this persistent monitoring problem, we have also studied several related problems including the <a href="/files/YuSchRus16TOR.pdf" target="_">Correlated Orienteering Problem</a> and the <a href="/files/YuAslKarRus15IROS.pdf" target="_">Optimal Tourist Problem</a>.   
+
+## Topics 
 
 ### The Optimal Tourist Problem
 
