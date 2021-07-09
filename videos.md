@@ -35,7 +35,7 @@ state-of-the-art. Remarkably, DIPN achieves even better performance on the real 
 hardware system than in simulation. <br><br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
-  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/CNkZfZ-0Du8" frameborder="0" allowfullscreen></iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/CNkZfZ-0Du8"></iframe>
   </div>
 </center>
 <br>
