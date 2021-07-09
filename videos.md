@@ -55,7 +55,11 @@ system for the separation of scrap metals based on color that is robust to light
 condition changes. The video shows a real-time demo of a run that separates pure copper 
 pieces from mixed aluminum-copper pieces. We expect to report more exciting results 
 as the project progresses. <br><br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/araxYgLCrpM" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/araxYgLCrpM"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -75,7 +79,11 @@ heuristics attack two distinct phases of a decoupling-based planning
 planner: while path diversification allows more effective use of the 
 entire workspace for robot travel, optimal sub-problem solution databases 
 facilitate the fast resolution of local path conflicts. <br><br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/0MUGrg5CphM" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/0MUGrg5CphM"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -92,10 +100,18 @@ Abstract:  We study a variant of rearrangement problems that appear frequently
 in applications, which involves sorting objects or robots in stack-like 
 containers that can be accessed only from one side. We provide efficient 
 algorithms that could generate high quality rearrangement sequence. <br><br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/-yDTXM9zASE" frameborder="0" allowfullscreen></iframe></center>
+  <center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/-yDTXM9zASE"></iframe>
+  </div>
+</center>
 <br>
 <br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/DRkm9-rQeQk" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/DRkm9-rQeQk"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -112,7 +128,11 @@ rearrangement and subsequent extended version. Our hardware experiments
 confirm our hypothesis that (1) grasping/releasing is generally much more
 time consuming and (2) our proposed algorithm provide significant benefit 
 when compared with a greedy algorithm. <br><br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/Ub7QSDQz0Qk" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/Ub7QSDQz0Qk"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -124,8 +144,11 @@ when compared with a greedy algorithm. <br><br>
 <p><strong>A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education
 </strong> - Video highlight of our microMVP platform for all! See <a href="https://arc.cs.rutgers.edu/mvp/">https://arc.cs.rutgers.edu/mvp/</a>
 for more details or read more <a href="https://arxiv.org/pdf/1609.04745v1.pdf">here</a>.<br><br>
-
-<center><iframe width="590" height="442" src="https://www.youtube.com/embed/n9DOtgHHyGY" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:75%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/n9DOtgHHyGY"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -136,8 +159,11 @@ for more details or read more <a href="https://arxiv.org/pdf/1609.04745v1.pdf">h
 <a name="mppcisrr"></a>
 <p><strong>Near-Optimal Multi-Robot Path Planning in Continuous Domain</strong> - Video highlights accompanying 
 our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video</a>].<br><br>
-
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/HfL7LO8i8CI" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/HfL7LO8i8CI"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -153,7 +179,11 @@ effectiveness of the algorithm. We note that the examples in the video take less
 implemented in Java and running on a MacBook Air (2013). 
 [<a href="files/reconfiguration.mp4">download the video].</a><br><br>
 
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/ldelQkjzPwA" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/ldelQkjzPwA"></iframe>
+  </div>
+</center>
 <br>
 </p>
 
@@ -174,6 +204,10 @@ Time evolutions of both the system and the Lyapunov certificate are shown. The s
 <a href='http://people.csail.mit.edu/jingjin/code/rendezvous.html'>here</a>. 
 [<a href="files/rendezvous.mp4">download the video</a>].<br><br>
 
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/nat7PF0uuK0" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/nat7PF0uuK0"></iframe>
+  </div>
+</center>
 <br>
 </p>
