@@ -89,5 +89,3 @@ For more information, check out the [presentation](https://youtu.be/hbD-cumF_H4)
 
 {% include youtube.html videoid="hbD-cumF_H4" %}
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/35314983/124190286-fd502a80-da8f-11eb-8f72-90366156f77f.png)](https://www.youtube.com/watch?v=hbD-cumF_H4)
-
