@@ -158,7 +158,7 @@ for more details or read more <a href="https://arxiv.org/pdf/1609.04745v1.pdf">h
 
 <a name="mppcisrr"></a>
 <p><strong>Near-Optimal Multi-Robot Path Planning in Continuous Domain</strong> - Video highlights accompanying 
-our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video</a>].<br><br>
+our ISRR work. You may also [<a href="http://arc.cs.rutgers.edu/files/multi-robot.mp4">download the video</a>].<br><br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
   <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/HfL7LO8i8CI"></iframe>
@@ -177,7 +177,7 @@ our ISRR work. You may also [<a href="files/multi-robot.mp4">download the video<
 we developed efficient algorithm for the distance optimal reconfiguration of multi-robot formations. The video below demonstrates
 effectiveness of the algorithm. We note that the examples in the video take less than 0.1 second to solve when 
 implemented in Java and running on a MacBook Air (2013). 
-[<a href="files/reconfiguration.mp4">download the video].</a><br><br>
+[<a href="http://arc.cs.rutgers.edu/files/reconfiguration.mp4">download the video].</a><br><br>
 
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
@@ -202,7 +202,7 @@ The video below demonstrates the sufficient condition for rendezvous,
 which depends solely on the sensor quantization (windshield size). We show two cases of rendezvous and two cases of divergence. 
 Time evolutions of both the system and the Lyapunov certificate are shown. The simulation program is fully accessible 
 <a href='http://people.csail.mit.edu/jingjin/code/rendezvous.html'>here</a>. 
-[<a href="files/rendezvous.mp4">download the video</a>].<br><br>
+[<a href="http://arc.cs.rutgers.edu/files/rendezvous.mp4">download the video</a>].<br><br>
 
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
