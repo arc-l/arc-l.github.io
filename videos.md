@@ -33,7 +33,11 @@ network demonstrates intelligent behavior in selecting proper actions between pu
 grasp for completing clutter removal tasks and significantly outperforms the previous 
 state-of-the-art. Remarkably, DIPN achieves even better performance on the real robotic 
 hardware system than in simulation. <br><br>
-<center><iframe width="590" height="330" src="https://www.youtube.com/embed/CNkZfZ-0Du8" frameborder="0" allowfullscreen></iframe></center>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe width="100%" height="100%" src="https://www.youtube.com/embed/CNkZfZ-0Du8" frameborder="0" allowfullscreen></iframe>
+  </div>
+</center>
 <br>
 </p>
 
