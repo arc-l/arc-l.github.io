@@ -88,3 +88,22 @@ Spatial and Temporal Splitting Heuristics for Multi-Robot Motion Planning. T. Gu
 S. D. Han, and J. Yu. 2021 IEEE International Conference on Robotics and Automation 
 (ICRA 2021).
 ```
+
+<hr />
+
+### Rubik Table and Stack Rearrangement 
+
+{% include r-item.html 
+   url="/media/rubik.png" 
+   video="https://www.youtube.com/watch?v=-FSZBJegAPc" 
+   paperurl="https://arxiv.org/pdf/2002.04979.pdf" 
+   description="There are $n \ge 2$ stacks, each filled with $d$ items, and one empty stack. Every stack has capacity $d > 0$. A robot arm, in one stack operation (step), may pop one item from the top of a non-empty stack and subsequently push it onto a stack not at capacity. In a labeled problem, all $nd$ items are distinguishable and are initially randomly scattered in the $n$ stacks. The items must be rearranged using  pop-and-pushs so that in the end, the  $k^{\rm th}$ stack holds items $(k-1)d +1, \ldots, kd$, in that order, from the top to the bottom for all $1 \le k \le n$. In an unlabeled problem, the $nd$ items are of $n$ types of $d$ each. The goal is to rearrange items so that items 
+of type $k$ are located in the $k^{\rm th}$ stack for all $1 \le k \le n$. In carrying out the rearrangement, a natural question is to find the least number of required pop-and-pushes.<br/><br/>
+Our main contributions are: (1) an algorithm for restoring the order of $n^2$ items stored in an $n \times n$ table using only $2n$  column and row permutations, and its generalization, and (2) an algorithm with a guaranteed upper bound of $O(nd)$ steps for solving both versions of the stack rearrangement problem when $d \le \lceil cn \rceil$ for arbitrary fixed positive number $c$. In terms of the required number of steps, the labeled and unlabeled version have lower bounds $\Omega(nd + nd{\frac{\log d}{\log n}})$ and $\Omega(nd)$, respectively. " %}
+
+```
+On Rearrangement of Items Stored in Stacks. M. Szegedy and J. Yu. Algorithmic 
+Foundations of Robotics XIV, Springer Proceedings in Advanced Robotics (SPAR), 
+page(s): 518-833, 2021. Presented at WAFR 2020.
+```
+
