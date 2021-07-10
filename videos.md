@@ -5,16 +5,16 @@
 This page hosts selected videos highlighting excutions of robot tasks, as planned by our algorithms. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
 <br/>
-<a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#recycle">Recycling Automation Highlight</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#periguard">Optimal Perimeter Guarding</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#ddmstar">DDM</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#stack">Efficient High Quality Stack Rearrangement</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#micromvp">micro-Multi-Vehicle Platform</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#mppcisrr">Multi-Robot Path Planning</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#reconfiguration">Optimal Formation Reconfiguration</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#rendezvous">Rendezvous Without Coordinates</a>
+<a id="links" href="#declutter-with-deep-interaction-prediction-network-dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#recycling-automation-highlight">Recycling Automation Highlight</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#optimal-perimeter-guarding">Optimal Perimeter Guarding</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#ddm">DDM</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#efficient-high-quality-stack-rearrangement">Efficient High Quality Stack Rearrangement</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#tabletop-object-rearrangement-with-overhand-grasps">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#micro-multi-vehicle-platform">micro-Multi-Vehicle Platform</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#multi-robot-path-planning">Multi-Robot Path Planning</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#optimal-formation-reconfiguration">Optimal Formation Reconfiguration</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#rendezvous-without-coordinates">Rendezvous Without Coordinates</a>
 <br>
 
 ### Declutter with Deep Interaction Prediction Network (DIPN)
