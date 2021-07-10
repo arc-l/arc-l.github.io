@@ -6,8 +6,7 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 
 <br/>
 <a id="links" href="#declutter-with-deep-interaction-prediction-network-dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#recycling-automation-highlight">Recycling Automation Highlight</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#optimal-perimeter-guarding">Optimal Perimeter Guarding</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#recycling-automation">Recycling Automation Highlight</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#ddm">DDM</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#efficient-high-quality-stack-rearrangement">Efficient High Quality Stack Rearrangement</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#tabletop-object-rearrangement-with-overhand-grasps">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
