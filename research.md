@@ -6,6 +6,8 @@
 
 <br />
 
+## Selected Recent Research
+
 ### Running Buffer Minimization
 
 {% include r-item.html 
