@@ -34,7 +34,7 @@
   </tr>
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Candidate" %}
+      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Student" %}
     </td>
     <td style="border: none!important;">
     </td>
