@@ -18,7 +18,7 @@
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/siwei.png" description="Siwei Feng, Ph.D. Candidate" %}  
+      {% include image.html url="/assets/images/siwei.png" description="Siwei Feng, Ph.D. Candidate" link="https://ustcsiwei88.github.io/" %}  
     </td>
     <td style="border: none!important;">
       {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Student" %}
