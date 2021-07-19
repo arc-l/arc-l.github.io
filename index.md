@@ -7,7 +7,7 @@
 
 ## Updates
 
-**07/2021** - As of 07/2021, Dr. Yu is a tenured Associate Professor at Rutgers CS. <br>
+**07/2021** - Dr. Yu is a tenured Associate Professor at Rutgers CS as of 07/2021. <br>
 **07/2021** - One paper accepted by IROS 2021. <br>
 **06/2021** - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
 **05/2021** - Two papers accepted by RSS 2021. <br>
