@@ -29,14 +29,15 @@
       {% include image.html url="/assets/images/teng.png" description="Teng Guo, Ph.D. Student" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/han.png" description="Han Shuai, Ph.D. Candidate" %} 
+      {% include image.html url="/assets/images/we.jpg" description="Noah Green, Ph.D. Student" %} 
     </td>
   </tr>
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Student" link="https://baichuan05.github.io/" %}
+      {% include image.html url="/assets/images/han.png" description="Han Shuai, Ph.D. Candidate" %} 
     </td>
     <td style="border: none!important;">
+      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Student" link="https://baichuan05.github.io/" %}
     </td>
   </tr>
 </table>
