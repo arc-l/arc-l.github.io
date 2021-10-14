@@ -7,6 +7,8 @@
 
 ## Updates
 
+**10/2021** - Our work on [Visual Foresight Trees](https://arxiv.org/pdf/2105.02857.pdf) will appear in RA-L. <br>
+**10/2021** - Our work extending our WAFR 2020 [Rubik Table](https://arxiv.org/pdf/2002.04979.pdf) results will appear in IJRR. <br>
 **09/2021** - Dr. Yu will be starting a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132972&HistoricalAwards=false" target="_"> 4-year NSF National Robotics Initiative 3.0 project</a> with his colleagues Abdeslam Boularias and Mridul Aanjaneya, working on enabling mobile robots to carry out sophisticated search-n-rescue efforts in degraded environments.<br>
 **09/2021** - Dr. Yu is serving as an associated editor for IEEE Robotics and Automation Letters. <br>
 **07/2021** - Dr. Yu is a tenured Associate Professor at Rutgers CS as of 07/2021. <br>
