@@ -21,7 +21,7 @@
       {% include image.html url="/assets/images/siwei.png" description="Siwei Feng, Ph.D. Candidate" link="https://ustcsiwei88.github.io/" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Student" %}
+      {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Student" link="https://gaokai15.github.io" %}
     </td>
   </tr>
   <tr style="border: none!important;">
