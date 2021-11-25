@@ -32,7 +32,7 @@ p_bib=""
 include cite.html 
 p_title="Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement" 
 p_id="HuaHanYuBou21RA-L" 
-p_author="B. Huang and S. D. Han and J. Yu and A. Boularias" 
+p_author="B. Huang, S. D. Han, J. Yu, and A. Boularias" 
 p_venue="IEEE Robotics and Automation Letters, 7(1), pages: 231-238, 2021" 
 p_pdf="https://arxiv.org/pdf/2105.02857.pdf" 
 p_bib="@article{HuaHanYuBou21RA-L,<br>
