@@ -33,8 +33,8 @@ include cite.html
 p_title="Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement" 
 p_id="HuaHanYuBou21RA-L" 
 p_author="B. Huang and S. D. Han and J. Yu and A. Boularias" 
-p_venue="IEEE Robotics and Automation Letters, vol. 7, no. 1 (2021): 231-238" 
-p_pdf="https://arxiv.org/pdf/1904.02598.pdf" 
+p_venue="IEEE Robotics and Automation Letters, 7(1), pages: 231-238, 2021" 
+p_pdf="https://arxiv.org/pdf/2105.02857.pdf" 
 p_bib="@article{HuaHanYuBou21RA-L,<br>
   author={Huang, Baichuan and Han, Shuai D. and Yu, Jingjin and Boularias, Abdeslam},<br>
   journal={IEEE Robotics and Automation Letters}, <br>
@@ -261,7 +261,7 @@ include cite.html
 p_title="DDM: Fast Near-Optimal Multi-Robot Path Planning using Diversified-Path and Optimal Sub-Problem Solution Database Heuristics" 
 p_id="HanYu20RAL" 
 p_author="S. D. Han and J. Yu" 
-p_venue="IEEE Robotics and Automation Letters 5, no. 2 (2020): 1350-1357" 
+p_venue="IEEE Robotics and Automation Letters, 5(2), page(s): 1350-1357, 2020" 
 p_pdf="https://arxiv.org/pdf/1904.02598.pdf" 
 p_bib="@article{HanYu20RAL,<br>
   author={Han, Shuai D. and Yu, Jingjin},<br>
