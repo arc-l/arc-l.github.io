@@ -43,7 +43,7 @@ p_bib="@article{HuaHanYuBou21RA-L,<br>
   volume={7},<br>
   number={1},<br>
   pages={231-238},<br>
-  doi={10.1109/LRA.2021.3123373}}<br>
+  doi={10.1109/LRA.2021.3123373}}"
 %}
 
 {% 
