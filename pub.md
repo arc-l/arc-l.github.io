@@ -30,6 +30,24 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement" 
+p_id="HuaHanYuBou21RA-L" 
+p_author="B. Huang and S. D. Han and J. Yu and A. Boularias" 
+p_venue="IEEE Robotics and Automation Letters, vol. 7, no. 1 (2021): 231-238" 
+p_pdf="https://arxiv.org/pdf/1904.02598.pdf" 
+p_bib="@article{HuaHanYuBou21RA-L,<br>
+  author={Huang, Baichuan and Han, Shuai D. and Yu, Jingjin and Boularias, Abdeslam},<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement}, <br>
+  year={2022},<br>
+  volume={7},<br>
+  number={1},<br>
+  pages={231-238},<br>
+  doi={10.1109/LRA.2021.3123373}}<br>
+%}
+
+{% 
+include cite.html 
 p_title="Capacitated Vehicle Routing with Target Geometric Constraints" 
 p_id="GaoYu21IROS" 
 p_author="K. Gao and J. Yu" 
