@@ -38,7 +38,7 @@ p_bib="@article{SzeYu18IJRR,<br>
 author = {Mario Szegedy and Jingjin Yu},<br>
 title ={Rubik Tables and Object Rearrangement},<br>
 journal = {The International Journal of Robotics Research},<br>
-year = 2022,
+year = 2022,<br>
 note={to appear}" 
 %}
 
