@@ -30,6 +30,20 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Rubik Tables and Object Rearrangement" 
+p_id="SzeYu18IJRR" 
+p_author="M. Szegedy and J. Yu" 
+p_venue="The International Journal of Robotics Research, 2022, to appear" 
+p_bib="@article{SzeYu18IJRR,<br>
+author = {Mario Szegedy and Jingjin Yu},<br>
+title ={Rubik Tables and Object Rearrangement},<br>
+journal = {The International Journal of Robotics Research},<br>
+year = 2022,
+note={to appear}" 
+%}
+
+{% 
+include cite.html 
 p_title="Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement" 
 p_id="HuaHanYuBou22RA-L" 
 p_author="B. Huang, S. D. Han, J. Yu, and A. Boularias" 
