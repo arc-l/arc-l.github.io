@@ -63,6 +63,11 @@ If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.h
 
 We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting, what are some of the limitations, and how you would go about doing the work better. Generic inquries about "positions" at the lab will not be answered; in particular, saying some of our work is interesting without providing details is a red flag. 
 
-<video width="100%" controls id="highlights" autoplay muted src="/media/banner-ddm.m4v">
+<video width="100%" controls id="highlights" autoplay muted src="https://user-images.githubusercontent.com/23622170/150433205-858a88ed-31bd-4df4-8aba-6a0be30a385b.mp4
+" class="d-block rounded-bottom-2 width-fit">
 </video>
+
+
+
+
 
