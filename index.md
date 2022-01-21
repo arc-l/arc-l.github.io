@@ -10,14 +10,14 @@
 <script>
 
 var videoSource = new Array();
-videoSource[0]="https://user-images.githubusercontent.com/23622170/150445624-87f3f643-761c-4ae1-acda-66d0e7262e07.mp4"; 
-videoSource[1]="https://user-images.githubusercontent.com/23622170/150433205-858a88ed-31bd-4df4-8aba-6a0be30a385b.mp4";
-videoSource[2]="https://user-images.githubusercontent.com/23622170/150441666-9b21ea32-efa5-42b3-ba50-8aad288ee643.mp4";
-videoSource[3]="https://user-images.githubusercontent.com/23622170/150441651-0dd00912-8e6a-4cb0-adfc-75d7fa76e49f.mp4";
-videoSource[4]="https://user-images.githubusercontent.com/23622170/150441655-e3558b2a-adfe-4da6-9ab6-4e43c6a37bc7.mp4";
-videoSource[5]="https://user-images.githubusercontent.com/23622170/150441656-44b8ac8e-de70-41e9-a8d1-6e938e88bae8.mp4";
-videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10-7210-49d6-86bc-e24c35c32078.mp4";
-videoSource[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
+videoSource[0]="https://user-images.githubusercontent.com/23622170/150448620-5553ea53-8d8a-4f86-b1d7-d91098454212.mp4";  // TORI
+videoSource[1]="https://user-images.githubusercontent.com/23622170/150448628-383acd7f-714e-4637-98c0-a4cc578d536e.mp4";  // DDM
+videoSource[2]="https://user-images.githubusercontent.com/23622170/150448627-704dc206-6e47-41d3-bb37-202f15f28aad.mp4";  // DIPN-VFT
+videoSource[3]="https://user-images.githubusercontent.com/23622170/150448631-64ce4d8c-9d6e-4008-8a8f-5389c8a6264b.mp4";  // MVP
+videoSource[4]="https://user-images.githubusercontent.com/23622170/150448636-5dd07dbf-c4b3-447b-9acd-05598e80e33a.mp4";  // OPG
+videoSource[5]="https://user-images.githubusercontent.com/23622170/150448634-ab4490f9-2556-49d3-a6d7-c73d0406fa9c.mp4";  // MRPP
+videoSource[6]="https://user-images.githubusercontent.com/23622170/150448641-a0e9a94e-73c4-4c57-a8f8-38929a586aec.mp4";  // RECYCLE
+videoSource[7]="https://user-images.githubusercontent.com/23622170/150448638-43051da0-d8b4-4fd8-8ccb-0e404a8fc1da.mp4";  // PNS
   
 var videoCount = videoSource.length;
   
@@ -51,6 +51,17 @@ function videoCycleHandler(){
   
 document.getElementById("myVideo").setAttribute("src",videoSource[currentVideo]);
 document.getElementById('myVideo').addEventListener('ended',videoCycleHandler,false);
+                                              
+var videoS = new Array();
+videoS[0]="https://user-images.githubusercontent.com/23622170/150445624-87f3f643-761c-4ae1-acda-66d0e7262e07.mp4"; 
+videoS[1]="https://user-images.githubusercontent.com/23622170/150433205-858a88ed-31bd-4df4-8aba-6a0be30a385b.mp4";
+videoS[2]="https://user-images.githubusercontent.com/23622170/150441666-9b21ea32-efa5-42b3-ba50-8aad288ee643.mp4";
+videoS[3]="https://user-images.githubusercontent.com/23622170/150441651-0dd00912-8e6a-4cb0-adfc-75d7fa76e49f.mp4";
+videoS[4]="https://user-images.githubusercontent.com/23622170/150441655-e3558b2a-adfe-4da6-9ab6-4e43c6a37bc7.mp4";
+videoS[5]="https://user-images.githubusercontent.com/23622170/150441656-44b8ac8e-de70-41e9-a8d1-6e938e88bae8.mp4";
+videoS[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10-7210-49d6-86bc-e24c35c32078.mp4";
+videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
+                                                            
 </script>
 <br>
 
@@ -111,6 +122,7 @@ If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.h
 ## Prospective Students
 
 We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting, what are some of the limitations, and how you would go about doing the work better. Generic inquries about "positions" at the lab will not be answered; in particular, saying some of our work is interesting without providing details is a red flag. 
+
 
 
 
