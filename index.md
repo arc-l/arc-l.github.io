@@ -20,7 +20,6 @@ videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a7
 videoSource[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
   
 var videoCount = videoSource.length;
-alert(videoCount);
   
 var currentVideo = 0;
 
