@@ -5,8 +5,8 @@
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
 
-<br><br>
-<video width="100%" height="400" controls id="myVideo" autoplay muted></video>
+<br>
+<video width="100%" controls id="myVideo" autoplay muted></video>
 <script>
   
 var videoSource = new Array();
@@ -20,9 +20,17 @@ videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a7
 videoSource[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
   
 var videoCount = videoSource.length;
+alert(videoCount);
   
 var currentVideo = 0;
 
+function sleep(milliseconds) {
+  const date = Date.now();
+  let currentDate = null;
+  do {
+    currentDate = Date.now();
+  } while (currentDate - date < milliseconds);
+}
 
 function videoPlay(videoNum){
   document.getElementById("myVideo").setAttribute("src",videoSource[videoNum]);
@@ -31,6 +39,7 @@ function videoPlay(videoNum){
 }
 
 function videoCycleHandler(){
+  sleep(1000);
   currentVideo ++;
   if(currentVideo == (videoCount-1)){
     currentVideo = 0;
@@ -44,6 +53,7 @@ function videoCycleHandler(){
 document.getElementById("myVideo").setAttribute("src",videoSource[currentVideo]);
 document.getElementById('myVideo').addEventListener('ended',videoCycleHandler,false);
 </script>
+<br>
 
 ## Updates
 
