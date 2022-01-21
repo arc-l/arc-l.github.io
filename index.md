@@ -5,6 +5,46 @@
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
 
+<br><br>
+<video width="100%" controls id="myVideo" autoplay muted></video>
+<script>
+  
+var videoSource = new Array();
+videoSource[0]="https://user-images.githubusercontent.com/23622170/150433205-858a88ed-31bd-4df4-8aba-6a0be30a385b.mp4";
+videoSource[1]="https://user-images.githubusercontent.com/23622170/150441666-9b21ea32-efa5-42b3-ba50-8aad288ee643.mp4";
+videoSource[2]="https://user-images.githubusercontent.com/23622170/150441651-0dd00912-8e6a-4cb0-adfc-75d7fa76e49f.mp4";
+videoSource[3]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
+videoSource[4]="https://user-images.githubusercontent.com/23622170/150441655-e3558b2a-adfe-4da6-9ab6-4e43c6a37bc7.mp4";
+videoSource[5]="https://user-images.githubusercontent.com/23622170/150441656-44b8ac8e-de70-41e9-a8d1-6e938e88bae8.mp4";
+videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10-7210-49d6-86bc-e24c35c32078.mp4";
+videoSource[7]="https://user-images.githubusercontent.com/23622170/150441662-ae3f4b18-9721-4cd7-b991-25c94a7c30e0.mp4";
+  
+var videoCount = videoSource.length;
+  
+var currentVideo = 0;
+
+
+function videoPlay(videoNum){
+  document.getElementById("myVideo").setAttribute("src",videoSource[videoNum]);
+  document.getElementById("myVideo").load();
+  document.getElementById("myVideo").play();
+}
+
+function videoCycleHandler(){
+  currentVideo ++;
+  if(currentVideo == (videoCount-1)){
+    currentVideo = 0;
+    videoPlay(currentVideo);
+  }
+  else{
+    videoPlay(currentVideo);
+  }
+}  
+  
+document.getElementById("myVideo").setAttribute("src",videoSource[currentVideo]);
+document.getElementById('myVideo').addEventListener('ended',videoCycleHandler,false);
+</script>
+
 ## Updates
 
 **10/2021** - Our work on [Visual Foresight Trees](https://arxiv.org/pdf/2105.02857.pdf) will appear in RA-L. <br>
@@ -63,44 +103,5 @@ If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.h
 
 We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting, what are some of the limitations, and how you would go about doing the work better. Generic inquries about "positions" at the lab will not be answered; in particular, saying some of our work is interesting without providing details is a red flag. 
 
-
-<video width="100%" controls id="myVideo" autoplay muted></video>
-<script>
-  
-var videoSource = new Array();
-videoSource[0]="https://user-images.githubusercontent.com/23622170/150433205-858a88ed-31bd-4df4-8aba-6a0be30a385b.mp4";
-videoSource[1]="https://user-images.githubusercontent.com/23622170/150441666-9b21ea32-efa5-42b3-ba50-8aad288ee643.mp4";
-videoSource[2]="https://user-images.githubusercontent.com/23622170/150441651-0dd00912-8e6a-4cb0-adfc-75d7fa76e49f.mp4";
-videoSource[3]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
-videoSource[4]="https://user-images.githubusercontent.com/23622170/150441655-e3558b2a-adfe-4da6-9ab6-4e43c6a37bc7.mp4";
-videoSource[5]="https://user-images.githubusercontent.com/23622170/150441656-44b8ac8e-de70-41e9-a8d1-6e938e88bae8.mp4";
-videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10-7210-49d6-86bc-e24c35c32078.mp4";
-videoSource[7]="https://user-images.githubusercontent.com/23622170/150441662-ae3f4b18-9721-4cd7-b991-25c94a7c30e0.mp4";
-  
-var videoCount = videoSource.length;
-  
-var currentVideo = 0;
-
-
-function videoPlay(videoNum){
-  document.getElementById("myVideo").setAttribute("src",videoSource[videoNum]);
-  document.getElementById("myVideo").load();
-  document.getElementById("myVideo").play();
-}
-
-function videoCycleHandler(){
-  currentVideo ++;
-  if(currentVideo == (videoCount-1)){
-    currentVideo = 0;
-    videoPlay(currentVideo);
-  }
-  else{
-    videoPlay(currentVideo);
-  }
-}  
-  
-document.getElementById("myVideo").setAttribute("src",videoSource[currentVideo]);
-document.getElementById('myVideo').addEventListener('ended',videoCycleHandler,false);
-</script>
 
 
