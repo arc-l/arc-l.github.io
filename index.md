@@ -76,8 +76,10 @@ videoSource[4]="https://user-images.githubusercontent.com/23622170/150441655-e35
 videoSource[5]="https://user-images.githubusercontent.com/23622170/150441656-44b8ac8e-de70-41e9-a8d1-6e938e88bae8.mp4";
 videoSource[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10-7210-49d6-86bc-e24c35c32078.mp4";
 videoSource[7]="https://user-images.githubusercontent.com/23622170/150441662-ae3f4b18-9721-4cd7-b991-25c94a7c30e0.mp4";
+  
 var videoCount = videoSource.length;
-var currentVideo = 0
+  
+var currentVideo = 0;
 
 
 function videoPlay(videoNum){
@@ -97,7 +99,7 @@ function videoCycleHandler(){
   }
 }  
   
-document.getElementById("myVideo").setAttribute("src",videoSource[0]);
+document.getElementById("myVideo").setAttribute("src",videoSource[currentVideo]);
 document.getElementById('myVideo').addEventListener('ended',videoCycleHandler,false);
 </script>
 
