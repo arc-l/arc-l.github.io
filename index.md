@@ -6,7 +6,7 @@
 </div>
 
 <br>
-<video width="100%" controls id="myVideo" autoplay muted></video>
+<video width="580" height="330" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
 <script>
 
 var videoSource = new Array();
