@@ -41,7 +41,7 @@ function videoPlay(videoNum){
 function videoCycleHandler(){
   sleep(1000);
   currentVideo ++;
-  if(currentVideo == (videoCount-1)){
+  if(currentVideo == videoCount){
     currentVideo = 0;
     videoPlay(currentVideo);
   }
