@@ -188,12 +188,15 @@ include cite.html
 p_title="Fast, High-Quality Dual-Arm Rearrangement in Synchronous, Monotone Tabletop Setups" 
 p_id="shome2021fast" 
 p_author="R. Shome, K. Solovey, J. Yu, D. Halperin and K. Bekris" 
-p_venue="IEEE Transactions on Automation Science and Engineering, 2021. To appear" 
+p_venue="IEEE Transactions on Automation Science and Engineering, 18(3), pages 888-901, 2021." 
 p_pdf="https://arxiv.org/pdf/1810.12202.pdf" 
 p_bib="@article{shome2021fast,<br>
   title={Fast, High-Quality Two-Arm Rearrangement in Synchronous, Monotone Tabletop Setups},<br>
   author={Shome, Rahul and Solovey, Kiril and Yu, Jingjin and Bekris, Kostas and Halperin, Dan},<br>
   journal={IEEE Transactions on Automation Science and Engineering},<br>
+  volume = {18},<br>
+  number = {3},<br>
+  pages = {888--901},<br>
   year={2021},<br>
   publisher={IEEE}<br>
 }" 
