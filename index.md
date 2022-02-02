@@ -4,7 +4,9 @@
   <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en" target="_">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
+<br>
 
+The Algorithmic Robotics and Control Lab (ARC-L) at Rutgers is broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploit the obtained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. Current, ARC-L is exploring domains covering multi-robot path/motion planning, multi-object manipulation, robot learning, multi-sensor deployment, and sensor fusion. 
 <br>
 <video width="592" height="276" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
 <script>
