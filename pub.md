@@ -28,6 +28,98 @@ p_bib=""
 
 ## 2022
 
+
+{% 
+include cite.html 
+p_title="Fast High-Quality Tabletop Rearrangement in Bounded Workspace" 
+p_id="GaoLauHuaBekYu22ICRA" 
+p_author="K. Gao, D. Lau, B. Huang, K. E. Bekris, J. Yu" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2110.12325.pdf" 
+p_bib="@inproceedings{GaoLauHuaBekYu22ICRA,<br>
+  author = {Kai Gao and Darren Lau and Baichuan Huang and Kostas E. Bekris and Jingjin Yu},<br>
+  title = {Fast High-Quality Tabletop Rearrangement in Bounded Workspace},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines" 
+p_id="FenYu22ICRA" 
+p_author="S. W. Feng, J. Yu" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2111.09151.pdf" 
+p_bib="@inproceedings{FenYu22ICRA,<br>
+  author = {Si Wei Feng and Jingjin Yu},<br>
+  title = {Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Optimizing Space Utilization for More Effective Multi-Robot Path Planning" 
+p_id="HanYu22ICRA" 
+p_author="S. D. Han, J. Yu" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2109.04677.pdf" 
+p_bib="@inproceedings{HanYu22ICRA,<br>
+  author = {Shuai D. Han and Jingjin Yu},<br>
+  title = {Optimizing Space Utilization for More Effective Multi-Robot Path Planning},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Self-Supervised Monte Carlo Tree Search Learning for Object Retrieval in Clutter" 
+p_id="HuaGuoBouYu22ICRA" 
+p_author="B. Huang, T. Guo, A. Boularias, and J. Yu" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2202.01426.pdf" 
+p_bib="@inproceedings{HuaGuoBouYu22ICRA,<br>
+  author = {Baichuan Huang and Teng Guo and Abdeslam Boularias and Jingjin Yu},<br>
+  title = {Self-Supervised Monte Carlo Tree Search Learning for Object Retrieval in Clutter},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration" 
+p_id="ZhaHuaYuZhu22ICRA" 
+p_author="Y. Zhao and B. Huang and J. Yu and Q. Zhu" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_bib="@inproceedings{ZhaHuaYuZhu22ICRA,<br>
+  author = {Yuhan Zhao and Baichuan Huang and Jingjin Yu and Quanyan Zhu},<br>
+  title = {Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Persistent Homology for Effective Non-Prehensile Manipulation" 
+p_id="VieNakGaoWanYuBek22ICRA" 
+p_author="E. Vieira and D. Nakhimovich and K. Gao and R. Wang and J. Yu and K. E. Bekris" 
+p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_bib="@inproceedings{VieNakGaoWanYuBek22ICRA,<br>
+  author = {Ewerton Vieira and Daniel Nakhimovich and Kai Gao and Rui Wang and Jingjin Yu and Kostas E. Bekris},<br>
+  title = {Persistent Homology for Effective Non-Prehensile Manipulation},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2022}
+}" 
+%}
+
 {% 
 include cite.html 
 p_title="Rubik Tables and Object Rearrangement" 
