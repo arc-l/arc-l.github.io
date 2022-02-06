@@ -95,7 +95,7 @@ p_bib="@inproceedings{HuaGuoBouYu22ICRA,<br>
 include cite.html 
 p_title="Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration" 
 p_id="ZhaHuaYuZhu22ICRA" 
-p_author="Y. Zhao and B. Huang and J. Yu and Q. Zhu" 
+p_author="Y. Zhao, B. Huang, J. Yu and Q. Zhu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_bib="@inproceedings{ZhaHuaYuZhu22ICRA,<br>
   author = {Yuhan Zhao and Baichuan Huang and Jingjin Yu and Quanyan Zhu},<br>
@@ -110,7 +110,7 @@ p_bib="@inproceedings{ZhaHuaYuZhu22ICRA,<br>
 include cite.html 
 p_title="Persistent Homology for Effective Non-Prehensile Manipulation" 
 p_id="VieNakGaoWanYuBek22ICRA" 
-p_author="E. Vieira and D. Nakhimovich and K. Gao and R. Wang and J. Yu and K. E. Bekris" 
+p_author="E. Vieira, D. Nakhimovich, K. Gao, R. Wang, J. Yu and K. E. Bekris" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_bib="@inproceedings{VieNakGaoWanYuBek22ICRA,<br>
   author = {Ewerton Vieira and Daniel Nakhimovich and Kai Gao and Rui Wang and Jingjin Yu and Kostas E. Bekris},<br>
