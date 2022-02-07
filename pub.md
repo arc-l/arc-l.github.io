@@ -97,6 +97,7 @@ p_title="Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration"
 p_id="ZhaHuaYuZhu22ICRA" 
 p_author="Y. Zhao, B. Huang, J. Yu and Q. Zhu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2202.01877.pdf" 
 p_bib="@inproceedings{ZhaHuaYuZhu22ICRA,<br>
   author = {Yuhan Zhao and Baichuan Huang and Jingjin Yu and Quanyan Zhu},<br>
   title = {Stackelberg Strategic Guidance for Heterogeneous Robots Collaboration},<br>
