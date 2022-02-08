@@ -113,6 +113,7 @@ p_title="Persistent Homology for Effective Non-Prehensile Manipulation"
 p_id="VieNakGaoWanYuBek22ICRA" 
 p_author="E. Vieira, D. Nakhimovich, K. Gao, R. Wang, J. Yu and K. E. Bekris" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
+p_pdf="https://arxiv.org/pdf/2202.02937.pdf" 
 p_bib="@inproceedings{VieNakGaoWanYuBek22ICRA,<br>
   author = {Ewerton Vieira and Daniel Nakhimovich and Kai Gao and Rui Wang and Jingjin Yu and Kostas E. Bekris},<br>
   title = {Persistent Homology for Effective Non-Prehensile Manipulation},<br>
