@@ -33,7 +33,7 @@ p_bib=""
 include cite.html 
 p_title="Fast High-Quality Tabletop Rearrangement in Bounded Workspace" 
 p_id="GaoLauHuaBekYu22ICRA" 
-p_author="K. Gao, D. Lau, B. Huang, K. E. Bekris, J. Yu" 
+p_author="K. Gao, D. Lau, B. Huang, K. E. Bekris and J. Yu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_pdf="https://arxiv.org/pdf/2110.12325.pdf" 
 p_bib="@inproceedings{GaoLauHuaBekYu22ICRA,<br>
@@ -48,7 +48,7 @@ p_bib="@inproceedings{GaoLauHuaBekYu22ICRA,<br>
 include cite.html 
 p_title="Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines" 
 p_id="FenYu22ICRA" 
-p_author="S. W. Feng, J. Yu" 
+p_author="S. W. Feng and J. Yu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_pdf="https://arxiv.org/pdf/2111.09151.pdf" 
 p_bib="@inproceedings{FenYu22ICRA,<br>
@@ -63,7 +63,7 @@ p_bib="@inproceedings{FenYu22ICRA,<br>
 include cite.html 
 p_title="Optimizing Space Utilization for More Effective Multi-Robot Path Planning" 
 p_id="HanYu22ICRA" 
-p_author="S. D. Han, J. Yu" 
+p_author="S. D. Han and J. Yu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_pdf="https://arxiv.org/pdf/2109.04677.pdf" 
 p_bib="@inproceedings{HanYu22ICRA,<br>
@@ -79,7 +79,7 @@ p_bib="@inproceedings{HanYu22ICRA,<br>
 include cite.html 
 p_title="Self-Supervised Monte Carlo Tree Search Learning for Object Retrieval in Clutter" 
 p_id="HuaGuoBouYu22ICRA" 
-p_author="B. Huang, T. Guo, A. Boularias, and J. Yu" 
+p_author="B. Huang, T. Guo, A. Boularias and J. Yu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_pdf="https://arxiv.org/pdf/2202.01426.pdf" 
 p_bib="@inproceedings{HuaGuoBouYu22ICRA,<br>
