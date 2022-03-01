@@ -77,14 +77,14 @@ p_bib="@inproceedings{HanYu22ICRA,<br>
 
 {% 
 include cite.html 
-p_title="Self-Supervised Monte Carlo Tree Search Learning for Object Retrieval in Clutter" 
+p_title="Interleaving Monte Carlo Tree Search and Self-Supervised Learning for Object Retrieval in Clutter" 
 p_id="HuaGuoBouYu22ICRA" 
 p_author="B. Huang, T. Guo, A. Boularias and J. Yu" 
 p_venue="2022 IEEE International Conference on Robotics and Automation (ICRA 2022)" 
 p_pdf="https://arxiv.org/pdf/2202.01426.pdf" 
 p_bib="@inproceedings{HuaGuoBouYu22ICRA,<br>
   author = {Baichuan Huang and Teng Guo and Abdeslam Boularias and Jingjin Yu},<br>
-  title = {Self-Supervised Monte Carlo Tree Search Learning for Object Retrieval in Clutter},<br>
+  title = {Interleaving Monte Carlo Tree Search and Self-Supervised Learning for Object Retrieval in Clutter},<br>
   booktitle={IEEE International Conference on Robotics and Automation},<br>
   year={2022}
 }" 
