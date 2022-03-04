@@ -138,6 +138,21 @@ note={to appear}"
 
 {% 
 include cite.html 
+p_title="Taming Combinatorial Challenges in Clutter Removal" 
+p_id="TanYu2022RR" 
+p_author="W. N. Tang and J. Yu" 
+p_venue="Robotics Research, pages 291-310" 
+p_pdf="https://arc-l.github.io/files/TanYu19ISRR.pdf" 
+p_bib="@article{TanYu2022RR,<br>
+  author={Tang, Wei N and Yu, Jingjin},<br>
+  journal={Robotics Research}, <br>
+  title={Taming Combinatorial Challenges in Clutter Removal}, <br>
+  year={2022},
+  pages={291--310},<br>}"
+%}
+
+{% 
+include cite.html 
 p_title="Visual Foresight Trees for Object Retrieval From Clutter With Nonprehensile Rearrangement" 
 p_id="HuaHanYuBou22RA-L" 
 p_author="B. Huang, S. D. Han, J. Yu, and A. Boularias" 
