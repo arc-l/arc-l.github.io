@@ -141,7 +141,7 @@ include cite.html
 p_title="Taming Combinatorial Challenges in Clutter Removal" 
 p_id="TanYu2022RR" 
 p_author="W. N. Tang and J. Yu" 
-p_venue="Robotics Research, pages 291-310" 
+p_venue="Robotics Research, pages 291-310, 2022" 
 p_pdf="https://arc-l.github.io/files/TanYu19ISRR.pdf" 
 p_bib="@article{TanYu2022RR,<br>
   author={Tang, Wei N and Yu, Jingjin},<br>
