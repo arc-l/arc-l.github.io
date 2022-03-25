@@ -25,6 +25,12 @@ var videoCount = videoSource.length;
   
 var currentVideo = 0;
 
+function getRandomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+ 
+currentVideo = getRandomInt(videoCount)
+ 
 function sleep(milliseconds) {
   const date = Date.now();
   let currentDate = null;
@@ -69,6 +75,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 
 ## Updates
 
+**03/2022** - One paper accepted by ICAPS 2022. <br>
 **02/2022** - Six papers accepted by ICRA 2022. <br>
 **10/2021** - Our work on [Visual Foresight Trees](https://arxiv.org/pdf/2105.02857.pdf) will appear in RA-L. <br>
 **10/2021** - Our work extending our WAFR 2020 [Rubik Table](https://arxiv.org/pdf/2002.04979.pdf) results will appear in IJRR. <br>
