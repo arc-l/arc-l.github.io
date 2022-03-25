@@ -28,6 +28,20 @@ p_bib=""
 
 ## 2022
 
+{% 
+include cite.html 
+p_title="Lazy Rearrangement Planning in Confined Spaces" 
+p_id="WanGaoYuBek22ICAPS" 
+p_author="R. Wang, K. Gao, J. Yu and K. E. Bekris" 
+p_venue="The 32nd International Conference on Automated Planning and Scheduling (ICAPS 2022)" 
+p_pdf="https://arxiv.org/pdf/2203.10379.pdf" 
+p_bib="@inproceedings{WanGaoYuBek22ICAPS,<br>
+  author = {Rui Wang and Kai Gao and Jingjin Yu and Kostas Bekris},<br>
+  title = {Lazy Rearrangement Planning in Confined Spaces},<br>
+  booktitle={International Conference on Automated Planning and Scheduling},<br>
+  year={2022}
+}" 
+%}
 
 {% 
 include cite.html 
