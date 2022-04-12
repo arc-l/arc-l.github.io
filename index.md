@@ -75,6 +75,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 
 ## Updates
 
+**04/2022** - One [paper](https://arxiv.org/pdf/2201.08976.pdf) accepted by RSS 2022. <br>
 **03/2022** - One paper accepted by ICAPS 2022. <br>
 **02/2022** - Six papers accepted by ICRA 2022. <br>
 **10/2021** - Our work on [Visual Foresight Trees](https://arxiv.org/pdf/2105.02857.pdf) will appear in RA-L. <br>
@@ -125,6 +126,8 @@ based on motion models from our research on multi-robot motion planning and the 
 **12/2016** - One paper accepted by ICRA 2017.<br>
 **04/2016** - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
 
+  
+  
 ## Legacy Group Website
 
 If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.html" target="_">old code</a> and/or the <a id="links" href="https://arc.cs.rutgers.edu/mvp/" target="_">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://arc.cs.rutgers.edu" target="_">arc.cs.rutgers.edu</a>, no longer updated after 07/2021. 
