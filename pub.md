@@ -30,6 +30,21 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time" 
+p_id="GuoYuRSS22" 
+p_author="T. Guo and J. Yu" 
+p_venue="2022 Robotics: Science and Systems (RSS 2022)" 
+p_pdf="https://arxiv.org/pdf/2201.08976.pdf" 
+p_bib="@inproceedings{GuoYuRSS22,<br>
+  Title                    = {Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time},<br>
+  Author                   = {Teng Guo and Jingjin Yu},<br>
+  Booktitle                = {Robotics: Sciences and Systems},<br>
+  Year                     = {2022}
+}" 
+%}
+
+{% 
+include cite.html 
 p_title="Lazy Rearrangement Planning in Confined Spaces" 
 p_id="WanGaoYuBek22ICAPS" 
 p_author="R. Wang, K. Gao, J. Yu and K. E. Bekris" 
@@ -220,7 +235,7 @@ p_bib="@inproceedings{HanHuaYu21CASE,<br>
 include cite.html 
 p_title="On Minimizing the Number of Running Buffers for Tabletop Rearrangement" 
 p_id="GaoFenYuRSS21" 
-p_author="K. Gao, S. W. Feng, and J Yu" 
+p_author="K. Gao, S. W. Feng, and J. Yu" 
 p_venue="2021 Robotics: Science and Systems (RSS 2021)" 
 p_pdf="https://arxiv.org/pdf/2105.06357.pdf" 
 p_bib="@inproceedings{GaoFenYuRSS21,<br>
