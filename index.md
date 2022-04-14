@@ -1,3 +1,15 @@
+<script>
+function sv(id) {
+                    if (document.getElementById(id).value == '-') {
+                        document.getElementById(id).value = '+';
+                        document.getElementById(id).style.display = 'none';
+                    } else {
+                        document.getElementById(id).value = '-';
+                        document.getElementById(id).style.display = 'inline';
+                    }
+                }
+</script>
+
 <div style="text-align: right">
   <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw" target="_">YouTube</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="https://github.com/arc-l" target="_">Code on Github</a>&nbsp;&nbsp;&nbsp;
