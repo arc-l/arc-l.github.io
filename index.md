@@ -89,6 +89,9 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 **04/2021** - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
 **03/2021** - Dr. Yu received an Amazon gift supporting our multi-robot research. <br>
 **02/2021** - Four papers accepted by ICRA 2021. <br>
+  
+<a href="javascript:void(0)" onclick="sv('updates');">bibtex</a>
+<div id='updates' style='display:none;' value='+'>
 **11/2020** - We are releasing an android game, <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="PS">Pebbles</a>, 
 based on motion models from our research on multi-robot motion planning and the 15-puzzle. You can directly download the <a href="http://arc.cs.rutgers.edu/files/pebbles.apk" target="_M">apk</a>.<br>
 **10/2020** - Joining the dark side :D here is our lab's first deep learning based work, focusing on <a href="https://youtu.be/CNkZfZ-0Du8" target="_TT">de-cluttering</a>, as a joint work with Abdeslam Boularias. Submitted to ICRA 2021 [<a href="https://arxiv.org/pdf/2011.04692.pdf" target="_M">manuscript</a>].<br>
@@ -125,6 +128,7 @@ based on motion models from our research on multi-robot motion planning and the 
 **04/2017** - One paper accepted by RSS 2017.<br>
 **12/2016** - One paper accepted by ICRA 2017.<br>
 **04/2016** - Dr. Yu started an NSF RI project on taming combinatorial challenges in manipulation with his colleague Kostas Bekris.<br><br>
+</div> 
 
   
   
