@@ -88,6 +88,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 ## Updates
 
 **04/2022** - One [paper](https://arxiv.org/pdf/2201.08976.pdf) accepted by RSS 2022. <br>
+**03/2022** - Dr. Yu gave an invited talk at the Rutgers ECE Efficient AI (EFAI) seminar series. <br>
 **03/2022** - One paper accepted by ICAPS 2022. <br>
 **02/2022** - Six papers accepted by ICRA 2022. <br>
 **10/2021** - Our work on [Visual Foresight Trees](https://arxiv.org/pdf/2105.02857.pdf) will appear in RA-L. <br>
