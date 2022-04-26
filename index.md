@@ -99,13 +99,13 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 <b>07/2021</b> - Dr. Yu is a tenured Associate Professor at Rutgers CS as of 07/2021. <br>
 <b>07/2021</b> - One paper accepted by IROS 2021. <br>
 <b>06/2021</b> - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
+
+<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
+<div id='updatess' style='display:none;' value='+'>
 <b>05/2021</b> - Two papers accepted by RSS 2021. <br>
 <b>04/2021</b> - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
 <b>03/2021</b> - Dr. Yu received an Amazon gift supporting our multi-robot research. <br>
 <b>02/2021</b> - Four papers accepted by ICRA 2021. <br>
-  
-<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
-<div id='updatess' style='display:none;' value='+'>
 <b>11/2020</b> - We are releasing an android game, <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="PS">Pebbles</a>, 
 based on motion models from our research on multi-robot motion planning and the 15-puzzle. You can directly download the <a href="http://arc.cs.rutgers.edu/files/pebbles.apk" target="_M">apk</a>.<br>
 <b>10/2020</b> - Joining the dark side :D here is our lab's first deep learning based work, focusing on <a href="https://youtu.be/CNkZfZ-0Du8" target="_TT">de-cluttering</a>, as a joint work with Abdeslam Boularias. Submitted to ICRA 2021 [<a href="https://arxiv.org/pdf/2011.04692.pdf" target="_M">manuscript</a>].<br>
