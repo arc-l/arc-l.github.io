@@ -87,6 +87,9 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 
 ## Updates
 
+<b>06/2022</b> - Four papers accepted by IROS 2022. <br>
+<b>06/2022</b> - One paper accepted by CCCG 2022. <br>
+<b>06/2022</b> - Dr. Yu gave an invited talk, titled "Multi-Robot Path Planning on Graphs", at the Nankai International AI and Robotics forum. <br>
 <b>05/2022</b> - Dr. Yu will serve as an associated editor for IEEE Transactions on Automation Science and Engineering. <br>
 <b>04/2022</b> - One <a href="https://arxiv.org/pdf/2201.08976.pdf" target="_">paper</a> accepted by RSS 2022. <br>
 <b>03/2022</b> - Dr. Yu gave an invited talk at the Rutgers ECE Efficient AI (EFAI) seminar series. <br>
