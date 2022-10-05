@@ -87,6 +87,8 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 
 ## Updates
 
+<b>10/2022</b> - Dr. Yu gave an invited talk, "Planning for Many Robots and Objects", at MBZUAI (online). <br>
+<b>09/2022</b> - Dr. Yu gave an invited talk, "Rubik Tables, Stack Rearrangement, and Multi-Robot Routing", at the 2022 Allerton Conference. <br>
 <b>08/2022</b> - Rutgers CS hit #1 in robotics in the entire world, according to CSRankings <a href="https://user-images.githubusercontent.com/23622170/184647258-8eaa2526-b671-437e-b3b5-e61ebc79983d.PNG" target="_">1-year ranking</a>. <br>
 <b>06/2022</b> - Four papers accepted by IROS 2022. <br>
 <b>06/2022</b> - One paper accepted by CCCG 2022. <br>
