@@ -31,22 +31,6 @@ p_bib=""
 
 {% 
 include cite.html 
-p_title="Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement" 
-p_id="GaoYu22IROS" 
-p_author="K. Gao and J. Yu" 
-p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
-p_pdf="https://arxiv.org/pdf/2207.08078.pdf" 
-p_bib="@InProceedings{GaoYu22IROS,<br>
-  author={Kai Gao and Jingjin Yu},<br>
-  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
-  title={Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement},<br> 
-  year={2022},<br>
-  volume={},<br>
-  number={}}" 
-%}
-
-{% 
-include cite.html 
 p_title="Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning" 
 p_id="HuaBouYu22IROS" 
 p_author="B. Huang, A. Boularias and J. Yu" 
@@ -72,6 +56,22 @@ p_bib="@InProceedings{GuoFenYu22IROS,<br>
   author={Guo, Teng and Feng, Si Wei and Yu, Jingjin},<br>
   booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
   title={Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement" 
+p_id="GaoYu22IROS" 
+p_author="K. Gao and J. Yu" 
+p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
+p_pdf="https://arxiv.org/pdf/2207.08078.pdf" 
+p_bib="@InProceedings{GaoYu22IROS,<br>
+  author={Kai Gao and Jingjin Yu},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement},<br> 
   year={2022},<br>
   volume={},<br>
   number={}}" 
