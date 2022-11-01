@@ -28,6 +28,90 @@ p_bib=""
 
 ## 2022
 
+
+{% 
+include cite.html 
+p_title="Robot Motion Planning as Video Prediction: A Spatio-Temporal Neural Network-based Motion Planner" 
+p_id="ZanYinHuaYuZonYua22IROS" 
+p_author="X. Zang, M. Yin, L. Huang, J. Yu, S. Zonouz and B. Yuan" 
+p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
+p_pdf="https://arxiv.org/pdf/2207.06649.pdf" 
+p_bib="@InProceedings{ZanYinHuaYuZonYua22IROS,<br>
+  author={Xiao Zang and Miao Yin and Lingyi Huang and Jingjin Yu and Saman Zonouz and Bo Yuan},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Robot Motion Planning as Video Prediction: A Spatio-Temporal Neural Network-based Motion Planner},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement" 
+p_id="GaoYu22IROS" 
+p_author="K. Gao and J. Yu" 
+p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
+p_pdf="https://arxiv.org/pdf/2207.08078.pdf" 
+p_bib="@InProceedings{GaoYu22IROS,<br>
+  author={Kai Gao and Jingjin Yu},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Toward Efficient Task Planning for Dual-Arm Tabletop Object Rearrangement},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning" 
+p_id="HuaBouYu22IROS" 
+p_author="B. Huang, A. Boularias and J. Yu" 
+p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
+p_pdf="https://arxiv.org/pdf/2207.06649.pdf" 
+p_bib="@InProceedings{HuaBouYu22IROS,<br>
+  author={Baichuan Huang and Abdeslam Boularias and Jingjin Yu},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Parallel Monte Carlo Tree Search with Batched Rigid-body Simulations for Speeding up Long-Horizon Episodic Robot Planning},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination" 
+p_id="GuoFenYu22IROS" 
+p_author="T. Guo, S. W. Feng and J. Yu" 
+p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
+p_pdf="https://arxiv.org/pdf/2207.02735.pdf" 
+p_bib="@InProceedings{GuoFenYu22IROS,<br>
+  author={Guo, Teng and Feng, Si Wei and Yu, Jingjin},<br>
+  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Polynomial Time Near-Time-Optimal Multi-Robot Path Planning in Three Dimensions with Applications to Large-Scale UAV Coordination},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={}}" 
+%}
+
+{% 
+include cite.html 
+p_title="Algorithms and Systems for Manipulating Multiple Objects" 
+p_id="PanZenLiYuHau22TRO" 
+p_author="Z. Pan, A. Zeng, Y. Li, J. Yu and K. Hauser" 
+p_venue="IEEE Transactions on Robotics, 32(5), page(s): 1106 - 1118, 2016" 
+p_pdf="files/YuSchRus16TOR.pdf" 
+p_bib="@article{PanZenLiYuHau22TRO, <br>
+  author={Zherong Pan and Andy Zeng and Yunzhu Li and Jingjin Yu and Kris Hauser},<br>
+  journal={IEEE Transactions on Robotics}, <br>
+  title={Algorithms and Systems for Manipulating Multiple Objects},<br> 
+  year={2022},<br>
+  volume={},<br>
+  number={},<br>
+  pages={},<br>
+  doi={10.1109/TRO.2022.3197013}}" 
+%}
+
+
 {% 
 include cite.html 
 p_title="Sub-1.5 Time-Optimal Multi-Robot Path Planning on Grids in Polynomial Time" 
