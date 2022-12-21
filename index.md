@@ -87,6 +87,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 
 ## Updates
 
+<b>12/2022</b> - Dr. Yu will serve as an <a href="https://www.ieee-ras.org/educational-resources-outreach/distinguished-lecturer-program/distinguished-lecturers-list">RAS Distinguished Lecture</a> starting from January 2023. A multi-part lecture on multi-robot path planning is planned for the first half of 2023. Stay tuned!<br>
 <b>11/2022</b> - Dr. Yu gave an invited talk, "Rubik Tables, Stack Rearrangement, and Multi-Robot Routing", in the <a href="http://acg.cs.tau.ac.il/cg-seminar   ">TAU CG/Robotics Seminar</a> series. <br>
 <b>10/2022</b> - Dr. Yu gave an invited talk, "Planning for Many Robots and Objects", at MBZUAI (online). <br>
 <b>09/2022</b> - Dr. Yu gave an invited talk, "Rubik Tables, Stack Rearrangement, and Multi-Robot Routing", at the 2022 Allerton Conference. <br>
