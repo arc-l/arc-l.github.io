@@ -16,7 +16,9 @@ function sv(id) {
   <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en" target="_">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
+&nbsp;
 <video style="border-style:hidden;border-width:10px 0px;" width="592" height="276" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
+&nbsp;
 <script>
 
 var videoSource = new Array();
