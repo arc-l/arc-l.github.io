@@ -18,7 +18,6 @@ function sv(id) {
 </div>
 <br>
 
-At the Algorithmic Robotics and Control Lab (ARC-L), we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
 <br>
 <video width="592" height="276" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
 <script>
@@ -85,6 +84,18 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 </script>
 <br>
 
+
+At the Algorithmic Robotics and Control Lab (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
+   
+<b>Dr. Jingjin Yu</b> is an Associate Professor in the Department of Computer Science at Rutgers University at New Brunswick. He obtained my Ph.D. in Electrical and Computer Engineering at the University of Illinois working with [Steven M. LaValle](http://lavalle.pl/).
+Prior to joining Rutgers, Dr. Yu spent two years as a postdoctoral researcher at MIT working [Daniela Rus](https://www.csail.mit.edu/user/876) with the first year split at Boston University with [Mac Schwager](https://web.stanford.edu/~schwager/). 
+Dr. Yu also stayed briefly at the Coordinated Science Laboratory at the University of Illinois as a postdoctoral researcher, working with 
+[Soon-Jo Chung](http://www.eas.caltech.edu/people/sjchung) and [Petros G. Voulgaris](https://www.unr.edu/me/people/petros-voulgaris).
+He completed his undergraduate study at the University of Science and Technology of China (USTC).
+
+Dr. Yu is a recipient of the NSF CAREER Award and the Amazon Research Award in Robotics. 
+His Erd&#337;s number is at its limit of 2.   
+  
 ## Updates
 
 <b>01/2023</b> - Dr. Yu will serve as an associated editor for the International Journal of Robotics Research. <br>
