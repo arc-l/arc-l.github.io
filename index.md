@@ -16,7 +16,7 @@ function sv(id) {
   <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en" target="_">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
 </div>
-<img src="media/bar.png" width="400", height="1"><br>
+<img src="media/bar.png" width="400", height="1"/><br>
 <video style="border-style:hidden;border-width:10px 0px;" width="592" height="276" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
 <script>
 
@@ -82,7 +82,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 </script>
  
 <br>
-At the Algorithmic Robotics and Control Lab (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
+  At the <b>Algorithmic Robotics and Control Lab</b> (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
    
 <b>Dr. Jingjin Yu</b> is an Associate Professor in the Department of Computer Science at Rutgers University at New Brunswick. He obtained my Ph.D. in Electrical and Computer Engineering at the University of Illinois working with [Steven M. LaValle](http://lavalle.pl/).
 Prior to joining Rutgers, Dr. Yu spent two years as a postdoctoral researcher at MIT working [Daniela Rus](https://www.csail.mit.edu/user/876) with the first year split at Boston University with [Mac Schwager](https://web.stanford.edu/~schwager/). 
