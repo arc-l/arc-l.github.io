@@ -15,7 +15,10 @@ function sv(id) {
   <a id="links" href="https://github.com/arc-l" target="_">Code on Github</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="https://scholar.google.com/citations?user=jkRa2LEAAAAJ&hl=en" target="_">Google Scholar</a>&nbsp;&nbsp;&nbsp;
   <a id="links" href="/videos.html">Video Highlights</a>
-</div><br>
+</div>
+
+<img src="media/bar.png" width="400" height="5">
+
 <video width="592" height="276" style="background-color: #000;" controls id="myVideo" autoplay muted></video>
 <script>
 
@@ -80,6 +83,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
                                                             
 </script>
 
+<img src="media/bar.png" width="400" height="5">
 
 At the Algorithmic Robotics and Control Lab (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
    
