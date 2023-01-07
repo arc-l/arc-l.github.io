@@ -79,7 +79,6 @@ videoS[6]="https://user-images.githubusercontent.com/23622170/150441660-3a73cf10
 videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe-1478-4099-bfd4-ae5e30501599.mp4";
                                                             
 </script>
-<br>
 
 
 At the Algorithmic Robotics and Control Lab (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
