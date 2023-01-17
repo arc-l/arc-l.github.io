@@ -109,6 +109,9 @@ His Erd&#337;s number is at its limit of 2.
 <b>03/2022</b> - Dr. Yu gave an invited talk at the Rutgers ECE Efficient AI (EFAI) seminar series. <br>
 <b>03/2022</b> - One paper accepted by ICAPS 2022. <br>
 <b>02/2022</b> - Six papers accepted by ICRA 2022. <br>
+
+<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
+<div id='updatess' style='display:none;' value='+'>
 <b>10/2021</b> - Our work on <a href="https://arxiv.org/pdf/2105.02857.pdf" target="_">Visual Foresight Trees</a> will appear in RA-L. <br>
 <b>10/2021</b> - Our work extending our WAFR 2020 <a href="https://arxiv.org/pdf/2002.04979.pdf" target="_">Rubik Table</a> results will appear in IJRR. <br>
 <b>09/2021</b> - Dr. Yu will be starting a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132972&HistoricalAwards=false" target="_"> 4-year NSF National Robotics Initiative 3.0 project</a> with his colleagues Abdeslam Boularias and Mridul Aanjaneya, working on enabling mobile robots to carry out sophisticated search-n-rescue efforts in degraded environments.<br>
@@ -116,9 +119,6 @@ His Erd&#337;s number is at its limit of 2.
 <b>07/2021</b> - Dr. Yu is a tenured Associate Professor at Rutgers CS as of 07/2021. <br>
 <b>07/2021</b> - One paper accepted by IROS 2021. <br>
 <b>06/2021</b> - Our AI/ML/CV based metal recycling system paper is accepted by CASE 2021. <br>
-
-<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
-<div id='updatess' style='display:none;' value='+'>
 <b>05/2021</b> - Two papers accepted by RSS 2021. <br>
 <b>04/2021</b> - Dr. Yu gave an invited talk at the NYU ECE seminar series. <br>
 <b>03/2021</b> - Dr. Yu received an Amazon gift supporting our multi-robot research. <br>
