@@ -26,6 +26,68 @@ p_bib=""
 %}
 -->
 
+
+## 2023
+
+{% 
+include cite.html 
+p_title="On the Utility of Buffers in Pick-n-Swap Based Lattice Rearrangement" 
+p_id="GaoYu23ICRA" 
+p_author="K. Gao and J. Yu" 
+p_venue="2023 IEEE International Conference on Robotics and Automation (ICRA 2023)" 
+p_pdf="https://arxiv.org/pdf/2209.05390.pdf" 
+p_bib="@inproceedings{GaoYu23ICRA,<br>
+  author = {Kai Gao and Jingjin Yu},<br>
+  title = {On the Utility of Buffers in Pick-n-Swap Based Lattice Rearrangement},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2023}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Toward Efficient Physical and Algorithmic Design of Automated Garages" 
+p_id="TenYu23ICRA" 
+p_author="T. Guo and J. Yu" 
+p_venue="2023 IEEE International Conference on Robotics and Automation (ICRA 2023)" 
+p_bib="@inproceedings{TenYu23ICRA,<br>
+  author = {Teng Guo and Jingjin Yu},<br>
+  title = {Toward Efficient Physical and Algorithmic Design of Automated Garages},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2023}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Optimal Allocation of Many Robot Guards for Sweep-Line Coverage" 
+p_id="FenTenYu23ICRA" 
+p_author="S. W. Feng, T. Guo and J. Yu" 
+p_venue="2023 IEEE International Conference on Robotics and Automation (ICRA 2023)" 
+p_bib="@inproceedings{FenTenYu23ICRA,<br>
+  author = {Si Wei Feng and Teng Guo and Jingjin Yu},<br>
+  title = {Optimal Allocation of Many Robot Guards for Sweep-Line Coverage},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2023}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms" 
+p_id="Yu23IJRR" 
+p_author="J. Yu" 
+p_venue="The International Journal of Robotics Research, to appear" 
+p_pdf="https://arxiv.org/pdf/2207.06649.pdf"
+p_bib="@article{Yu23IJRR,<br>
+author = {Jingjin Yu},<br>
+title ={Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms},<br>
+journal = {The International Journal of Robotics Research},<br>
+year = 2023,<br>
+note={to appear}" 
+%}
+
+
 ## 2022
 
 
@@ -241,7 +303,8 @@ include cite.html
 p_title="Rubik Tables and Object Rearrangement" 
 p_id="SzeYu18IJRR" 
 p_author="M. Szegedy and J. Yu" 
-p_venue="The International Journal of Robotics Research, 2022, to appear" 
+p_venue="The International Journal of Robotics Research, to appear" 
+p_pdf="https://arxiv.org/pdf/2202.02937.pdf" 
 p_bib="@article{SzeYu18IJRR,<br>
 author = {Mario Szegedy and Jingjin Yu},<br>
 title ={Rubik Tables and Object Rearrangement},<br>
