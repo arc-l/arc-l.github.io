@@ -95,6 +95,7 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
+<b>01/2023</b> - Three papers accepted by ICRA 2023. <br>
 <b>01/2023</b> - Dr. Yu will serve as an associated editor for the International Journal of Robotics Research. <br>
 <b>12/2022</b> - Dr. Yu will serve as an <a href="https://www.ieee-ras.org/educational-resources-outreach/distinguished-lecturer-program/distinguished-lecturers-list">RAS Distinguished Lecture</a> starting from January 2023. A multi-part lecture on multi-robot path planning is planned for the first half of 2023. Stay tuned!<br>
 <b>11/2022</b> - Dr. Yu gave an invited talk, "Rubik Tables, Stack Rearrangement, and Multi-Robot Routing", in the <a href="http://acg.cs.tau.ac.il/cg-seminar   ">TAU CG/Robotics Seminar</a> series (online). <br>
