@@ -95,7 +95,7 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
-<b>01/2023</b> - An extension to our RSS 2021 paper on the <a href="https://arxiv.org/pdf/2105.05366.pdf" target="_">pick-n-swap</a> manipulation primitive will appear in IJRR. <br>
+<b>02/2023</b> - An extension to our RSS 2021 paper on the <a href="https://arxiv.org/pdf/2105.05366.pdf" target="_">pick-n-swap</a> manipulation primitive is accpted by IJRR. The online version is available at this <a href="https://doi.org/10.1177/02783649231153901" target="_">permanent link</a>.   <br>
 <b>01/2023</b> - Three papers accepted by ICRA 2023. <br>
 <b>01/2023</b> - Dr. Yu will serve as an associated editor for the International Journal of Robotics Research. <br>
 <b>12/2022</b> - Dr. Yu will serve as an <a href="https://www.ieee-ras.org/educational-resources-outreach/distinguished-lecturer-program/distinguished-lecturers-list">RAS Distinguished Lecture</a> starting from January 2023. A multi-part lecture on multi-robot path planning is planned for the first half of 2023. Stay tuned!<br>
