@@ -145,7 +145,6 @@ p_title="Robot Motion Planning as Video Prediction: A Spatio-Temporal Neural Net
 p_id="ZanYinHuaYuZonYua22IROS" 
 p_author="X. Zang, M. Yin, L. Huang, J. Yu, S. Zonouz and B. Yuan" 
 p_venue="2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2022)" 
-p_pdf="https://arxiv.org/pdf/2207.06649.pdf" 
 p_bib="@InProceedings{ZanYinHuaYuZonYua22IROS,<br>
   author={Xiao Zang and Miao Yin and Lingyi Huang and Jingjin Yu and Saman Zonouz and Bo Yuan},<br>
   booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
