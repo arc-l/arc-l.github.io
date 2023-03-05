@@ -17,14 +17,14 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 ## Manipulation in Clutter
 <a class="anchor" id="d1"></a>
 <br/>
-<a id="links" href="#pmbs">Parallel MCTS for Object Retrieval in Clutter</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#more">Self-Supervised Learning-Guided MCTS</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#vft">Visual Foresight Trees for Object Retrieval</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#pmbs">Parallel MCTS for Object Retrieval in Clutter (IROS 22)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#more">Self-Supervised Learning-Guided MCTS (ICRA 22)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#vft">Visual Foresight Trees for Object Retrieval (RA-L 22)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (ICRA 21)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#topa">Back to Top</a>
 <br>
 
-### Parallel MCTS for Object Retrieval in Clutter
+### Parallel MCTS for Object Retrieval in Clutter 
 <a class="anchor" id="pmbs"></a>
 <p>
 We propose a novel Parallel Monte Carlo tree
@@ -101,7 +101,7 @@ terms of success rates and the number of executed actions, on several challengin
 
 <hr>
 
-### Declutter with Deep Interaction Prediction Network (DIPN)
+### Declutter with Deep Interaction Prediction Network
 <a class="anchor" id="dipn"></a>
 <p>
 We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex 
@@ -129,11 +129,11 @@ hardware system than in simulation. <br><br>
 <a class="anchor" id="d2"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#datoro">Optimal Dual-Arm Tabletop Object Rearrangement</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#tori">Tabletop Rearrangement in Bounded Workspace</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#pnswap">Rearrangement on Lattices with Pick-n-Swaps</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#rbm">Running Buffer Minimization for Tabletop Rearrangement</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#datoro">Optimal Dual-Arm Tabletop Object Rearrangement (IROS 22)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#tori">Tabletop Rearrangement in Bounded Workspace (ICRA 21)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#pnswap">Rearrangement on Lattices with Pick-n-Swaps (RSS 21)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#rbm">Running Buffer Minimization for Tabletop Rearrangement (RSS 21)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps (RSS 17, IJRR 18)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
 
