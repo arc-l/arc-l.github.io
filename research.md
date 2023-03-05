@@ -8,6 +8,8 @@
 
 ## Selected Recent Research
 
+This page was last updated in 2021. Please check our publications page for recent research. 
+
 ### Running Buffer Minimization
 
 {% include r-item.html 
