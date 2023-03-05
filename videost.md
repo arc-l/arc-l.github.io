@@ -5,8 +5,8 @@
 This page hosts selected videos highlighting excutions of robot tasks, as planned by our algorithms. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
 
-<a class="anchor" id="topa"></a>
 ## Application Domains 
+<a class="anchor" id="topa"></a>
 <br/>
 <a id="links" href="#d1">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#d2">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
@@ -14,8 +14,8 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 <a id="links" href="#d4">Surveillance and Monitoring</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#d5">End-to-End Systems</a>
 
-<a class="anchor" id="d1"></a>
 ## Manipulation in Clutter
+<a class="anchor" id="d1"></a>
 <br/>
 <a id="links" href="#pmbs">Parallel MCTS for Object Retrieval in Clutter</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#more">Self-Supervised Learning-Guided MCTS</a>&nbsp;&#9679;&nbsp;
@@ -126,15 +126,15 @@ hardware system than in simulation. <br><br>
 
 <hr>
 
-<a class="anchor" id="d2"></a>
 ## Multi-Object Rearrangement
+<a class="anchor" id="d2"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
 
-<a class="anchor" id="d3"></a>
 ## Multi-Robot Systems
+<a class="anchor" id="d3"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
@@ -164,15 +164,15 @@ Time evolutions of both the system and the Lyapunov certificate are shown. The s
 <br>
 </p>
 
-<a class="anchor" id="d4"></a>
 ## Surveillance and Monitoring
+<a class="anchor" id="d4"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
 
-<a class="anchor" id="d4"></a>
 ## End-to-End Systems
+<a class="anchor" id="d5"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
