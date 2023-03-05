@@ -56,7 +56,7 @@ Wei Tang (MS in Computer Science, 2020)
 
 ### Undergraduates 
 
-Darren Lau (Undergraduate from Cornell, Summer 2021)
+Darren Lau (Undergraduate from Cornell, Summer 2021)  
 Qiyuan Huang (Undergraduate Researcher, 2020-2021, going to NYU for MS)  
 Sijie Ding (Undergraduate Researcher, 2019-2020, going to Brown for MS)  
 Xinyu Cai (Summer Intern from USTC, China, 2019)  
