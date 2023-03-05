@@ -8,23 +8,24 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 <a class="anchor" id="topa"></a>
 ## Application Domains 
 <br/>
-<a id="links" href="#manipulation-in-clutter">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#multi-object-rearrangement">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#multi-robot-systems">Multi-Robot Systems</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#surveillance-and-monitoring">Surveillance and Monitoring</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#end-to-end-systems">End-to-End Systems</a>
+<a id="links" href="#d1">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#d2">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#d3">Multi-Robot Systems</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#d4">Surveillance and Monitoring</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#d5">End-to-End Systems</a>
 
+<a class="anchor" id="d1"></a>
 ## Manipulation in Clutter
 <br/>
-<a id="links" href="#parallel-mcts-for-object-retrieval-in-clutter">Parallel MCTS for Object Retrieval in Clutter</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#self-supervised-learning-guided-mcts">Self-Supervised Learning-Guided MCTS</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#visual-foresight-trees-for-object-retrieval">Visual Foresight Trees for Object Retrieval</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#declutter-with-deep-interaction-prediction-network-dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#pmbs">Parallel MCTS for Object Retrieval in Clutter</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#more">Self-Supervised Learning-Guided MCTS</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#vft">Visual Foresight Trees for Object Retrieval</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#topa">Back to Top</a>
 <br>
 
 ### Parallel MCTS for Object Retrieval in Clutter
-<a name="parallel-mcts"></a>
+<a class="anchor" id="pmbs"></a>
 <p>
 We propose a novel Parallel Monte Carlo tree
 search with Batched Simulations (PMBS) algorithm for accelerating long-horizon, episodic robotic planning tasks. Monte
@@ -48,8 +49,7 @@ to a real robot hardware with negligible sim-to-real differences.
 </p>
 
 ### Self-Supervised Learning-Guided MCTS
-
-<a name="guided-mcts"></a>
+<a class="anchor" id="more"></a>
 <p>
 Working with the task of object retrieval in clutter, we developed a robot learning framework
 in which Monte Carlo Tree Search (MCTS) is first applied to
@@ -75,8 +75,7 @@ decision process over time.<br><br>
 <hr>
 
 ### Visual Foresight Trees for Object Retrieval
-
-<a name="vft"></a>
+<a class="anchor" id="vft"></a>
 <p>
 We consider the problem of retrieving an object from many tightly packed objects using a 
 combination of robotic pushing and grasping actions. Object retrieval in dense clutter is 
@@ -103,8 +102,7 @@ terms of success rates and the number of executed actions, on several challengin
 <hr>
 
 ### Declutter with Deep Interaction Prediction Network (DIPN)
-
-<a name="dipn"></a>
+<a class="anchor" id="dipn"></a>
 <p>
 We propose a Deep Interaction Prediction Network (DIPN) for learning to predict complex 
 interactions that ensue as a robot end-effector pushes multiple objects, whose physical 
@@ -128,13 +126,19 @@ hardware system than in simulation. <br><br>
 
 <hr>
 
+<a class="anchor" id="d2"></a>
 ## Multi-Object Rearrangement
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
 
-
+<a class="anchor" id="d3"></a>
+## Multi-Robot Systems
+<br/>
+<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#top">Back to Top</a>
+<br>
 
 
 ###  Rendezvous without Coordinates
@@ -159,3 +163,18 @@ Time evolutions of both the system and the Lyapunov certificate are shown. The s
 </center>
 <br>
 </p>
+
+<a class="anchor" id="d4"></a>
+## Surveillance and Monitoring
+<br/>
+<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#top">Back to Top</a>
+<br>
+
+<a class="anchor" id="d4"></a>
+## End-to-End Systems
+<br/>
+<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#top">Back to Top</a>
+<br>
+
