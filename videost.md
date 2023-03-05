@@ -261,7 +261,6 @@ closely mimics real-world setups, have much smaller MRBs.<br><br>
 ### Optimal Robotic Pick-and-Place on a Moving Conveyor 
 <a class="anchor" id="conveyor"></a>
 <p>
-<strong>
 Robotic pick-and-place (PnP) operations on moving conveyors find a wide range of industrial applications. In practice, simple greedy heuristics (e.g., prioritization based on the time to process a single
 object) are applied that achieve reasonable efficiency. We show analytically that, under a simplified
 telescoping robot model, these greedy approaches do not ensure time optimality of PnP operations.
@@ -270,18 +269,17 @@ picking sequences for a predetermined finite horizon. Employing dynamic programm
 additional heuristics, our methods scale to up to tens to hundreds of objects. In particular, the fast
 algorithms we develop come with running time guarantees, making them suitable for real-time PnP applications demanding high throughput. Extensive evaluation of our algorithmic solution over dominant
 industrial PnP robots used in real-world applications, i.e., Delta robots and Selective Compliance Assembly Robot Arm (SCARA) robots, shows that a typical efficiency gain of around 10-40% over greedy
-approaches can be realized.
-<br><br>
+approaches can be realized.<br><br>
   <center>
   <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/bIomJzjKXyc"></iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/-yDTXM9zASE"></iframe>
   </div>
 </center>
 <br>
 <br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/DRkm9-rQeQk"></iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/bIomJzjKXyc"></iframe>
   </div>
 </center>
 <br>
@@ -518,8 +516,8 @@ Time evolutions of both the system and the Lyapunov certificate are shown. The s
 ## Surveillance and Monitoring
 <a class="anchor" id="d4"></a>
 <br/>
-<a id="links" href="#barrier">Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#org3d">Globally Optimal Coverage of 3D-Embedded Surfaces</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#barrier">Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines (ICRA 22)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#org3d">Globally Optimal Coverage of 3D-Embedded Surfaces (ICRA 21)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#org">Optimal Perimeter and Region Guarding with Range Sensors (RSS 20)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#heteopg">Optimal Perimeter Guarding w Heterogeneous Robots (RA-L 20)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#opg">Optimal Perimeter Guarding (RSS 19)</a>&nbsp;&#9679;&nbsp;
