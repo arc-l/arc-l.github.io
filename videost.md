@@ -129,12 +129,40 @@ hardware system than in simulation. <br><br>
 <a class="anchor" id="d2"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#datoro">Optimal Dual-Arm Tabletop Object Rearrangement</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#tori">Tabletop Rearrangement in Bounded Workspace</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#pnswap">Rearrangement on Lattices with Pick-n-Swaps</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#rbm">Running Buffer Minimization for Tabletop Rearrangement</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
+
+### Toward Optimal Dual-Arm Tabletop Object Rearrangement
+<a class="anchor" id="datoro"></a>
+<p>
+We investigate the problem of coordinating two
+robot arms to solve non-monotone tabletop multi-object rearrangement tasks. In a non-monotone rearrangement task,
+complex object-object dependencies exist that require moving
+some objects multiple times to solve an instance. In working
+with two arms in a large workspace, some objects must be
+handed off between the robots, which further complicates
+the planning process. For the challenging dual-arm tabletop
+rearrangement problem, we develop effective task planning
+algorithms for scheduling the pick-n-place sequence that can
+be properly distributed between the two arms. We show that,
+even without using a sophisticated motion planner, our method
+achieves significant time savings in comparison to greedy
+approaches and naive parallelization of single-robot plans.
+<br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/ksjKV25cbG4"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
 
 ### Tabletop Rearrangement in Bounded Workspace
 <a class="anchor" id="tori"></a>
