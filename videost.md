@@ -12,7 +12,7 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 <a id="links" href="#d2">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#d3">Multi-Robot Path and Motion Planning</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#d4">Surveillance and Monitoring</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#d5">End-to-End Systems</a>
+<a id="links" href="#d5">Industrial Collaboration: End-to-End Systems</a>
 
 ## Manipulation in Clutter
 <a class="anchor" id="d1"></a>
@@ -624,7 +624,7 @@ the correctness and effectiveness of our algorithmic results.<br><br>
 </p>
 
 
-## End-to-End Systems
+## Industrial Collaboration: End-to-End Systems
 <a class="anchor" id="d5"></a>
 <br/>
 <a id="links" href="#recycle">Automated ML-Enabled Scrap Al-Cu Recycling</a>&nbsp;&#9679;&nbsp;
