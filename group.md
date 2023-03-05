@@ -21,30 +21,27 @@
       {% include image.html url="/assets/images/siwei.png" description="Siwei Feng, Ph.D. Candidate" link="https://ustcsiwei88.github.io/" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Student" link="https://gaokai15.github.io" %}
+      {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Candidate" link="https://gaokai15.github.io" %}
     </td>
   </tr>
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/we.png" description="Noah Green, Ph.D. Student" %} 
+      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Candidate" link="https://baichuan05.github.io/" %}
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/teng.png" description="Teng Guo, Ph.D. Student" %}  
-    </td>
-  </tr>
-  <tr style="border: none!important;">
-    <td style="border: none!important;">
-      {% include image.html url="/assets/images/han.png" description="Han Shuai, Ph.D. Candidate" %} 
-    </td>
-    <td style="border: none!important;">
-      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Student" link="https://baichuan05.github.io/" %}
+      {% include image.html url="/assets/images/teng.png" description="Teng Guo, Ph.D. Candidate" %}  
     </td>
   </tr>
 </table>
 
+### MS Students 
+
+Tanay Sandeep Punjabi (MS Student, 2022-)
+
 ### Undergraduates 
 
-Darren Lau (Undergraduate from Cornell)
+Justin Yu (Undergraduate Researcher, 2023-)
+Vibhu Iyer (Undergraduate Researcher, 2023-) 
 
 ## Alumni 
 
@@ -54,10 +51,12 @@ Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017
 
 ### Graduate Students
 
+Shuai D. Hang (Ph.D. in Computer Science, 2021, now at Amazon Robotics)
 Wei Tang (MS in Computer Science, 2020)
 
 ### Undergraduates 
 
+Darren Lau (Undergraduate from Cornell, Summer 2021)
 Qiyuan Huang (Undergraduate Researcher, 2020-2021, going to NYU for MS)  
 Sijie Ding (Undergraduate Researcher, 2019-2020, going to Brown for MS)  
 Xinyu Cai (Summer Intern from USTC, China, 2019)  
