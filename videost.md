@@ -132,6 +132,7 @@ hardware system than in simulation. <br><br>
 <a id="links" href="#tori">Tabletop Rearrangement in Bounded Workspace (ICRA 21)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#pnswap">Rearrangement on Lattices with Pick-n-Swaps (RSS 21)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#rbm">Running Buffer Minimization for Tabletop Rearrangement (RSS 21)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#conveyor">Optimal Robotic Pick-and-Place on a Moving Conveyor (RA-L 20)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#stackrearr">Efficient High Quality Stack Rearrangement (ICRA 18)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps (RSS 17, IJRR 18)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
@@ -257,6 +258,37 @@ closely mimics real-world setups, have much smaller MRBs.<br><br>
 
 <hr>
 
+### Optimal Robotic Pick-and-Place on a Moving Conveyor 
+<a class="anchor" id="conveyor"></a>
+<p>
+<strong>
+Robotic pick-and-place (PnP) operations on moving conveyors find a wide range of industrial applications. In practice, simple greedy heuristics (e.g., prioritization based on the time to process a single
+object) are applied that achieve reasonable efficiency. We show analytically that, under a simplified
+telescoping robot model, these greedy approaches do not ensure time optimality of PnP operations.
+To address the shortcomings of classical solutions, we develop algorithms that compute optimal object
+picking sequences for a predetermined finite horizon. Employing dynamic programming techniques and
+additional heuristics, our methods scale to up to tens to hundreds of objects. In particular, the fast
+algorithms we develop come with running time guarantees, making them suitable for real-time PnP applications demanding high throughput. Extensive evaluation of our algorithmic solution over dominant
+industrial PnP robots used in real-world applications, i.e., Delta robots and Selective Compliance Assembly Robot Arm (SCARA) robots, shows that a typical efficiency gain of around 10-40% over greedy
+approaches can be realized.
+<br><br>
+  <center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/bIomJzjKXyc"></iframe>
+  </div>
+</center>
+<br>
+<br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/DRkm9-rQeQk"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
 ### Efficient High Quality Stack Rearrangement 
 <a class="anchor" id="stackrearr"></a>
 <p>
@@ -307,6 +339,7 @@ when compared with a greedy algorithm. <br><br>
 <br/>
 <a id="links" href="#sub15"> 1.x Time-Optimal Multi-Robot Path Planning in 2D and 3D (RSS 22, IROS 22)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#ddm">Path-Diversification and Database-Driven Multi-Robot Path Planning (RA-L 20)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#wafr18">Multi-Robot Motion Planning in Continuous Domain under Extreme Density (WAFR 2018)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#micromvp">Open-Source micro-Multi-Vehicle Platform (ICRA 2017)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#mppcisrr">Fast Near-Optimal Multi-Robot Path Planning in Continuous Domain (ISRR 15)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#reconfiguration">Optimal Formation Reconfiguration (CDC 12, CDC 13)</a>&nbsp;&#9679;&nbsp;
@@ -397,6 +430,24 @@ facilitate the fast resolution of local path conflicts. <br><br>
 <hr>
 
 ### Open-Source micro-Multi-Vehicle Platform
+<a class="anchor" id="wafr18"></a>
+<p><We push the limit in planning collision-free motions for routing uniform labeled discs in two dimensions. First, from a theoretical perspective, we show that the constant-factor time-optimal routing of
+labeled discs can be achieved using a polynomial-time algorithm with robot density over 50% in the
+limit (i.e., over half of the workspace may be occupied by the discs). Second, from a more practical
+standpoint, we provide a high performance algorithm that computes near-optimal (e.g., 1.x) solutions
+under the same density setting.
+<br><br>
+<center>
+  <div style="position:relative;padding-bottom:75%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/2-QHESZ_p3E"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Open-Source micro-Multi-Vehicle Platform
 <a class="anchor" id="micromvp"></a>
 <p><strong>A Portable, 3D-Printing Enabled Multi-Vehicle Platform for Robotics Research and Education
 </strong> - Video highlight of our microMVP platform for all! See <a href="https://arc.cs.rutgers.edu/mvp/">https://arc.cs.rutgers.edu/mvp/</a>
@@ -467,9 +518,156 @@ Time evolutions of both the system and the Lyapunov certificate are shown. The s
 ## Surveillance and Monitoring
 <a class="anchor" id="d4"></a>
 <br/>
-<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#barrier">Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#org3d">Globally Optimal Coverage of 3D-Embedded Surfaces</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#org">Optimal Perimeter and Region Guarding with Range Sensors (RSS 20)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#heteopg">Optimal Perimeter Guarding w Heterogeneous Robots (RA-L 20)</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#opg">Optimal Perimeter Guarding (RSS 19)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
+
+
+### Barrier Forming: Separating Polygonal Sets with Minimum Number of Lines
+<a class="anchor" id="barrier"></a>
+<p>In this work, we carry out structural and algorithmic studies of a problem of barrier forming: selecting
+the minimum number of straight line segments (barriers) that
+separate several sets of mutually disjoint objects in the plane.
+The problem models the optimal placement of line sensors (e.g.,
+infrared laser beams) for isolating many types of regions in a
+pair-wise manner for practical purposes (e.g., guarding against
+intrusions). The problem is NP-hard even if we want to find
+the minimum number of lines to separate two sets of points in
+the plane. Under the umbrella problem of barrier forming with
+minimum number of line segments, three settings are examined:
+barrier forming for point sets, point sets with polygonal
+obstacles, polygonal sets with polygonal obstacles. We describe
+methods for computing the optimal solution for the first two
+settings with the assistance of mathematical programming, and
+provide a 2-OPT solution for the third. We demonstrate the
+effectiveness of our methods through extensive simulations.<br><br>
+
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/rln8M-7M9EI"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Globally Optimal Coverage of 3D-Embedded Surfaces
+<a class="anchor" id="org3d"></a>
+<p>We carry out a structural and algorithmic study
+of a mobile sensor coverage optimization problem targeting 2D
+surfaces embedded in a 3D workspace. The investigated settings
+model multiple important applications including camera network deployment for surveillance, geological monitoring/survey
+of 3D terrains, and UVC-based surface disinfection for the
+prevention of the spread of disease agents (e.g., SARS-CoV2). Under a unified general “sensor coverage” problem, three
+concrete formulations are examined, focusing on optimizing
+visibility, single-best coverage quality, and cumulative quality,
+respectively. After demonstrating the computational intractability of all these formulations, we describe approximation schemes
+and mathematical programming models for near-optimally
+solving them. The effectiveness of our methods is thoroughly
+evaluated under realistic and practical scenarios.
+<br><br>
+
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/i5D-rCRcCpc"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+
+### Optimal Perimeter and Region Guarding with Range Sensors
+<a class="anchor" id="org"></a>
+<p>We investigate the problem of using mobile robots
+equipped with 2D range sensors to optimally guard perimeters
+or regions. Given a bounded set in R^2 to be guarded, and
+k mobile sensors where the i-th sensor can cover a circular
+region with a variable radius ri, we seek the optimal strategy
+to deploy the k sensors to fully cover the set such that max ri
+is minimized. On the side of computational complexity, we
+show that computing a 1.152-optimal solution for guarding
+a perimeter or a region is NP-hard even when the set is
+a simple polygon or the boundary of a simple polygon, i.e.,
+the problem is hard to approximate. The hardness result on
+perimeter guarding holds when each sensor may guard at most
+two disjoint perimeter segments. On the side of computational
+methods, for the guarding perimeters, we develop a fully
+polynomial time approximation scheme (FPTAS) for the special
+setting where each sensor may only guard a single continuous
+perimeter segment, suggesting that the aforementioned hard-to-approximate result on the two-disjoint-segment sensing model is
+tight. For the general problem, we first describe a polynomial-time (2 + ε)-approximation algorithm as an upper bound,
+applicable to both perimeter guarding and region guarding.
+This is followed by a high-performance integer linear programming (ILP) based method that computes near-optimal solutions.
+Thorough computational benchmarks as well as evaluation on
+potential application scenarios demonstrate the effectiveness of
+these algorithmic solutions.
+<br><br>
+
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/1-PsAmQlVw8"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Optimal Perimeter Guarding w Heterogeneous Robots
+<a class="anchor" id="heteopg"></a>
+<p>We perform structural and algorithmic studies of significantly generalized versions of the optimal
+perimeter guarding (OPG) problem [1]. As compared with the original OPG where robots are uniform,
+in this paper, many mobile robots with heterogeneous sensing capabilities are to be deployed to optimally
+guard a set of one-dimensional segments. Two complimentary formulations are investigated where one
+limits the number of available robots (OPGLR) and the other seeks to minimize the total deployment
+cost (OPGMC). In contrast to the original OPG which admits low-polynomial time solutions, both
+OPGLR and OPGMC are computationally intractable with OPGLR being strongly NP-hard. Nevertheless, we develop fairly scalable pseudo-polynomial time algorithms for practical, fixed-parameter subcase
+of OPGLR; we also develop pseudo-polynomial time algorithm for general OPGMC and polynomial
+time algorithm for the fixed-parameter OPGMC case. The applicability and effectiveness of selected
+algorithms are demonstrated through extensive numerical experiments.<br><br>
+
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/6gYL0_B3YTk"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+###  Optimal Perimeter Guarding
+<a class="anchor" id="opg"></a>
+<p><strong>We investigate the problem of optimally assigning a
+large number of robots (or other types of autonomous agents) to
+guard the perimeters of closed 2D regions, where the perimeter of
+each region to be guarded may contain multiple disjoint polygonal
+chains. Each robot is responsible for guarding a subset of a
+perimeter and any point on a perimeter must be guarded by
+some robot. In allocating the robots, the main objective is to
+minimize the maximum 1D distance to be covered by any robot
+along the boundary of the regions. For this optimization problem
+which we call optimal perimeter guarding (OPG), thorough
+structural analysis is performed, which is then exploited to develop
+fast exact algorithms that run in guaranteed low polynomial
+time. In addition to formal analysis and proofs, experimental
+evaluations and simulations are performed that further validate
+the correctness and effectiveness of our algorithmic results.<br><br>
+
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/KwuMhI1dA3U"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
 
 ## End-to-End Systems
 <a class="anchor" id="d5"></a>
