@@ -270,13 +270,6 @@ additional heuristics, our methods scale to up to tens to hundreds of objects. I
 algorithms we develop come with running time guarantees, making them suitable for real-time PnP applications demanding high throughput. Extensive evaluation of our algorithmic solution over dominant
 industrial PnP robots used in real-world applications, i.e., Delta robots and Selective Compliance Assembly Robot Arm (SCARA) robots, shows that a typical efficiency gain of around 10-40% over greedy
 approaches can be realized.<br><br>
-  <center>
-  <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/-yDTXM9zASE"></iframe>
-  </div>
-</center>
-<br>
-<br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
   <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/bIomJzjKXyc"></iframe>
