@@ -124,14 +124,128 @@ hardware system than in simulation. <br><br>
 <br>
 </p>
 
-<hr>
 
 ## Multi-Object Rearrangement
 <a class="anchor" id="d2"></a>
 <br/>
 <a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#tori">Tabletop Rearrangement in Bounded Workspace</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#pnswap">Rearrangement on Lattices with Pick-n-Swaps</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#rbm">Running Buffer Minimization for Tabletop Rearrangement</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#toro">Tabletop Object Rearrangement with Overhand Grasps</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
+
+### Tabletop Rearrangement in Bounded Workspace
+<a class="anchor" id="tori"></a>
+<p>
+We examine the problem of
+rearranging many objects on a tabletop in a cluttered
+setting using overhand grasps. Efficient solutions for the
+problem, which capture a common task that we solve on a
+daily basis, are essential in enabling truly intelligent robotic
+manipulation. In a given instance, objects may need to be
+placed at temporary positions (“buffers”) to complete the
+rearrangement, but allocating these buffer locations can be
+highly challenging in a cluttered environment. To tackle the
+challenge, a two-step baseline planner is first developed, which
+generates a primitive plan based on inherent combinatorial
+constraints induced by start and goal poses of the objects and
+then selects buffer locations assisted by the primitive plan. We
+then employ the “lazy” planner in a tree search framework
+which is further sped up by adapting a novel preprocessing
+routine. Simulation experiments show our methods can quickly
+generate high-quality solutions and are more robust in solving
+large-scale instances than existing state-of-the-art approaches.<br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/hegO3JenKjo"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Rearrangement on Lattices with Pick-n-Swaps
+<a class="anchor" id="pnswap"></a>
+<p>
+We study a class of rearrangement problems under a novel pick-n-swap prehensile manipulation model, in which a robotic manipulator, capable of carrying
+an item and making item swaps, is tasked to sort items stored in lattices of variable dimensions in a time-optimal manner. We systematically analyze the intrinsic
+optimality structure, which is fairly rich and intriguing, under different levels of
+item distinguishability (fully labeled, where each item has a unique label, or partially labeled, where multiple items may be of the same type) and different lattice
+dimensions. Focusing on the most practical setting of one and two dimensions, we
+develop low polynomial time cycle-following-based algorithms that optimally perform rearrangements on 1D lattices under both fully- and partially-labeled settings.
+On the other hand, we show that rearrangement on 2D and higher-dimensional
+lattices become computationally intractable to optimally solve. Despite their NP-hardness, we prove that efficient cycle-following-based algorithms remain optimal
+in the asymptotic sense for 2D fully- and partially-labeled settings, in expectation,
+using the interesting fact that random permutations induce only a small number of
+cycles. We further improve these algorithms to provide
+1.x-optimality when the
+number of items is small. Simulation studies corroborate the effectiveness of our
+algorithms.<br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/LcI-Es5w5HI"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Running Buffer Minimization for Tabletop Rearrangement
+<a class="anchor" id="rbm"></a>
+<p>
+For tabletop rearrangement problems with overhand grasps, storage space outside the tabletop workspace, or
+buffers, can temporarily hold objects which greatly facilitates
+the resolution of a given rearrangement task. This brings forth
+the natural question of how many running buffers are required
+so that certain classes of tabletop rearrangement problems are
+feasible. In this work, we examine the problem for both the
+labeled (where each object has a specific goal pose) and the
+unlabeled (where goal poses of objects are interchangeable)
+settings. On the structural side, we observe that finding the
+minimum number of running buffers (MRB) can be carried
+out on a dependency graph abstracted from a problem instance,
+and show that computing MRB on dependency graphs is NP-hard. We then prove that under both labeled and unlabeled
+settings, even for uniform cylindrical objects, the number of
+required running buffers may grow unbounded as the number
+of objects to be rearranged increases; we further show that the
+bound for the unlabeled case is tight. On the algorithmic side,
+we develop highly effective algorithms for finding MRB for
+both labeled and unlabeled tabletop rearrangement problems,
+scalable to over a hundred objects under very high object
+density. Employing these algorithms, empirical evaluations
+show that random labeled and unlabeled instances, which more
+closely mimics real-world setups, have much smaller MRBs.<br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/hbD-cumF_H4"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Tabletop Object Rearrangement with Overhand Grasps
+<a class="anchor" id="toro"></a>
+<p>
+<strong>
+Optimal Tabletop Object Rearrangement with Overhand Grasps
+</strong> - Video highlight of our RSS 2017 work on optimal tabletop object 
+rearrangement and subsequent extended version. Our hardware experiments 
+confirm our hypothesis that (1) grasping/releasing is generally much more
+time consuming and (2) our proposed algorithm provide significant benefit 
+when compared with a greedy algorithm. <br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/Ub7QSDQz0Qk"></iframe>
+  </div>
+</center>
+<br>
+</p>
 
 ## Multi-Robot Systems
 <a class="anchor" id="d3"></a>
