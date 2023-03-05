@@ -305,10 +305,7 @@ when compared with a greedy algorithm. <br><br>
 ## Multi-Robot Path and Motion Planning
 <a class="anchor" id="d3"></a>
 <br/>
-<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#sub15"> 1.x Time-Optimal Multi-Robot Path Planning in 2D and 3D</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#sub15"> 1.x Time-Optimal Multi-Robot Path Planning in 2D and 3D (RSS 22, IROS 22)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#ddm">Path-Diversification and Database-Driven Multi-Robot Path Planning (RA-L 20)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#micromvp">Open-Source micro-Multi-Vehicle Platform (ICRA 2017)</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#mppcisrr">Fast Near-Optimal Multi-Robot Path Planning in Continuous Domain (ISRR 15)</a>&nbsp;&#9679;&nbsp;
@@ -362,13 +359,13 @@ In this work, among other breakthroughs, we propose the first low-polynomial-tim
 Simple Python-based implementations of our RTA-based algorithms are shown to be highly effective in extensive numerical evaluations, demonstrating unprecedented scalability as compared with methods including ECBS and DDM. For example, in 3D settings, RTA-based algorithms readily scale to grids with over $370,000$ vertices and over $120,000$ robots and consistently achieves conservative makespan optimality approaching $1.5$, as predicted by our theoretical analysis. <br><br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/v8WMkX0qxXg"></iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/9h8-MbQGj1I"></iframe>
   </div>
 </center>
 <br>
 <center>
   <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/9h8-MbQGj1I"></iframe>
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/v8WMkX0qxXg"></iframe>
   </div>
 </center>
 <br>
