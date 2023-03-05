@@ -4,7 +4,8 @@
 
 This page hosts selected videos highlighting excutions of robot tasks, as planned by our algorithms. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
-<a name="topa" style="padding-top: -200px;"></a>
+
+<div id="topa" class="display: none; padding-top: -200px;"></div>
 ## Application Domains 
 <br/>
 <a id="links" href="#manipulation-in-clutter">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
