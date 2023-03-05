@@ -338,42 +338,6 @@ when compared with a greedy algorithm. <br><br>
 <a id="links" href="#top">Back to Top</a>
 <br>
 
-### Running Buffer Minimization for Tabletop Rearrangement
-<a class="anchor" id="rbm"></a>
-<p>
-For tabletop rearrangement problems with overhand grasps, storage space outside the tabletop workspace, or
-buffers, can temporarily hold objects which greatly facilitates
-the resolution of a given rearrangement task. This brings forth
-the natural question of how many running buffers are required
-so that certain classes of tabletop rearrangement problems are
-feasible. In this work, we examine the problem for both the
-labeled (where each object has a specific goal pose) and the
-unlabeled (where goal poses of objects are interchangeable)
-settings. On the structural side, we observe that finding the
-minimum number of running buffers (MRB) can be carried
-out on a dependency graph abstracted from a problem instance,
-and show that computing MRB on dependency graphs is NP-hard. We then prove that under both labeled and unlabeled
-settings, even for uniform cylindrical objects, the number of
-required running buffers may grow unbounded as the number
-of objects to be rearranged increases; we further show that the
-bound for the unlabeled case is tight. On the algorithmic side,
-we develop highly effective algorithms for finding MRB for
-both labeled and unlabeled tabletop rearrangement problems,
-scalable to over a hundred objects under very high object
-density. Employing these algorithms, empirical evaluations
-show that random labeled and unlabeled instances, which more
-closely mimics real-world setups, have much smaller MRBs.<br><br>
-<center>
-  <div style="position:relative;padding-bottom:56.25%;">
-  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/hbD-cumF_H4"></iframe>
-  </div>
-</center>
-<br>
-</p>
-
-<hr>
-
-
 ###  1.x Time-Optimal Multi-Robot Path Planning in 2D and 3D
 <a class="anchor" id="sub15"></a>
 <p>
@@ -635,7 +599,7 @@ algorithms are demonstrated through extensive numerical experiments.<br><br>
 <hr>
 ###  Optimal Perimeter Guarding
 <a class="anchor" id="opg"></a>
-<p><strong>We investigate the problem of optimally assigning a
+<p>We investigate the problem of optimally assigning a
 large number of robots (or other types of autonomous agents) to
 guard the perimeters of closed 2D regions, where the perimeter of
 each region to be guarded may contain multiple disjoint polygonal
