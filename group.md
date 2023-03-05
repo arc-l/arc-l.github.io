@@ -40,7 +40,7 @@ Tanay Sandeep Punjabi (MS Student, 2022-)
 
 ### Undergraduates 
 
-Justin Yu (Undergraduate Researcher, 2023-)
+Justin Yu (Undergraduate Researcher, 2023-)  
 Vibhu Iyer (Undergraduate Researcher, 2023-) 
 
 ## Alumni 
@@ -51,7 +51,7 @@ Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017
 
 ### Graduate Students
 
-Shuai D. Hang (Ph.D. in Computer Science, 2021, now at Amazon Robotics)
+Shuai D. Hang (Ph.D. in Computer Science, 2021, now at Amazon Robotics)  
 Wei Tang (MS in Computer Science, 2020)
 
 ### Undergraduates 
