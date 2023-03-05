@@ -627,7 +627,43 @@ the correctness and effectiveness of our algorithmic results.<br><br>
 ## End-to-End Systems
 <a class="anchor" id="d5"></a>
 <br/>
-<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#recycle">Automated ML-Enabled Scrap Al-Cu Recycling</a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#packing">Tight Robot Packing in the Real World</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#top">Back to Top</a>
 <br>
+
+### Automated ML-Enabled Scrap Al-Cu Recycling 
+<a class="anchor" id="recycle"></a>
+<p>
+<strong>
+Computer Vision and Robotic System for Recycling Automation
+</strong> - We are working with a large recycling company to help it modernizing its 
+product lines to increase levels of automation as an early prototype, we build a demo
+system for the separation of scrap metals based on color that is robust to lighting 
+condition changes. The video shows a real-time demo of a run that separates pure copper 
+pieces from mixed aluminum-copper pieces. We expect to report more exciting results 
+as the project progresses. <br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/araxYgLCrpM"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
+
+### Tight Robot Packing in the Real World 
+<a class="anchor" id="packing"></a>
+<p>
+Many order fulfillment applications in logistics, such as packing, involve picking objects from unstructured piles before tightly arranging them in bins or shipping containers. Desirable robotic solutions in this space need to be lowcost, robust, easily deployable and simple to control. The current work proposes a complete pipeline for solving packing tasks for cuboid objects, given access only to RGB-D data and a single robot arm with a vacuum-based end-effector, which is also used as a pushing or dragging finger. The pipeline integrates perception for detecting the objects and planning so as to properly pick and place objects. The key challenges correspond to sensing noise and failures in execution, which appear at multiple steps of the process. To achieve robustness, three uncertainty-reducing manipulation primitives are proposed, which take advantage of the end-effector’s and the workspace’s compliance, to successfully and tightly pack multiple cuboid objects. The overall solution is demonstrated to be robust to execution and perception errors. The impact of each manipulation primitive is evaluated in extensive realworld experiments by considering different versions of the pipeline. Furthermore, an open-source simulation framework is provided for modeling such packing operations. Ablation studies are performed within this simulation environment to evaluate features of the proposed primitives.<br><br>
+<center>
+  <div style="position:relative;padding-bottom:56.25%;">
+  <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" frameborder="0" width="100%" height="100%" allowfullscreen src="https://www.youtube.com/embed/PsSdZ2Yzx5E"></iframe>
+  </div>
+</center>
+<br>
+</p>
+
+<hr>
 
