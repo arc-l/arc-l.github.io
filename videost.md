@@ -4,7 +4,7 @@
 
 This page hosts selected videos highlighting excutions of robot tasks, as planned by our algorithms. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
-## <a name="top"></a>Application Domains 
+## <a name="top" style="padding-top: -200px;"></a>Application Domains 
 <br/>
 <a id="links" href="#manipulation-in-clutter">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#multi-object-rearrangement">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
@@ -126,6 +126,11 @@ hardware system than in simulation. <br><br>
 
 <hr>
 
+## Multi-Object Rearrangement
+<br/>
+<a id="links" href="#"></a>&nbsp;&#9679;&nbsp;
+<a id="links" href="#top">Back to Top</a>
+<br>
 
 
 
