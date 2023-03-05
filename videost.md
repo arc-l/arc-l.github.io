@@ -4,7 +4,7 @@
 
 This page hosts selected videos highlighting excutions of robot tasks, as planned by our algorithms. For a more comprehensive set of videos, please check our <a id="links" href="https://www.youtube.com/channel/UCqotGxFUtMOgY9aIkDxW0fw">YouTube</a> channel. 
 
-## Application Domains 
+## <a name="top"></a>Application Domains 
 <br/>
 <a id="links" href="#manipulation-in-clutter">Manipulation in Clutter</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#multi-object-rearrangement">Multi-Object Rearrangement</a>&nbsp;&#9679;&nbsp;
@@ -18,7 +18,7 @@ This page hosts selected videos highlighting excutions of robot tasks, as planne
 <a id="links" href="#self-supervised-learning-guided-mcts">Self-Supervised Learning-Guided MCTS</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#visual-foresight-trees-for-object-retrieval">Visual Foresight Trees for Object Retrieval</a>&nbsp;&#9679;&nbsp;
 <a id="links" href="#declutter-with-deep-interaction-prediction-network-dipn">Declutter with Deep Interaction Prediction Network (DIPN)</a>&nbsp;&#9679;&nbsp;
-<a id="links" href="#application-domains">Back to Top</a>
+<a id="links" href="#top">Back to Top</a>
 <br>
 
 ### Parallel MCTS for Object Retrieval in Clutter
@@ -129,10 +129,6 @@ hardware system than in simulation. <br><br>
 
 
 
-
-
-
-## MISC
 
 ###  Rendezvous without Coordinates
 
