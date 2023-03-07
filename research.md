@@ -8,7 +8,7 @@
 
 ## Selected Recent Research
 
-This page was last updated in 2021. Please check our publications page for recent research. 
+This page was last updated in 2021; we are falling behind in keeping it updated as we are making rapid progress in a few areas. Please check our publications page for recent research. 
 
 ### Running Buffer Minimization
 
