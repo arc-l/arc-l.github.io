@@ -100,7 +100,7 @@ author = {Jingjin Yu},<br>
 title ={Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms},<br>
 journal = {The International Journal of Robotics Research},<br>
 year = 2023,<br>
-note={to appear}
+note={online and in press}
 }" 
 %}
 
