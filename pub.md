@@ -31,6 +31,22 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications" 
+p_id="GaoFenHuaYu23IJRR" 
+p_author="K. Gao, S. W. Feng, B. Huang and J. Yu" 
+p_venue="The International Journal of Robotics Research, to appear" 
+p_pdf=""
+p_bib="@article{GaoFenHuaYu23IJRR,<br>
+author = {Kai Gao and Si W. Feng and Baichuan Huang and Jingjin Yu},<br>
+title ={Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications},<br>
+journal = {The International Journal of Robotics Research},<br>
+year = 2023,<br>
+note={to appear}" 
+%}
+
+
+{% 
+include cite.html 
 p_title="On the Utility of Buffers in Pick-n-Swap Based Lattice Rearrangement" 
 p_id="GaoYu23ICRA" 
 p_author="K. Gao and J. Yu" 
