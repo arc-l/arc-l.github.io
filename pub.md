@@ -40,7 +40,8 @@ author = {Kai Gao and Si W. Feng and Baichuan Huang and Jingjin Yu},<br>
 title ={Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications},<br>
 journal = {The International Journal of Robotics Research},<br>
 year = 2023,<br>
-note={to appear}" 
+note={to appear}
+}" 
 %}
 
 
@@ -99,7 +100,8 @@ author = {Jingjin Yu},<br>
 title ={Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms},<br>
 journal = {The International Journal of Robotics Research},<br>
 year = 2023,<br>
-note={to appear}" 
+note={to appear}
+}" 
 %}
 
 
@@ -324,7 +326,8 @@ author = {Mario Szegedy and Jingjin Yu},<br>
 title ={Rubik Tables and Object Rearrangement},<br>
 journal = {The International Journal of Robotics Research},<br>
 year = 2022,<br>
-note={to appear}" 
+note={to appear}
+}" 
 %}
 
 {% 
