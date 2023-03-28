@@ -35,7 +35,6 @@ p_title="Minimizing Running Buffers for Tabletop Object Rearrangement: Complexit
 p_id="GaoFenHuaYu23IJRR" 
 p_author="K. Gao, S. W. Feng, B. Huang and J. Yu" 
 p_venue="The International Journal of Robotics Research, to appear" 
-p_pdf=""
 p_bib="@article{GaoFenHuaYu23IJRR,<br>
 author = {Kai Gao and Si W. Feng and Baichuan Huang and Jingjin Yu},<br>
 title ={Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications},<br>
