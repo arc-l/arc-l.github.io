@@ -73,6 +73,7 @@ Chris Gong (Undergraduate Researcher, Summer 2016, <a href="https://aresty.rutge
 
 ### High school volunteers
 
+Andy Cheng (Summer 2021, Yale)  
 Ivan Xiong (Summer 2019, NYU)  
 Lawrence Huang (Summer 2017, Brown)  
 Sanjana Pruthi (Summer 2017, CMU)  
