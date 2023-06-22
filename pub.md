@@ -29,18 +29,62 @@ p_bib=""
 
 ## 2023
 
+{% 
+include cite.html 
+p_title="Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop" 
+p_id="XuGaoFenYu23IROS" 
+p_author="A. Xu, K. Gao, S. W. Feng and J. Yu" 
+p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
+p_pdf="" 
+p_bib="@InProceedings{XuGaoFenYu23IROS,<br>
+  author={Andy Xu and Kai Gao and Si W. Feng and Jingjin Yu},<br>
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop},<br> 
+  year={2023},<br>
+  }" 
+%}
 
 {% 
 include cite.html 
-p_title="Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments" 
-p_id="GuoYu23IROS" 
-p_author="T. Guo and J. Yu" 
+p_title="DynGMP: Graph Neural Network-based Motion Planning in Unpredictable Dynamic Environments" 
+p_id="ZhaZanHuaSuiYuYua23IROS" 
+p_author="W. Zhang, X. Zang, L Huang, Y Sui, J. Yu and B. Yuan" 
 p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
 p_pdf="" 
-p_bib="@InProceedings{GuoYu23IROS,<br>
-  author={Teng Guo and Jingjin Yu},<br>
+p_bib="@InProceedings{ZhaZanHuaSuiYuYua23IROS,<br>
+  author={Wenjin Zhang and Xiao Zang and Lingyi Huang and Yang Sui and Jingjin Yu and Bo Yuan},<br>
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
-  title={Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments},<br> 
+  title={DynGMP: Graph Neural Network-based Motion Planning in Unpredictable Dynamic Environments},<br> 
+  year={2023},<br>
+  }" 
+%}
+
+{% 
+include cite.html 
+p_title="Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops" 
+p_id="GaoYuSanYu23IROS" 
+p_author="K. Gao, J. Yu, T. Punjabi and J. Yu" 
+p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
+p_pdf="" 
+p_bib="@InProceedings{GaoYuSanYu23IROS,<br>
+  author={Kai Gao and Justin Yu and Tanay S. Punjabi and Jingjin Yu},<br>
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Effectively Rearranging Heterogeneous Objects on Cluttered Tabletops},<br> 
+  year={2023},<br>
+  }" 
+%}
+
+{% 
+include cite.html 
+p_title="EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation" 
+p_id="HuaYuJai23IROS" 
+p_author="B. Huang, J. Yu and S. Jain" 
+p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
+p_pdf="" 
+p_bib="@InProceedings{HuaYuJai23IROS,<br>
+  author={Baichuan Huang and Jingjin Yu and Siddarth Jain},<br>
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={EARL: Eye-on-Hand Reinforcement Learner for Dynamic Grasping with Active Pose Estimation},<br> 
   year={2023},<br>
   }" 
 %}
