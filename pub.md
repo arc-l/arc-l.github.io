@@ -48,11 +48,11 @@ p_bib="@InProceedings{XuGaoFenYu23IROS,<br>
 include cite.html 
 p_title="DynGMP: Graph Neural Network-based Motion Planning in Unpredictable Dynamic Environments" 
 p_id="ZhaZanHuaSuiYuYua23IROS" 
-p_author="W. Zhang, X. Zang, L Huang, Y Sui, J. Yu and B. Yuan" 
+p_author="W. Zhang, X. Zang, L Huang, Y Sui, J. Yu, Y. Chen and B. Yuan" 
 p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
 p_pdf="" 
 p_bib="@InProceedings{ZhaZanHuaSuiYuYua23IROS,<br>
-  author={Wenjin Zhang and Xiao Zang and Lingyi Huang and Yang Sui and Jingjin Yu and Bo Yuan},<br>
+  author={Wenjin Zhang and Xiao Zang and Lingyi Huang and Yang Sui and Jingjin Yu and Yingying Chen and Bo Yuan},<br>
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
   title={DynGMP: Graph Neural Network-based Motion Planning in Unpredictable Dynamic Environments},<br> 
   year={2023},<br>
