@@ -42,8 +42,22 @@ p_bib="@InProceedings{GuoYu23IROS,<br>
   booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
   title={Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments},<br> 
   year={2023},<br>
-  volume={},<br>
-  number={}}" 
+  }" 
+%}
+
+{% 
+include cite.html 
+p_title="Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments" 
+p_id="GuoYu23IROS" 
+p_author="T. Guo and J. Yu" 
+p_venue="2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2023)" 
+p_pdf="" 
+p_bib="@InProceedings{GuoYu23IROS,<br>
+  author={Teng Guo and Jingjin Yu},<br>
+  booktitle={2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Efficient Heuristics for Multi-Robot Path Planning in Crowded Environments},<br> 
+  year={2023},<br>
+  }" 
 %}
 
 {% 
