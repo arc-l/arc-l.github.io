@@ -95,6 +95,8 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
+<b>08/2023</b> - Dr. Yu will serve as an editor for ICRA 2024. <br>
+<b>07/2023</b> - Dr. Yu gave an invited talk, "Multi-Robot Path Planning on Grids: Computing O(1)-Optimal Solutions in Polynomial Time", at the University of Science and Technology of China. <br>
 <b>06/2023</b> - Five papers accepted by IROS 2023. <br>
 <b>03/2023</b> - A puzzle game app based on our multi-robot path planning research is now available for <a href="https://apps.apple.com/app/pebbler/id6446487371" target="_">iOS</a> and <a href="https://play.google.com/store/apps/details?id=edu.rutgers.cs.arc.pebbles" target="_">Android</a>.   <br>
 <b>02/2023</b> - Dr. Yu gave a keynote talk, "Stack Rearrangement, Rubik Tables, and Multi-Robot Routing", in the 2023 AAAI Workshop on Multi-Agent Path Finding (online). <br>
