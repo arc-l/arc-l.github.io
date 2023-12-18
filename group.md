@@ -36,9 +36,7 @@
     <td style="border: none!important;">
       {% include image.html url="/assets/images/we.png" description="Zihe Ye, Ph.D. Student" %}  
     </td>
-    <td style="border: none!important;">
-      
-    </td>
+    <td style="border: none!important;">&nbsp;</td>
   </tr>
 </table>
 
