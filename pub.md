@@ -26,6 +26,24 @@ p_bib=""
 %}
 -->
 
+## 2024
+
+{% 
+include cite.html 
+p_title="On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles" 
+p_id="GozYu24AAAI" 
+p_author="M Gozon and J. Yu" 
+p_venue="The Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI-24)" 
+p_pdf="https://arxiv.org/pdf/2312.10887.pdf" 
+p_bib="@InProceedings{GozYu24AAAI,<br>
+author = {Marcus Gozon and Jingjin Yu},<br>
+title = {On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles},<br>
+year = {2024},<br>
+publisher = {AAAI Press},<br>
+booktitle = {Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence},<br>
+note = {To appear},<br>
+}" 
+%}
 
 ## 2023
 
