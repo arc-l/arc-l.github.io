@@ -95,7 +95,7 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
-<b>12/2023</b> - One paper accepted by AAAI 2024. The technical work is done mostly by a DIMACS REU, Marcus Gozon, when he was a rising junior. <br>
+<b>12/2023</b> - <a href="https://arxiv.org/pdf/2312.10887.pdf" target="_">One paper</a> accepted by AAAI 2024. The technical work is done mostly by a DIMACS REU, Marcus Gozon, when he was a rising junior. <br>
 <b>08/2023</b> - Dr. Yu will serve as an editor for ICRA 2024. <br>
 <b>07/2023</b> - Dr. Yu gave an invited talk, "Multi-Robot Path Planning on Grids: Computing O(1)-Optimal Solutions in Polynomial Time", at the University of Science and Technology of China. <br>
 <b>06/2023</b> - Five papers accepted by IROS 2023. <br>
