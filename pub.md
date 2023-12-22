@@ -49,6 +49,22 @@ note = {To appear},<br>
 
 {% 
 include cite.html 
+p_title="Effective and Robust Non-Prehensile Manipulation aia Persistent Homology Guided Monte-Carlo Tree Search" 
+p_id="VieGaoNakBekYuISER23" 
+p_author="E. Vieira, K. Gao, D. Nakhimovich, K. E. Bekris and J. Yu" 
+p_venue="The Eighteenth International Symposium on Experimental Robotics (ISER 2023)" 
+p_pdf="https://arxiv.org/pdf/2210.01283.pdf" 
+p_bib="@InProceedings{VieGaoNakBekYuISER23,<br>
+  author={Ewerton Vieira and Kai Gao and Daniel Nakhimovich and Kostas E. Bekris and Jingjin Yu},<br>
+  booktitle={The Eighteenth International Symposium on Experimental Robotics (ISER)},<br> 
+  title={Effective and Robust Non-Prehensile Manipulation aia Persistent Homology Guided Monte-Carlo Tree Search},<br> 
+  year={2023},<br>
+  }" 
+%}
+
+
+{% 
+include cite.html 
 p_title="Optimal and Stable Multi-Layer Object Rearrangement on a Tabletop" 
 p_id="XuGaoFenYu23IROS" 
 p_author="A. Xu, K. Gao, S. W. Feng and J. Yu" 
