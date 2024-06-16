@@ -30,6 +30,51 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Well-Connected Set and Its Application to Multi-Robot Path Planning" 
+p_id="GuoYu24ICRA1" 
+p_author="T. Guo and J. Yu" 
+p_venue="2024 IEEE International Conference on Robotics and Automation (ICRA 2024)" 
+p_pdf="https://arxiv.org/pdf/2402.11766" 
+p_bib="@inproceedings{GuoYu24ICRA1,<br>
+  author = {Teng Guo and Jingjin Yu},<br>
+  title = {Well-Connected Set and Its Application to Multi-Robot Path Planning},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2024}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Decentralized Lifelong Path Planning for Multiple Ackerman Car-Like Robots" 
+p_id="GuoYu24ICRA2" 
+p_author="T. Guo and J. Yu" 
+p_venue="2024 IEEE International Conference on Robotics and Automation (ICRA 2024)" 
+p_pdf="https://arxiv.org/pdf/2402.11767" 
+p_bib="@inproceedings{GuoYu24ICRA2,<br>
+  author = {Teng Guo and Jingjin Yu},<br>
+  title = {Decentralized Lifelong Path Planning for Multiple Ackerman Car-Like Robots},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2024}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives" 
+p_id="HuaZhaYu24ICRA" 
+p_author="B. Huang, X. Zhang and J. Yu" 
+p_venue="2024 IEEE International Conference on Robotics and Automation (ICRA 2024)" 
+p_pdf="https://arxiv.org/pdf/2310.00167" 
+p_bib="@inproceedings{HuaZhaYu24ICRA,<br>
+  author = {Baichuan Huang and Xujia Zhang and Jingjin Yu},<br>
+  title = {Toward Optimal Tabletop Rearrangement with Multiple Manipulation Primitives},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2024}
+}" 
+%}
+
+{% 
+include cite.html 
 p_title="On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Puzzles" 
 p_id="GozYu24AAAI" 
 p_author="M Gozon and J. Yu" 
