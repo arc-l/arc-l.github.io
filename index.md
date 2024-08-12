@@ -96,7 +96,7 @@ His Erd&#337;s number is at its limit of 2.
 ## Updates
 
 <b>07/2024</b> - One paper accepted by JAIR. <br>
-<b>06/2024</b> - One paper (in collaboration with Prof. Boularias's group at Rutgers) accepted by IROS 2024. <br>
+<b>06/2024</b> - One paper (in collaboration with Prof. Boularias's group) accepted by IROS 2024. <br>
 <b>05/2024</b> - One paper (in collaboration with Prof. Zhang's group at Nankai) accepted by RA-L. <br>
 <b>02/2024</b> - Three papers accepted by ICRA 2024. <br>
 <b>12/2023</b> - <a href="https://arxiv.org/pdf/2312.10887.pdf" target="_">One paper</a> accepted by AAAI 2024. The technical work was done mostly by a DIMACS REU, Marcus Gozon, when he was a rising junior. <br>
