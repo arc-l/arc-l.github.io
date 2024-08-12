@@ -30,6 +30,54 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time" 
+p_id="GuoYu2024JAIR" 
+p_author="T Guo and J. Yu" 
+p_venue="Journal of Artificial Intelligence Research, to appear" 
+p_pdf=""
+p_bib="@article{GuoYu2024JAIR,<br>
+author = {Teng Guo and Jingjin Yu},<br>
+title ={Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time},<br>
+journal = {Journal of Artificial Intelligence Research},<br>
+year = 2024,<br>
+note={in press}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement" 
+p_id="ChaGaoBoyBou24IROS" 
+p_author="H. Chang, K. Gao, K. Boyalakuntla, A. Lee, B. Huang, J. Yu and A. Boularias" 
+p_venue="2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)" 
+p_bib="@InProceedings{ChaGaoBoyBou24IROS,<br>
+  author={Haonan Chang and Kai Gao and Kowndinya Boyalakuntla and Alex Lee and Baichuan Huang and Jingjin Yu and Abdeslam Boularias},<br>
+  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={LGMCTS: Language-Guided Monte-Carlo Tree Search for Executable Semantic Object Rearrangement},<br> 
+  year={2024},<br>
+  }" 
+%}
+
+
+{% 
+include cite.html 
+p_title="Manipulability-Augmented Next-Best-Configuration Exploration Planner for High-DoF Manipulators" 
+p_id="LiuZhaZhaYuaYu2024RA-L" 
+p_author="X. Liu and X. Zhang and S. Zhang and M. Yuan and J. Yu" 
+p_venue="IEEE Robotics and Automation Letters, 9(5), pages: 4265-4272, 2024" 
+p_bib="@article{LiuZhaZhaYuaYu2024RA-L,<br>
+  author={Liu, Xin and Zhang, Xuebo and Zhang, Shiyong and Yuan, Mingxing and Yu, Jingjin },<br>
+  journal={IEEE Robotics and Automation Letters}, <br>
+  title={Manipulability-Augmented Next-Best-Configuration Exploration Planner for High-DoF Manipulators}, <br>
+  year={2024},<br>
+  volume={9},<br>
+  number={5},<br>
+  pages={4265-4272},<br>
+  doi={10.1109/LRA.2024.3375261}}"
+%}
+
+{% 
+include cite.html 
 p_title="Well-Connected Set and Its Application to Multi-Robot Path Planning" 
 p_id="GuoYu24ICRA1" 
 p_author="T. Guo and J. Yu" 
