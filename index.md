@@ -95,7 +95,7 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
-<b>08/2023</b> - Dr. Yu will serve as an editor for ICRA 2025. <br>
+<b>08/2024</b> - Dr. Yu will serve as an editor for ICRA 2025. <br>
 <b>07/2024</b> - One paper accepted by JAIR. <br>
 <b>06/2024</b> - One paper (in collaboration with Prof. Boularias's group) accepted by IROS 2024. <br>
 <b>05/2024</b> - One paper (in collaboration with Prof. Zhang's group at Nankai) accepted by RA-L. <br>
