@@ -30,6 +30,21 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity and Bounds" 
+p_id="GozYu24WAFR" 
+p_author="M Gozon and J. Yu" 
+p_venue="The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2024)" 
+p_bib="@InProceedings{GozYu24WAFR,<br>
+author = {Marcus Gozon and Jingjin Yu},<br>
+title = {Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity and Bounds},<br>
+year = {2024},<br>
+booktitle = {The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2024)},<br>
+note = {To appear},<br>
+}" 
+%}
+
+{% 
+include cite.html 
 p_title="Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time" 
 p_id="GuoYu2024JAIR" 
 p_author="T Guo and J. Yu" 
