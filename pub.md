@@ -37,9 +37,8 @@ p_venue="The 16th International Workshop on the Algorithmic Foundations of Robot
 p_bib="@InProceedings{GozYu24WAFR,<br>
 author = {Marcus Gozon and Jingjin Yu},<br>
 title = {Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity and Bounds},<br>
-year = {2024},<br>
 booktitle = {The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2024)},<br>
-note = {To appear},<br>
+year = {2024},<br>
 }" 
 %}
 
@@ -149,7 +148,6 @@ title = {On Computing Makespan-Optimal Solutions for Generalized Sliding-Tile Pu
 year = {2024},<br>
 publisher = {AAAI Press},<br>
 booktitle = {Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence},<br>
-note = {To appear},<br>
 }" 
 %}
 
