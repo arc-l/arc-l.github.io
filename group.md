@@ -52,12 +52,11 @@
 
 ### MS Students 
 
-Justin Yu (Undergraduate/MS Researcher, 2023-)  
+Sam Tso (MS Researcher, 2024-)   
 
 ### Undergraduates 
 
-Vibhu Iyer (Undergraduate Researcher, 2023-)   
-Andy Xu (Undergraduate Researcher, 2022-)    
+Eric He (Caltech, Undergraduate Researcher, 2024-)   
 
 ## Alumni 
 
@@ -71,10 +70,13 @@ Siwei Feng (Ph.D. in Computer Science, 2023, now at Autel Robotics)
 Shuai D. Hang (Ph.D. in Computer Science, 2021, now at Amazon Robotics)   
 Tanay Punjabi (MS in Computer Science, 2023)   
 Wei Tang (MS in Computer Science, 2020)
+Justin Yu (Undergraduate/MS Researcher, 2023-2024)  
 
 ### Undergraduates 
 
+Vibhu Iyer (Undergraduate Researcher, 2023-2024)   
 Marcus Gozon (University of Michigan, Summer 2023, DIMACS REU)   
+Andy Xu (Undergraduate Researcher, 2022-2023)    
 Xujia Zhang (Summer Intern from South China University of Technology, China, 2023)   
 Darren Lau (Undergraduate from Cornell, Summer 2021)  
 Qiyuan Huang (Undergraduate Researcher, 2020-2021, going to NYU for MS)  
