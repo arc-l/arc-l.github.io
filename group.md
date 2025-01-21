@@ -18,6 +18,16 @@
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
+      {% include image.html url="/assets/images/tzvika.png" description="Tzvika Geft, Postdoctoral Scholar" link="https://sites.google.com/view/tzvikageft/home" %}  
+    </td>
+    <td style="border: none!important;">&nbsp;</td>
+  </tr>
+</table>
+
+
+<table border="0"  style="border: none!important;">
+  <tr style="border: none!important;">
+    <td style="border: none!important;">
       {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Candidate" link="https://gaokai15.github.io" %}
     </td>
     <td style="border: none!important;">
