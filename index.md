@@ -95,6 +95,8 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
+<b>01/2025</b> - Dr. Yu gave an invited talk, "Rubik Tables and O(1)-Opt Multi-Robot Path Planning Solutions in Polynomial Time", to <a href="https://www.ieee.fisat.ac.in/">𝗜𝗘𝗘𝗘 𝗥𝗔𝗦 𝗦𝗕𝗖 𝗙𝗜𝗦𝗔𝗧</a>. <br>
+<b>01/2025</b> - Four papers accepted by ICRA 2025. <br>
 <b>08/2024</b> - One paper, as a continuation of the earlier <a href="https://arxiv.org/pdf/2312.10887.pdf" target="_">AAAI effort</a>, is accepted by WAFR 2024. <br>
 <b>08/2024</b> - Dr. Yu will serve as an editor for ICRA 2025. <br>
 <b>07/2024</b> - One paper accepted by JAIR. <br>
