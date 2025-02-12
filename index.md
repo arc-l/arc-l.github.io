@@ -29,7 +29,10 @@ videoSource[4]="https://user-images.githubusercontent.com/23622170/150448636-5dd
 videoSource[5]="https://user-images.githubusercontent.com/23622170/150448634-ab4490f9-2556-49d3-a6d7-c73d0406fa9c.mp4";  // MRPP
 videoSource[6]="https://user-images.githubusercontent.com/23622170/150448641-a0e9a94e-73c4-4c57-a8f8-38929a586aec.mp4";  // RECYCLE
 videoSource[7]="https://user-images.githubusercontent.com/23622170/150448638-43051da0-d8b4-4fd8-8ccb-0e404a8fc1da.mp4";  // PNS
-  
+videoSource[8]="https://github.com/user-attachments/assets/bfed0f90-e972-4869-bbea-89ca395eb57d";  // Dual arm
+videoSource[9]="https://github.com/user-attachments/assets/1681fca6-0035-4efd-9e8f-349b51b564a9";  // EARL
+videoSource[10]="https://github.com/user-attachments/assets/8f14912e-d4b6-4fed-b3c3-564639659d12";  // REMP
+
 var videoCount = videoSource.length;
   
 var currentVideo = 0;
