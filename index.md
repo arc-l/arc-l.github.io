@@ -184,7 +184,7 @@ based on motion models from our research on multi-robot motion planning and the 
   
 ## Legacy Group Website
 
-If you are looking for <a id="links" href="https://arc.cs.rutgers.edu/434F4445.html" target="_">old code</a> and/or the <a id="links" href="https://arc.cs.rutgers.edu/mvp/" target="_">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://arc.cs.rutgers.edu" target="_">arc.cs.rutgers.edu</a>, no longer updated after 07/2021. 
+If you are looking for <a id="links" href="https://people.cs.rutgers.edu/~jy512/434F4445.html" target="_">old code</a> and/or the <a id="links" href="https://people.cs.rutgers.edu/~jy512/mvp/" target="_">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://people.cs.rutgers.edu/~jy512/" target="_">people.cs.rutgers.edu/~jy512/</a>, no longer updated after 07/2021. 
 
 ## Prospective Students
 
