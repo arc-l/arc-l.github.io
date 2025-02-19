@@ -63,6 +63,7 @@ Eric He (Caltech, Undergraduate Researcher, 2024-)
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
+    <image url="/assets/images/jingjin.png"/>
     </td>
   </tr>
 </table>
