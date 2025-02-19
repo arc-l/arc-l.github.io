@@ -63,7 +63,7 @@ Eric He (Caltech, Undergraduate Researcher, 2024-)
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
-    <image url="/media/robots-s.png"/>
+    <img src="/media/robots-s.png" alt="Our robot group members!" width="580">
     </td>
   </tr>
 </table>
