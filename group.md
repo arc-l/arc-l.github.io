@@ -58,7 +58,7 @@ Sam Tso (MS Researcher, 2024-)
 
 Eric He (Caltech, Undergraduate Researcher, 2024-)   
 
-## Equipment and Robots
+### Equipment and Robots
 
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
