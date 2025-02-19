@@ -32,6 +32,8 @@ videoSource[7]="https://user-images.githubusercontent.com/23622170/150448638-430
 videoSource[8]="https://github.com/user-attachments/assets/bfed0f90-e972-4869-bbea-89ca395eb57d";  // Dual arm
 videoSource[9]="https://github.com/user-attachments/assets/1681fca6-0035-4efd-9e8f-349b51b564a9";  // EARL
 videoSource[10]="https://github.com/user-attachments/assets/8f14912e-d4b6-4fed-b3c3-564639659d12";  // REMP
+videoSource[11]="https://github.com/user-attachments/assets/c9178ffa-21af-433e-b91a-decb1e5289c3";  // KUKA
+videoSource[12]="https://github.com/user-attachments/assets/cfd8e4fa-df87-4224-927f-31e999a259e4";  // ROBOT DOG
 
 var videoCount = videoSource.length;
   
