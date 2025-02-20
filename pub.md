@@ -26,6 +26,64 @@ p_bib=""
 %}
 -->
 
+## 2025
+
+{% 
+include cite.html 
+p_title="Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning" 
+p_id="GuoYu25ICRA" 
+p_author="T. Guo and J. Yu" 
+p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
+p_bib="@inproceedings{GuoYu25ICRA,<br>
+  author = {Teng Guo and Jingjin Yu},<br>
+  title = {Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2025}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="Asymptotically-Optimal Multi-Query Path Planning for a Polygonal Robot" 
+p_id="ZhaYeYu25ICRA" 
+p_author="D. Zhang, Z. Ye and J. Yu" 
+p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
+p_bib="@inproceedings{ZhaYeYu25ICRA,<br>
+  author = {Duo Zhang and Zihe Ye and Jingjin Yu},<br>
+  title = {Asymptotically-Optimal Multi-Query Path Planning for a Polygonal Robot},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2025}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*" 
+p_id="GaoZhaDinZhaYu25ICRA" 
+p_author="K. Gao, Zhaxizhuoma, Y, Ding, S. Zhang and J. Yu" 
+p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
+p_bib="@inproceedings{GaoZhaDinZhaYu25ICRA,<br>
+  author = {Kai Gao and Zhaxizhuoma  and Yan Ding  and Shiqi Zhang  and Jingjin Yu},<br>
+  title = {ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2025}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter" 
+p_id="RamSivKesBekYuBou25ICRA" 
+p_author="D. M. Ramesh, A. Sivaramakrishnan, S. Keskar, K. E. Bekris, J. Yu and A. Boularias" 
+p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
+p_bib="@inproceedings{GuoYu24ICRA1,<br>
+  author = {Dhruv Metha Ramesh and Aravind Sivaramakrishnan and Shreesh Keskar and Kostas E. Bekris and Jingjin Yu and Abdeslam Boularias},<br>
+  title = {PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2025}
+}" 
+%}
+
 ## 2024
 
 {% 
@@ -34,6 +92,7 @@ p_title="Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity 
 p_id="GozYu24WAFR" 
 p_author="M Gozon and J. Yu" 
 p_venue="The 16th International Workshop on the Algorithmic Foundations of Robotics (WAFR 2024)" 
+p_pdf="https://arxiv.org/pdf/2410.14947"
 p_bib="@InProceedings{GozYu24WAFR,<br>
 author = {Marcus Gozon and Jingjin Yu},<br>
 title = {Optimally Solving Colored Generalized Sliding-Tile Puzzles: Complexity and Bounds},<br>
