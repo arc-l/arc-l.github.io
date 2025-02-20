@@ -77,7 +77,7 @@ Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017
 ### Graduate Students
 
 Siwei Feng (Ph.D. in Computer Science, 2023, now at Autel Robotics)   
-Shuai D. Hang (Ph.D. in Computer Science, 2021, now at Amazon Robotics)   
+Shuai D. Han (Ph.D. in Computer Science, 2021, now at Amazon Robotics)   
 Tanay Punjabi (MS in Computer Science, 2023)   
 Wei Tang (MS in Computer Science, 2020)
 Justin Yu (Undergraduate/MS Researcher, 2023-2024)  
