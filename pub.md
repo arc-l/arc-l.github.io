@@ -50,11 +50,12 @@ p_author="T Guo and J. Yu"
 p_venue="Journal of Artificial Intelligence Research, to appear" 
 p_pdf="https://arxiv.org/pdf/2408.05385"
 p_bib="@article{GuoYu2024JAIR,<br>
-author = {Teng Guo and Jingjin Yu},<br>
-title ={Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time},<br>
-journal = {Journal of Artificial Intelligence Research},<br>
-year = 2024,<br>
-note={in press}
+  title={Expected 1. x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time},<br>
+  author={Guo, Teng and Yu, Jingjin},<br>
+  journal={Journal of Artificial Intelligence Research},<br>
+  volume={81},<br>
+  pages={443--479},<br>
+  year={2024}<br>
 }" 
 %}
 
@@ -251,11 +252,14 @@ p_author="K. Gao, S. W. Feng, B. Huang and J. Yu"
 p_venue="The International Journal of Robotics Research, to appear" 
 p_pdf="https://arxiv.org/pdf/2304.01764.pdf"
 p_bib="@article{GaoFenHuaYu23IJRR,<br>
-author = {Kai Gao and Si W. Feng and Baichuan Huang and Jingjin Yu},<br>
-title ={Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications},<br>
-journal = {The International Journal of Robotics Research},<br>
-year = 2023,<br>
-note={to appear}
+  title={Minimizing running buffers for tabletop object rearrangement: Complexity, fast algorithms, and applications},<br>
+  author={Gao, Kai and Feng, Si Wei and Huang, Baichuan and Yu, Jingjin},<br>
+  journal={The International Journal of Robotics Research},<br>
+  volume={42},<br>
+  number={10},<br>
+  pages={755--776},<br>
+  year={2023},<br>
+  publisher={SAGE Publications Sage UK: London, England} <br>
 }" 
 %}
 
@@ -312,15 +316,37 @@ p_id="Yu23IJRR"
 p_author="J. Yu" 
 p_venue="The International Journal of Robotics Research, to appear" 
 p_pdf="https://arxiv.org/pdf/2105.05366.pdf"
-p_bib="@article{Yu23IJRR,<br>
-author = {Jingjin Yu},<br>
-title ={Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms},<br>
-journal = {The International Journal of Robotics Research},<br>
-year = 2023,<br>
-note={online and in press}
+p_bib="@article{Yu23IJRR, <br>
+  title={Rearrangement on lattices with pick-n-swaps: Optimality structures and efficient algorithms}, <br>
+  author={Yu, Jingjin}, <br>
+  journal={The International Journal of Robotics Research}, <br>
+  volume={42}, <br>
+  number={10}, <br>
+  pages={957--973}, <br>
+  year={2023}, <br>
+  publisher={SAGE Publications Sage UK: London, England}
 }" 
 %}
 
+
+{% 
+include cite.html 
+p_title="Rubik Tables and Object Rearrangement" 
+p_id="SzeYu18IJRR" 
+p_author="M. Szegedy and J. Yu" 
+p_venue="The International Journal of Robotics Research, to appear" 
+p_pdf="https://arxiv.org/pdf/2002.04979.pdf" 
+p_bib="@article{SzeYu18IJRR,<br>
+  title={Rubik tables and object rearrangement},<br>
+  author={Szegedy, Mario and Yu, Jingjin},<br>
+  journal={The International Journal of Robotics Research},<br>
+  volume={42},<br>
+  number={6},<br>
+  pages={459--472},<br>
+  year={2023},<br>
+  publisher={SAGE Publications Sage UK: London, England}<br>
+}" 
+%}
 
 ## 2022
 
@@ -397,13 +423,14 @@ p_author="Z. Pan, A. Zeng, Y. Li, J. Yu and K. Hauser"
 p_venue="IEEE Transactions on Robotics, Online, 2022" 
 p_pdf="https://ieeexplore.ieee.org/abstract/document/9893496" 
 p_bib="@article{PanZenLiYuHau22TRO, <br>
-  author={Zherong Pan and Andy Zeng and Yunzhu Li and Jingjin Yu and Kris Hauser},<br>
+  title={Algorithms and systems for manipulating multiple objects}, <br>
+  author={Pan, Zherong and Zeng, Andy and Li, Yunzhu and Yu, Jingjin and Hauser, Kris}, <br>
   journal={IEEE Transactions on Robotics}, <br>
-  title={Algorithms and Systems for Manipulating Multiple Objects},<br> 
-  year={2022},<br>
-  volume={},<br>
-  number={},<br>
-  pages={},<br>
+  volume={39}, <br>
+  number={1}, <br>
+  pages={2--20}, <br>
+  year={2022}, <br>
+  publisher={IEEE}, <br>
   doi={10.1109/TRO.2022.3197013}}" 
 %}
 
@@ -528,22 +555,6 @@ p_bib="@inproceedings{VieNakGaoWanYuBek22ICRA,<br>
   title = {Persistent Homology for Effective Non-Prehensile Manipulation},<br>
   booktitle={IEEE International Conference on Robotics and Automation},<br>
   year={2022}
-}" 
-%}
-
-{% 
-include cite.html 
-p_title="Rubik Tables and Object Rearrangement" 
-p_id="SzeYu18IJRR" 
-p_author="M. Szegedy and J. Yu" 
-p_venue="The International Journal of Robotics Research, to appear" 
-p_pdf="https://arxiv.org/pdf/2002.04979.pdf" 
-p_bib="@article{SzeYu18IJRR,<br>
-author = {Mario Szegedy and Jingjin Yu},<br>
-title ={Rubik Tables and Object Rearrangement},<br>
-journal = {The International Journal of Robotics Research},<br>
-year = 2022,<br>
-note={to appear}
 }" 
 %}
 
