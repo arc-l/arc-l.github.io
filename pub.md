@@ -59,7 +59,7 @@ p_bib="@inproceedings{ZhaYeYu25ICRA,<br>
 
 {% 
 include cite.html 
-p_title="ORLA*: Mobile Manipulator-Based Object Rearrangement with Lazy A*" 
+p_title="ORLA\*: Mobile Manipulator-Based Object Rearrangement with Lazy A\*" 
 p_id="GaoZhaDinZhaYu25ICRA" 
 p_author="K. Gao, Zhaxizhuoma, Y, Ding, S. Zhang and J. Yu" 
 p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
