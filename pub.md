@@ -106,7 +106,7 @@ include cite.html
 p_title="Expected 1.x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time" 
 p_id="GuoYu2024JAIR" 
 p_author="T Guo and J. Yu" 
-p_venue="Journal of Artificial Intelligence Research, to appear" 
+p_venue="Journal of Artificial Intelligence Research, 81, pages: 443-479, 2024" 
 p_pdf="https://arxiv.org/pdf/2408.05385"
 p_bib="@article{GuoYu2024JAIR,<br>
   title={Expected 1. x Makespan-Optimal Multi-Agent Path Finding on Grid Graphs in Low Polynomial Time},<br>
@@ -308,7 +308,7 @@ include cite.html
 p_title="Minimizing Running Buffers for Tabletop Object Rearrangement: Complexity, Fast Algorithms, and Applications" 
 p_id="GaoFenHuaYu23IJRR" 
 p_author="K. Gao, S. W. Feng, B. Huang and J. Yu" 
-p_venue="The International Journal of Robotics Research, to appear" 
+p_venue="The International Journal of Robotics Research, 42(10), pages: 755-776, 2023" 
 p_pdf="https://arxiv.org/pdf/2304.01764.pdf"
 p_bib="@article{GaoFenHuaYu23IJRR,<br>
   title={Minimizing running buffers for tabletop object rearrangement: Complexity, fast algorithms, and applications},<br>
@@ -373,7 +373,7 @@ include cite.html
 p_title="Rearrangement on Lattices with Pick-n-Swaps: Optimality Structures and Efficient Algorithms" 
 p_id="Yu23IJRR" 
 p_author="J. Yu" 
-p_venue="The International Journal of Robotics Research, to appear" 
+p_venue="The International Journal of Robotics Research, 42(10), pages: 957-973, 2023" 
 p_pdf="https://arxiv.org/pdf/2105.05366.pdf"
 p_bib="@article{Yu23IJRR, <br>
   title={Rearrangement on lattices with pick-n-swaps: Optimality structures and efficient algorithms}, <br>
@@ -393,7 +393,7 @@ include cite.html
 p_title="Rubik Tables and Object Rearrangement" 
 p_id="SzeYu18IJRR" 
 p_author="M. Szegedy and J. Yu" 
-p_venue="The International Journal of Robotics Research, to appear" 
+p_venue="The International Journal of Robotics Research, 42(6), pages: 459-472, 2023" 
 p_pdf="https://arxiv.org/pdf/2002.04979.pdf" 
 p_bib="@article{SzeYu18IJRR,<br>
   title={Rubik tables and object rearrangement},<br>
@@ -479,7 +479,7 @@ include cite.html
 p_title="Algorithms and Systems for Manipulating Multiple Objects" 
 p_id="PanZenLiYuHau22TRO" 
 p_author="Z. Pan, A. Zeng, Y. Li, J. Yu and K. Hauser" 
-p_venue="IEEE Transactions on Robotics, Online, 2022" 
+p_venue="IEEE Transactions on Robotics, 39(1), pages: 2-20, 2022" 
 p_pdf="https://ieeexplore.ieee.org/abstract/document/9893496" 
 p_bib="@article{PanZenLiYuHau22TRO, <br>
   title={Algorithms and systems for manipulating multiple objects}, <br>
