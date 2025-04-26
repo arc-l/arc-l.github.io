@@ -100,6 +100,7 @@ His Erd&#337;s number is at its limit of 2.
   
 ## Updates
 
+<b>03/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Lehigh University. <br>
 <b>02/2025</b> - Dr. Yu will continue to serve as an <a href="https://www.ieee-ras.org/membership/distinguished-lecturer-program/distinguished-lecturers-by-name">RAS Distinguished Lecture</a> for 2025-2027.<br>
 <b>01/2025</b> - Dr. Yu gave an invited talk, "Rubik Tables and O(1)-Opt Multi-Robot Path Planning Solutions in Polynomial Time", to <a href="https://www.ieee.fisat.ac.in/">𝗜𝗘𝗘𝗘 𝗥𝗔𝗦 𝗦𝗕𝗖 𝗙𝗜𝗦𝗔𝗧</a>. <br>
 <b>01/2025</b> - Four papers accepted by ICRA 2025. <br>
