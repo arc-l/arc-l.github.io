@@ -85,7 +85,7 @@ Justin Yu (Undergraduate/MS Researcher, 2023-2024)
 ### Undergraduates 
 
 Vibhu Iyer (Undergraduate Researcher, 2023-2024)   
-Marcus Gozon (University of Michigan, Summer 2023, DIMACS REU)   
+Marcus Gozon (University of Michigan, Summer 2023, DIMACS REU, going to MIT for PhD)   
 Andy Xu (Undergraduate Researcher, 2022-2023)    
 Xujia Zhang (Summer Intern from South China University of Technology, China, 2023)   
 Darren Lau (Undergraduate from Cornell, Summer 2021)  
