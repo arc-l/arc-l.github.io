@@ -87,7 +87,7 @@ videoS[7]="https://user-images.githubusercontent.com/23622170/150441654-182c76fe
 </script>
  
 <br>
-  At the <b>Algorithmic Robotics and Control Lab</b> (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
+At the <b>Algorithmic Robotics and Control Lab</b> (ARC-L), led by Dr. Jingjin Yu, we are broadly interested in understanding the optimality structures induced by practical problems in robotics/control, and exploiting the gained insight to develop efficient algorithms for tackling these problems with provable guarantees, e.g., on solution optimality. The tools we use/develop include classical combinatorial algorithms and data-driven AI/ML methods. Currently, research at ARC-L explores domains spanning multi-robot path/motion planning, object rearrangement/manipulation, multi-sensor deployment, and sensor fusion. 
    
 <b>Dr. Jingjin Yu</b> is an Associate Professor in the Department of Computer Science at Rutgers University at New Brunswick. He obtained my Ph.D. in Electrical and Computer Engineering at the University of Illinois working with [Steven M. LaValle](http://lavalle.pl/).
 Prior to joining Rutgers, Dr. Yu spent two years as a postdoctoral researcher at MIT working [Daniela Rus](https://www.csail.mit.edu/user/876) with the first year split at Boston University with [Mac Schwager](https://web.stanford.edu/~schwager/). 
@@ -97,6 +97,10 @@ He completed his undergraduate study at the University of Science and Technology
 
 Dr. Yu is a recipient of the NSF CAREER Award and the Amazon Research Award in Robotics. 
 His Erd&#337;s number is at its limit of 2.   
+
+## Prospective Students
+
+We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting, what are some of the limitations, and how you would go about doing the work better. Generic inquries about "positions" at the lab will not be answered; in particular, saying some of our work is interesting without providing details is a red flag. 
   
 ## Updates
 
@@ -190,9 +194,6 @@ based on motion models from our research on multi-robot motion planning and the 
 
 If you are looking for <a id="links" href="https://people.cs.rutgers.edu/~jy512/434F4445.html" target="_">old code</a> and/or the <a id="links" href="https://people.cs.rutgers.edu/~jy512/mvp/" target="_">microMVP micro-vehicle platform</a>, you may check out our old webpage <a id="links" href="https://people.cs.rutgers.edu/~jy512/" target="_">people.cs.rutgers.edu/~jy512/</a>, no longer updated after 07/2021. 
 
-## Prospective Students
-
-We always look to working with motivated prospective students interested in fundamental and/or applied research in robotics. If you are interested in joining the ARC Lab, please read some of our recent papers and let Dr. Yu know **why** you find them interesting, what are some of the limitations, and how you would go about doing the work better. Generic inquries about "positions" at the lab will not be answered; in particular, saying some of our work is interesting without providing details is a red flag. 
 
 
 
