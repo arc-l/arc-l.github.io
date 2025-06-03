@@ -104,6 +104,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>04/2025</b> - Marcus Gozon, a previous DIMACS REU hosted by ARCL, will join MIT for his PhD study in theoretical computer science. Congratulations, Marcus, on this great achievement! <br>
 <b>03/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Lehigh University. <br>
 <b>02/2025</b> - Dr. Yu will continue to serve as an <a href="https://www.ieee-ras.org/membership/distinguished-lecturer-program/distinguished-lecturers-by-name">RAS Distinguished Lecture</a> for 2025-2027.<br>
 <b>01/2025</b> - Dr. Yu gave an invited talk, "Rubik Tables and O(1)-Opt Multi-Robot Path Planning Solutions in Polynomial Time", to <a href="https://www.ieee.fisat.ac.in/">𝗜𝗘𝗘𝗘 𝗥𝗔𝗦 𝗦𝗕𝗖 𝗙𝗜𝗦𝗔𝗧</a>. <br>
@@ -124,6 +125,9 @@ We always look to work with motivated prospective (undergraduate and graduate) s
 <b>02/2023</b> - An extension to our RSS 2021 paper on the <a href="https://arxiv.org/pdf/2105.05366.pdf" target="_">pick-n-swap</a> manipulation primitive is accpted by IJRR. The online version is available at this <a href="https://doi.org/10.1177/02783649231153901" target="_">permanent link</a>.   <br>
 <b>01/2023</b> - Four papers accepted by ICRA 2023 (3 ICRA + 1 RA-L). <br>
 <b>01/2023</b> - Dr. Yu will serve as an associated editor for the International Journal of Robotics Research. <br>
+
+<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
+<div id='updatess' style='display:none;' value='+'>
 <b>12/2022</b> - Dr. Yu will serve as an <a href="https://www.ieee-ras.org/educational-resources-outreach/distinguished-lecturer-program/distinguished-lecturers-list">RAS Distinguished Lecture</a> starting from January 2023. A multi-part lecture on multi-robot path planning is planned for the first half of 2023. Stay tuned!<br>
 <b>11/2022</b> - Dr. Yu gave an invited talk, "Rubik Tables, Stack Rearrangement, and Multi-Robot Routing", in the <a href="http://acg.cs.tau.ac.il/cg-seminar   ">TAU CG/Robotics Seminar</a> series (online). <br>
 <b>10/2022</b> - Dr. Yu gave an invited talk, "Planning for Many Robots and Objects", at MBZUAI (online). <br>
@@ -136,9 +140,6 @@ We always look to work with motivated prospective (undergraduate and graduate) s
 <b>03/2022</b> - Dr. Yu gave an invited talk at the Rutgers ECE Efficient AI (EFAI) seminar series. <br>
 <b>03/2022</b> - One paper accepted by ICAPS 2022. <br>
 <b>02/2022</b> - Six papers accepted by ICRA 2022. <br>
-
-<a href="javascript:void(0)" onclick="sv('updatess');">earlier updates</a>
-<div id='updatess' style='display:none;' value='+'>
 <b>10/2021</b> - Our work on <a href="https://arxiv.org/pdf/2105.02857.pdf" target="_">Visual Foresight Trees</a> will appear in RA-L. <br>
 <b>10/2021</b> - Our work extending our WAFR 2020 <a href="https://arxiv.org/pdf/2002.04979.pdf" target="_">Rubik Table</a> results will appear in IJRR. <br>
 <b>09/2021</b> - Dr. Yu will be starting a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2132972&HistoricalAwards=false" target="_"> 4-year NSF National Robotics Initiative 3.0 project</a> with his colleagues Abdeslam Boularias and Mridul Aanjaneya, working on enabling mobile robots to carry out sophisticated search-n-rescue efforts in degraded environments.<br>
