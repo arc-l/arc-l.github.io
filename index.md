@@ -104,6 +104,8 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>05/2025</b> - Teng Guo successfully defended his Ph.D. thesis. Congratulations, Dr. Guo! <br>
+<b>05/2025</b> - Baichuan Huang successfully defended his Ph.D. thesis. Congratulations, Dr. Huang! <br>
 <b>04/2025</b> - Marcus Gozon, a previous DIMACS REU hosted by ARCL, will join MIT for his PhD study in theoretical computer science. Congratulations, Marcus, on this great achievement! <br>
 <b>03/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Lehigh University. <br>
 <b>02/2025</b> - Dr. Yu will continue to serve as an <a href="https://www.ieee-ras.org/membership/distinguished-lecturer-program/distinguished-lecturers-by-name">RAS Distinguished Lecture</a> for 2025-2027.<br>
