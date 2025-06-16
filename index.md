@@ -104,6 +104,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>06/2025</b> - Three papers accepted by IROS 2025. <br>
 <b>05/2025</b> - Teng Guo successfully defended his Ph.D. thesis. Congratulations, Dr. Guo! <br>
 <b>05/2025</b> - Baichuan Huang successfully defended his Ph.D. thesis. Congratulations, Dr. Huang! <br>
 <b>04/2025</b> - Marcus Gozon, a previous DIMACS REU hosted by ARCL, will join MIT for his PhD study in theoretical computer science. Congratulations, Marcus, on this great achievement! <br>
