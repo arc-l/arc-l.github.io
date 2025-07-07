@@ -104,6 +104,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>06/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Shanghai Jiaotong University. <br>
 <b>06/2025</b> - Three papers accepted by IROS 2025. <br>
 <b>05/2025</b> - Teng Guo successfully defended his Ph.D. thesis. Congratulations, Dr. Guo! <br>
 <b>05/2025</b> - Baichuan Huang successfully defended his Ph.D. thesis. Congratulations, Dr. Huang! <br>
