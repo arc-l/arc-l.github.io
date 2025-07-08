@@ -94,6 +94,7 @@ p_title="Asymptotically-Optimal Multi-Query Path Planning for a Polygonal Robot"
 p_id="ZhaYeYu25ICRA" 
 p_author="D. Zhang, Z. Ye and J. Yu" 
 p_venue="2025 IEEE International Conference on Robotics and Automation (ICRA 2025)" 
+p_pdf="https://www.arxiv.org/pdf/2409.03920"
 p_bib="@inproceedings{ZhaYeYu25ICRA,<br>
   author = {Duo Zhang and Zihe Ye and Jingjin Yu},<br>
   title = {Asymptotically-Optimal Multi-Query Path Planning for a Polygonal Robot},<br>
