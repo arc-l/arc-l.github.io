@@ -30,6 +30,48 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping" 
+p_id="BoyBouYu25IROS" 
+p_author="K. Boyalakuntla, A. Boularias, and J. Yu" 
+p_venue="2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)" 
+p_bib="@InProceedings{BoyBouYu25IROS,<br>
+  author={Kowndinya Boyalakuntla and Abdeslam Boularias and Jingjin Yu},<br>
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping},<br> 
+  year={2025},<br>
+  }" 
+%}
+
+{% 
+include cite.html 
+p_title="RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking" 
+p_id="GuoYu25IROS" 
+p_author="Teng Guo, Jingjin Yu" 
+p_venue="2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)" 
+p_bib="@InProceedings{GuoYu25IROS,<br>
+  author={Teng Guo and Jingjin Yu},<br>
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={RGBTrack: Fast, Robust Depth-Free 6D Pose Estimation and Tracking},<br> 
+  year={2025},<br>
+  }" 
+%}
+
+{% 
+include cite.html 
+p_title="Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping" 
+p_id="GuoHuaYu25IROS" 
+p_author="T. Guo, B. Huang, and J. Yu" 
+p_venue="2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)" 
+p_bib="@InProceedings{GuoHuaYu25IROS,<br>
+  author={Teng Guo and Baichuan Huang and Jingjin Yu},<br>
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
+  title={Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping},<br> 
+  year={2025},<br>
+  }" 
+%}
+
+{% 
+include cite.html 
 p_title="Targeted Parallelization of Conflict-Based Search for Multi-Robot Path Planning" 
 p_id="GuoYu25ICRA" 
 p_author="T. Guo and J. Yu" 
