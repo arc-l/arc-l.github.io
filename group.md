@@ -38,7 +38,7 @@
       {% include image.html url="/assets/images/we.png" description="Litao Liu, Ph.D. Student" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/we.png" description="Jingtong Li, Ph.D. Student" link="https://baichuan05.github.io/" %}
+      {% include image.html url="/assets/images/we.png" description="Jingtong Li, Ph.D. Student" %}
     </td>
   </tr>
   <tr style="border: none!important;">
