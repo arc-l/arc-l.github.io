@@ -28,23 +28,24 @@
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/kai.png" description="Kai Gao, Ph.D. Candidate" link="https://gaokai15.github.io" %}
+      {% include image.html url="/assets/images/kowndi.png" description="Kowndinya Boyalakuntla, Ph.D. Student" link="https://kowndinya2000.github.io/" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/baichuan.png" description="Baichuan Huang, Ph.D. Candidate" link="https://baichuan05.github.io/" %}
+      {% include image.html url="/assets/images/junshan_huang.png" description="Kai Gao, Ph.D. Student" link="https://junshanhuang.com/" %}
     </td>
   </tr>
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/teng.png" description="Teng Guo, Ph.D. Candidate" %}  
+      {% include image.html url="/assets/images/we.png" description="Litao Liu, Ph.D. Student" %}  
     </td>
+    <td style="border: none!important;">
+      {% include image.html url="/assets/images/we.png" description="Jingtong Li, Ph.D. Student" link="https://baichuan05.github.io/" %}
+    </td>
+  </tr>
+
+  <tr style="border: none!important;">
     <td style="border: none!important;">
       {% include image.html url="/assets/images/duo.png" description="Duo Zhang, Ph.D. Student" %}  
-    </td>
-  </tr>
-  <tr style="border: none!important;">
-    <td style="border: none!important;">
-      {% include image.html url="/assets/images/kowndi.png" description="Kowndinya Boyalakuntla, Ph.D. Student" link="https://kowndinya2000.github.io/" %}  
     </td>
     <td style="border: none!important;">&nbsp;</td>
   </tr>
