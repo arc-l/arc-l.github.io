@@ -154,7 +154,7 @@ include cite.html
 p_title="SEAC: A Simultaneous Exploration and Coverage Planner for Online Aerial 3-D Modeling" 
 p_id="ZhaZhaDonLiXiWanWanYu25Robotica" 
 p_author="S. Zhang, et al." 
-p_venue="Robotica" 
+p_venue="Robotica, 43(8), pages: 2855-2871, 2025" 
 p_bib="@article{ZhaZhaDonLiXiWanWanYu25Robotica,
   title={SEAC: A Simultaneous Exploration and Coverage Planner for Online Aerial 3-D Modeling},<br>
   author={Zhang, Shiyong and Zhang, Xuebo and Dong, Qianli and Li, Tianyi and Xi, Haobo and Wang, Ziyu and Wang, Chaoqun and Yu, Jingjin},<br>
