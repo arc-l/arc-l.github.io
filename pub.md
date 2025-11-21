@@ -26,6 +26,23 @@ p_bib=""
 %}
 -->
 
+## 2026
+
+{% 
+include cite.html 
+p_title="Robust Out-of-Order Retrieval for Grid-Based Storage at Maximum Capacity" 
+p_id="GefYuBek26AAAI" 
+p_author="Tzvika Geft, William Zhang, Jingjin Yu, and Kostas Bekris" 
+p_venue="The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)" 
+p_bib="@InProceedings{GefYuBek26AAAI,<br>
+author = {Tzvika Geft and William Zhang and Jingjin Yu and Kostas Bekris},<br>
+title = {Robust Out-of-Order Retrieval for Grid-Based Storage at Maximum Capacity},<br>
+year = {2026},<br>
+publisher = {AAAI Press},<br>
+booktitle = {Proceedings of The Fortieth AAAI Conference on Artificial Intelligence},<br>
+}" 
+%}
+
 ## 2025
 
 {% 
@@ -39,8 +56,7 @@ p_bib="@InProceedings{BoyBouYu25IROS,<br>
   author={Kowndinya Boyalakuntla and Abdeslam Boularias and Jingjin Yu},<br>
   booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},<br> 
   title={KARL: Kalman-Filter Assisted Reinforcement Learner for Dynamic Object Tracking and Grasping},<br> 
-  year={2025},<br>
-  }" 
+  year={2025}}" 
 %}
 
 {% 
@@ -130,6 +146,24 @@ p_bib="@inproceedings{RamSivKesBekYuBou25ICRA,<br>
   title = {PROBE: Proprioceptive Obstacle Detection and Estimation while Navigating in Clutter},<br>
   booktitle={IEEE International Conference on Robotics and Automation},<br>
   year={2025}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="SEAC: A Simultaneous Exploration and Coverage Planner for Online Aerial 3-D Modeling" 
+p_id="ZhaZhaDonLiXiWanWanYu25Robotica" 
+p_author="S. Zhang, et al." 
+p_venue="Robotica" 
+p_bib="@article{ZhaZhaDonLiXiWanWanYu25Robotica,
+  title={SEAC: A Simultaneous Exploration and Coverage Planner for Online Aerial 3-D Modeling},<br>
+  author={Zhang, Shiyong and Zhang, Xuebo and Dong, Qianli and Li, Tianyi and Xi, Haobo and Wang, Ziyu and Wang, Chaoqun and Yu, Jingjin},<br>
+  journal={Robotica},<br>
+  volume={43},<br>
+  number={8},<br>
+  pages={2855--2871},<br>
+  year={2025},<br>
+  publisher={Cambridge University Press}
 }" 
 %}
 
