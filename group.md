@@ -18,8 +18,7 @@
 <table border="0"  style="border: none!important;">
   <tr style="border: none!important;">
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/tzvika.png" description="Tzvika Geft, Postdoctoral Scholar" link="https://sites.google.com/view/tzvikageft/home" %}  
-    </td>
+      {% include image.html url="/assets/images/tzvika.png" description="Tzvika Geft, Postdoctoral Scholar" link="https://sites.google.com/view/tzvikageft/home" %}      </td>
     <td style="border: none!important;">&nbsp;</td>
   </tr>
 </table>
@@ -31,7 +30,7 @@
       {% include image.html url="/assets/images/kowndi.png" description="Kowndinya Boyalakuntla, Ph.D. Student" link="https://kowndinya2000.github.io/" %}  
     </td>
     <td style="border: none!important;">
-      {% include image.html url="/assets/images/junshan_huang.png" description="Kai Gao, Ph.D. Student" link="https://junshanhuang.com/" %}
+      {% include image.html url="/assets/images/junshan_huang.png" description="Junshan Huang, Ph.D. Student" link="https://junshanhuang.com/" %}
     </td>
   </tr>
   <tr style="border: none!important;">
@@ -42,7 +41,6 @@
       {% include image.html url="/assets/images/we.png" description="Jingtong Li, Ph.D. Student" link="https://baichuan05.github.io/" %}
     </td>
   </tr>
-
   <tr style="border: none!important;">
     <td style="border: none!important;">
       {% include image.html url="/assets/images/duo.png" description="Duo Zhang, Ph.D. Student" %}  
