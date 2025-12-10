@@ -73,13 +73,16 @@ Eric He (Caltech, Undergraduate Researcher, 2024-)
 
 Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017-2018)
 
-### Graduate Students
+### PhD
 
 Teng Guo (Ph.D. in Computer Science, 2025, now at Amazon Midea)   
 Kai Gao (Ph.D. in Computer Science, 2025, now at Amazon Robotics)   
 Baichuan Huang (Ph.D. in Computer Science, 2025, now at Coupang)   
 Siwei Feng (Ph.D. in Computer Science, 2023, now at Autel Robotics)   
 Shuai D. Han (Ph.D. in Computer Science, 2021, now at Amazon Robotics)   
+
+### MS 
+
 Tanay Punjabi (MS in Computer Science, 2023)   
 Wei Tang (MS in Computer Science, 2020)
 Justin Yu (Undergraduate/MS Researcher, 2023-2024)  
