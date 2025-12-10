@@ -75,7 +75,7 @@ Nicholas M. Stiffler (Postdoctoral Scholar, jointly hosted w/ Prof. Bekris, 2017
 
 ### PhD
 
-Teng Guo (Ph.D. in Computer Science, 2025, now at Amazon Midea)   
+Teng Guo (Ph.D. in Computer Science, 2025, now at Midea)   
 Kai Gao (Ph.D. in Computer Science, 2025, now at Amazon Robotics)   
 Baichuan Huang (Ph.D. in Computer Science, 2025, now at Coupang)   
 Siwei Feng (Ph.D. in Computer Science, 2023, now at Autel Robotics)   
