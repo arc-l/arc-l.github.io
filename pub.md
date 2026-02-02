@@ -34,6 +34,7 @@ p_title="Robust Out-of-Order Retrieval for Grid-Based Storage at Maximum Capacit
 p_id="GefYuBek26AAAI" 
 p_author="Tzvika Geft, William Zhang, Jingjin Yu, and Kostas Bekris" 
 p_venue="The Fortieth AAAI Conference on Artificial Intelligence (AAAI-26)" 
+p_pdf="https://arxiv.org/pdf/2601.19144"
 p_bib="@InProceedings{GefYuBek26AAAI,<br>
 author = {Tzvika Geft and William Zhang and Jingjin Yu and Kostas Bekris},<br>
 title = {Robust Out-of-Order Retrieval for Grid-Based Storage at Maximum Capacity},<br>
