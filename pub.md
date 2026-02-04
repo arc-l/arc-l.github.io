@@ -47,7 +47,7 @@ p_bib="@inproceedings{ZhaHuaYu26ICRA,<br>
 include cite.html 
 p_title="AnyGeometry-CBS: Any Geometry Conflict-Based Search for Multi-Agent Path Finding" 
 p_id="ZhaYeYu25ICRA" 
-p_author="Y. Li, X. Zhang, J. Yu and Yaonan Wang" 
+p_author="Y. Li, X. Zhang, J. Yu and Y. Wang" 
 p_venue="2026 IEEE International Conference on Robotics and Automation (ICRA 2026)" 
 p_bib="@inproceedings{ZhaYeYu25ICRA,<br>
   author = {Yichen Li and Xuebo Zhang and Jingjin Yu and Yaonan Wang},<br>
