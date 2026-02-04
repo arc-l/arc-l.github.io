@@ -30,6 +30,35 @@ p_bib=""
 
 {% 
 include cite.html 
+p_title="High-Performance Dual-Arm Task and Motion Planning for Tabletop Rearrangement" 
+p_id="ZhaHuaYu26ICRA" 
+p_author="D. Zhang, J. Huang, and J. Yu" 
+p_venue="2026 IEEE International Conference on Robotics and Automation (ICRA 2026)" 
+p_pdf="https://arxiv.org/pdf/2512.08206"
+p_bib="@inproceedings{ZhaHuaYu26ICRA,<br>
+  author = {Duo Zhang and Junshan Huang and Jingjin Yu},<br>
+  title = {High-Performance Dual-Arm Task and Motion Planning for Tabletop Rearrangement},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2026}
+}" 
+%}
+
+{% 
+include cite.html 
+p_title="AnyGeometry-CBS: Any Geometry Conflict-Based Search for Multi-Agent Path Finding" 
+p_id="ZhaYeYu25ICRA" 
+p_author="Y. Li, X. Zhang, J. Yu and Yaonan Wang" 
+p_venue="2026 IEEE International Conference on Robotics and Automation (ICRA 2026)" 
+p_bib="@inproceedings{ZhaYeYu25ICRA,<br>
+  author = {Yichen Li and Xuebo Zhang and Jingjin Yu and Yaonan Wang},<br>
+  title = {AnyGeometry-CBS: Any Geometry Conflict-Based Search for Multi-Agent Path Finding},<br>
+  booktitle={IEEE International Conference on Robotics and Automation},<br>
+  year={2026}
+}" 
+%}
+
+{% 
+include cite.html 
 p_title="Robust Out-of-Order Retrieval for Grid-Based Storage at Maximum Capacity" 
 p_id="GefYuBek26AAAI" 
 p_author="Tzvika Geft, William Zhang, Jingjin Yu, and Kostas Bekris" 
