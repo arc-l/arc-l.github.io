@@ -104,6 +104,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>04/2026</b> - One paper accepted by WAFR 2026. <br>
 <b>02/2026</b> - One paper accepted by ICAPS 2026. <br>
 <b>01/2026</b> - Two papers accepted by ICRA 2026. <br>
 <b>06/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Shanghai Jiaotong University. <br>
