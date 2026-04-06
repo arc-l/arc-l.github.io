@@ -95,7 +95,7 @@ Dr. Yu also stayed briefly at the Coordinated Science Laboratory at the Universi
 [Soon-Jo Chung](http://www.eas.caltech.edu/people/sjchung) and [Petros G. Voulgaris](https://www.unr.edu/me/people/petros-voulgaris).
 He completed his undergraduate studies at the University of Science and Technology of China (USTC).
 
-Dr. Yu is a recipient of the NSF CAREER Award and the Amazon Research Award in Robotics. 
+Dr. Yu is a recipient of the NSF CAREER Award, the Amazon Research Award in Robotics, and the NVidia Academic grant.
 His Erd&#337;s number is at its limit of 2.   
 
 ## Prospective Students
@@ -106,6 +106,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
 
 <b>04/2026</b> - One paper accepted by WAFR 2026. <br>
 <b>03/2026</b> - Dr. Yu gave an invited talk, "Algorithmic Foundations Enabling Scalable High-Density Logistics", at the DIMACS/CCICADA Workshop on AI Powered Automation at Ports. <br>
+<b>02/2026</b> - Our lab received the Nvidia Academic Grant. <br>
 <b>02/2026</b> - One paper accepted by ICAPS 2026. <br>
 <b>01/2026</b> - Two papers accepted by ICRA 2026. <br>
 <b>06/2025</b> - Dr. Yu gave an invited talk, "Toward Efficiently and Optimally Solving Long-Horizon Combinatorial Planning Challenges ", at Shanghai Jiaotong University. <br>
