@@ -104,6 +104,7 @@ We always look to work with motivated prospective (undergraduate and graduate) s
   
 ## Updates
 
+<b>04/2026</b> - Dr. Yu gave a keynote talk, "Mastering the Physical World: Advancing Vision, Learning, and Control in Embodied AI", at the 2026 China Humanoid Robot Ecology Conference and Expo in Shanghai, China. <br>
 <b>04/2026</b> - One paper accepted by WAFR 2026. <br>
 <b>03/2026</b> - Dr. Yu gave an invited talk, "Algorithmic Foundations Enabling Scalable High-Density Logistics", at the DIMACS/CCICADA Workshop on AI-Powered Automation at Ports. <br>
 <b>02/2026</b> - Our lab received the Nvidia Academic Grant. <br>
